@@ -1,0 +1,311 @@
+{
+  "character": "Hatchling",
+  "standingHeight": 80,
+  "url": "assets/hatchlings/hatchling-atlas.png?v=2198ceee0de0",
+  "sha256": "2198ceee0de0b8694fd553c2d30b33060507f9666458ef97d9467e9e98beb5d1",
+  "frameWidth": 489,
+  "frameHeight": 343,
+  "frames": [
+    {
+      "frame": 0,
+      "scale": 0.321285140562249,
+      "originX": 0.5603271983640081,
+      "originY": 0.8309037900874635,
+      "pixels": 42451,
+      "bounds": {
+        "l": 56,
+        "t": 12,
+        "r": 356,
+        "b": 260
+      },
+      "bodyX": 250,
+      "headSpan": 106
+    },
+    {
+      "frame": 1,
+      "scale": 0.321285140562249,
+      "originX": 0.3824130879345603,
+      "originY": 0.7900874635568513,
+      "pixels": 37975,
+      "bounds": {
+        "l": 444,
+        "t": 16,
+        "r": 712,
+        "b": 259
+      },
+      "bodyX": 605,
+      "headSpan": 106
+    },
+    {
+      "frame": 2,
+      "scale": 0.26197096076614146,
+      "originX": 0.556237218813906,
+      "originY": 0.6151603498542274,
+      "pixels": 29112,
+      "bounds": {
+        "l": 734,
+        "t": 134,
+        "r": 1153,
+        "b": 245
+      },
+      "bodyX": 980,
+      "headSpan": 130
+    },
+    {
+      "frame": 3,
+      "scale": 0.2660642570281124,
+      "originX": 0.4274028629856851,
+      "originY": 0.7259475218658892,
+      "pixels": 24781,
+      "bounds": {
+        "l": 1169,
+        "t": 146,
+        "r": 1526,
+        "b": 248
+      },
+      "bodyX": 1350,
+      "headSpan": 128
+    },
+    {
+      "frame": 4,
+      "scale": 0.2660642570281124,
+      "originX": 0.4703476482617587,
+      "originY": 0.5743440233236151,
+      "pixels": 28153,
+      "bounds": {
+        "l": 27,
+        "t": 344,
+        "r": 400,
+        "b": 481
+      },
+      "bodyX": 230,
+      "headSpan": 128
+    },
+    {
+      "frame": 5,
+      "scale": 0.26197096076614146,
+      "originX": 0.49693251533742333,
+      "originY": 0.5568513119533528,
+      "pixels": 30286,
+      "bounds": {
+        "l": 415,
+        "t": 365,
+        "r": 810,
+        "b": 486
+      },
+      "bodyX": 630,
+      "headSpan": 130
+    },
+    {
+      "frame": 6,
+      "scale": 0.2961410860834643,
+      "originX": 0.3783231083844581,
+      "originY": 0.6530612244897959,
+      "pixels": 33378,
+      "bounds": {
+        "l": 829,
+        "t": 344,
+        "r": 1125,
+        "b": 494
+      },
+      "bodyX": 985,
+      "headSpan": 115
+    },
+    {
+      "frame": 7,
+      "scale": 0.3243449990437942,
+      "originX": 0.3987730061349693,
+      "originY": 0.7725947521865889,
+      "pixels": 42250,
+      "bounds": {
+        "l": 1217,
+        "t": 268,
+        "r": 1484,
+        "b": 503
+      },
+      "bodyX": 1380,
+      "headSpan": 105
+    },
+    {
+      "frame": 8,
+      "scale": 0.26197096076614146,
+      "originX": 0.5378323108384458,
+      "originY": 0.5393586005830904,
+      "pixels": 30087,
+      "bounds": {
+        "l": 21,
+        "t": 521,
+        "r": 405,
+        "b": 666
+      },
+      "bodyX": 255,
+      "headSpan": 130
+    },
+    {
+      "frame": 9,
+      "scale": 0.2522683325896177,
+      "originX": 0.5644171779141104,
+      "originY": 0.6268221574344023,
+      "pixels": 36339,
+      "bounds": {
+        "l": 408,
+        "t": 517,
+        "r": 817,
+        "b": 701
+      },
+      "bodyX": 660,
+      "headSpan": 135
+    },
+    {
+      "frame": 10,
+      "scale": 0.2580017037848363,
+      "originX": 0.5357873210633947,
+      "originY": 0.521865889212828,
+      "pixels": 29972,
+      "bounds": {
+        "l": 825,
+        "t": 557,
+        "r": 1188,
+        "b": 707
+      },
+      "bodyX": 1060,
+      "headSpan": 132
+    },
+    {
+      "frame": 11,
+      "scale": 0.30960204454180357,
+      "originX": 0.4560327198364008,
+      "originY": 0.6180758017492711,
+      "pixels": 35723,
+      "bounds": {
+        "l": 1216,
+        "t": 575,
+        "r": 1520,
+        "b": 740
+      },
+      "bodyX": 1390,
+      "headSpan": 110
+    },
+    {
+      "frame": 12,
+      "scale": 0.37840249888442656,
+      "originX": 0.3803680981595092,
+      "originY": 0.8396501457725948,
+      "pixels": 43026,
+      "bounds": {
+        "l": 50,
+        "t": 719,
+        "r": 324,
+        "b": 978
+      },
+      "bodyX": 210,
+      "headSpan": 90
+    },
+    {
+      "frame": 13,
+      "scale": 0.3338845578391999,
+      "originX": 0.46421267893660534,
+      "originY": 0.8396501457725948,
+      "pixels": 41128,
+      "bounds": {
+        "l": 408,
+        "t": 727,
+        "r": 685,
+        "b": 978
+      },
+      "bodyX": 580,
+      "headSpan": 102
+    },
+    {
+      "frame": 14,
+      "scale": 0.30407343660355707,
+      "originX": 0.5705521472392638,
+      "originY": 0.6501457725947521,
+      "pixels": 33830,
+      "bounds": {
+        "l": 716,
+        "t": 812,
+        "r": 1089,
+        "b": 961
+      },
+      "bodyX": 960,
+      "headSpan": 112
+    },
+    {
+      "frame": 15,
+      "scale": 0.3405622489959839,
+      "originX": 0.5664621676891616,
+      "originY": 0.5276967930029155,
+      "pixels": 27834,
+      "bounds": {
+        "l": 1077,
+        "t": 873,
+        "r": 1515,
+        "b": 963
+      },
+      "bodyX": 1330,
+      "headSpan": 100
+    }
+  ],
+  "animations": {
+    "idle": {
+      "frames": [
+        0
+      ],
+      "frameRate": 2,
+      "repeat": -1
+    },
+    "walk": {
+      "frames": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "frameRate": 10,
+      "repeat": -1
+    },
+    "bite": {
+      "frames": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "durations": [
+        160,
+        120,
+        120,
+        200,
+        160,
+        240
+      ],
+      "frameRate": 6,
+      "repeat": 0
+    },
+    "hit": {
+      "frames": [
+        12,
+        13
+      ],
+      "frameRate": 4,
+      "repeat": 0
+    },
+    "death": {
+      "frames": [
+        14,
+        15
+      ],
+      "frameRate": 4,
+      "repeat": 0
+    }
+  },
+  "validation": {
+    "sourcePixels": 546325,
+    "preservedPixels": 546325,
+    "gutter": 24,
+    "boundary": 0
+  }
+}
