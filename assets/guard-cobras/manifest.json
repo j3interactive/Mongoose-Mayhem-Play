@@ -1,0 +1,109 @@
+{
+  "character": "Guard Cobra",
+  "hatchlingScale": 0.321285140562249,
+  "hatchlingOriginX": 0.5603271983640081,
+  "hatchlingOriginY": 0.8309037900874635,
+  "standingHeight": 100,
+  "url": "assets/guard-cobras/guard-cobra-atlas.png?v=4dccc418aa3f",
+  "sha256": "4dccc418aa3f121e23931d6bc90c180487e8b97bd0ccb55d47d3b59bbc59fa2a",
+  "frameWidth": 673,
+  "frameHeight": 703,
+  "frames": [
+    {
+      "frame": 0,
+      "scale": 0.20618556701030927,
+      "originX": 0.4725111441307578,
+      "originY": 0.7268847795163584,
+      "pixels": 143712,
+      "bounds": {
+        "l": 32,
+        "t": 42,
+        "r": 509,
+        "b": 526
+      },
+      "bodyX": 315,
+      "headSpan": 210
+    },
+    {
+      "frame": 1,
+      "scale": 0.19681349578256793,
+      "originX": 0.424962852897474,
+      "originY": 0.6500711237553343,
+      "pixels": 133677,
+      "bounds": {
+        "l": 565,
+        "t": 96,
+        "r": 1039,
+        "b": 526
+      },
+      "bodyX": 825,
+      "headSpan": 220
+    },
+    {
+      "frame": 2,
+      "scale": 0.20816812053925454,
+      "originX": 0.4413075780089153,
+      "originY": 0.7596017069701281,
+      "pixels": 134100,
+      "bounds": {
+        "l": 1081,
+        "t": 48,
+        "r": 1511,
+        "b": 524
+      },
+      "bodyX": 1330,
+      "headSpan": 208
+    },
+    {
+      "frame": 3,
+      "scale": 0.21649484536082472,
+      "originX": 0.4101040118870728,
+      "originY": 0.615931721194879,
+      "pixels": 104466,
+      "bounds": {
+        "l": 25,
+        "t": 579,
+        "r": 450,
+        "b": 963
+      },
+      "bodyX": 275,
+      "headSpan": 200
+    },
+    {
+      "frame": 4,
+      "scale": 0.28865979381443296,
+      "originX": 0.4175334323922734,
+      "originY": 0.5320056899004267,
+      "pixels": 80997,
+      "bounds": {
+        "l": 468,
+        "t": 691,
+        "r": 950,
+        "b": 962
+      },
+      "bodyX": 720,
+      "headSpan": 150
+    },
+    {
+      "frame": 5,
+      "scale": 0.24742268041237112,
+      "originX": 0.5141158989598811,
+      "originY": 0.46372688477951635,
+      "pixels": 57646,
+      "bounds": {
+        "l": 888,
+        "t": 816,
+        "r": 1508,
+        "b": 972
+      },
+      "bodyX": 1210,
+      "headSpan": 175
+    }
+  ],
+  "validation": {
+    "sourcePixels": 654598,
+    "preservedPixels": 654598,
+    "gutter": 24,
+    "boundary": 0
+  }
+}
