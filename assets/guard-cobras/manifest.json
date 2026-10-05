@@ -4,10 +4,12 @@
   "hatchlingOriginX": 0.5603271983640081,
   "hatchlingOriginY": 0.8309037900874635,
   "standingHeight": 100,
-  "url": "assets/guard-cobras/guard-cobra-atlas.png?v=4dccc418aa3f",
-  "sha256": "4dccc418aa3f121e23931d6bc90c180487e8b97bd0ccb55d47d3b59bbc59fa2a",
+  "url": "assets/guard-cobras/guard-cobra-atlas.png?v=a3e1fda14aeb",
+  "sha256": "a3e1fda14aeb342e8317b9349982fd31d321ce6007dc25e461873b98b1ee12d3",
   "frameWidth": 673,
   "frameHeight": 703,
+  "columns": 4,
+  "rows": 4,
   "frames": [
     {
       "frame": 0,
@@ -22,7 +24,8 @@
         "b": 526
       },
       "bodyX": 315,
-      "headSpan": 210
+      "headSpan": 210,
+      "sourceSheet": "guard-cobras.png"
     },
     {
       "frame": 1,
@@ -37,7 +40,8 @@
         "b": 526
       },
       "bodyX": 825,
-      "headSpan": 220
+      "headSpan": 220,
+      "sourceSheet": "guard-cobras.png"
     },
     {
       "frame": 2,
@@ -52,7 +56,8 @@
         "b": 524
       },
       "bodyX": 1330,
-      "headSpan": 208
+      "headSpan": 208,
+      "sourceSheet": "guard-cobras.png"
     },
     {
       "frame": 3,
@@ -67,7 +72,8 @@
         "b": 963
       },
       "bodyX": 275,
-      "headSpan": 200
+      "headSpan": 200,
+      "sourceSheet": "guard-cobras.png"
     },
     {
       "frame": 4,
@@ -82,7 +88,8 @@
         "b": 962
       },
       "bodyX": 720,
-      "headSpan": 150
+      "headSpan": 150,
+      "sourceSheet": "guard-cobras.png"
     },
     {
       "frame": 5,
@@ -97,12 +104,141 @@
         "b": 972
       },
       "bodyX": 1210,
-      "headSpan": 175
+      "headSpan": 175,
+      "sourceSheet": "guard-cobras.png"
+    },
+    {
+      "frame": 6,
+      "scale": 0.2706185567010309,
+      "originX": 0.4115898959881129,
+      "originY": 0.6785206258890469,
+      "pixels": 93451,
+      "bounds": {
+        "l": 23,
+        "t": 127,
+        "r": 427,
+        "b": 495
+      },
+      "bodyX": 270,
+      "headSpan": 160,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 7,
+      "scale": 0.2706185567010309,
+      "originX": 0.3521545319465082,
+      "originY": 0.566145092460882,
+      "pixels": 89318,
+      "bounds": {
+        "l": 450,
+        "t": 128,
+        "r": 800,
+        "b": 499
+      },
+      "bodyX": 650,
+      "headSpan": 160,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 8,
+      "scale": 0.2706185567010309,
+      "originX": 0.2823179791976226,
+      "originY": 0.5647226173541963,
+      "pixels": 84341,
+      "bounds": {
+        "l": 842,
+        "t": 128,
+        "r": 1164,
+        "b": 498
+      },
+      "bodyX": 1005,
+      "headSpan": 160,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 9,
+      "scale": 0.2706185567010309,
+      "originX": 0.34026745913818723,
+      "originY": 0.5732574679943101,
+      "pixels": 83789,
+      "bounds": {
+        "l": 1187,
+        "t": 128,
+        "r": 1526,
+        "b": 504
+      },
+      "bodyX": 1390,
+      "headSpan": 160,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 10,
+      "scale": 0.28865979381443296,
+      "originX": 0.3209509658246657,
+      "originY": 0.5007112375533428,
+      "pixels": 75216,
+      "bounds": {
+        "l": 20,
+        "t": 613,
+        "r": 352,
+        "b": 934
+      },
+      "bodyX": 210,
+      "headSpan": 150,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 11,
+      "scale": 0.28865979381443296,
+      "originX": 0.3684992570579495,
+      "originY": 0.45376955903271693,
+      "pixels": 77946,
+      "bounds": {
+        "l": 346,
+        "t": 648,
+        "r": 808,
+        "b": 934
+      },
+      "bodyX": 570,
+      "headSpan": 150,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 12,
+      "scale": 0.28865979381443296,
+      "originX": 0.39821693907875183,
+      "originY": 0.4167852062588905,
+      "pixels": 69275,
+      "bounds": {
+        "l": 691,
+        "t": 674,
+        "r": 1207,
+        "b": 939
+      },
+      "bodyX": 935,
+      "headSpan": 150,
+      "sourceSheet": "guard-cobra-motion.png"
+    },
+    {
+      "frame": 13,
+      "scale": 0.2706185567010309,
+      "originX": 0.36701337295690933,
+      "originY": 0.5490753911806543,
+      "pixels": 84836,
+      "bounds": {
+        "l": 1199,
+        "t": 576,
+        "r": 1526,
+        "b": 935
+      },
+      "bodyX": 1390,
+      "headSpan": 160,
+      "sourceSheet": "guard-cobra-motion.png"
     }
   ],
   "validation": {
-    "sourcePixels": 654598,
-    "preservedPixels": 654598,
+    "sourcePixels": 1312770,
+    "preservedPixels": 1312770,
     "gutter": 24,
     "boundary": 0
   }
