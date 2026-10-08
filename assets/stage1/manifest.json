@@ -1,0 +1,55 @@
+{
+  "stage": "Festival Night",
+  "batch": "1 plus campaign UI",
+  "nativeResolution": {
+    "width": 640,
+    "height": 360
+  },
+  "stageWidth": 7680,
+  "palette": "palette.json",
+  "files": [
+    {
+      "file": "stage1_sky_dusk.png",
+      "width": 640,
+      "height": 360,
+      "frameCount": 1,
+      "description": "Opaque dusk sky with orange and magenta fireworks."
+    },
+    {
+      "file": "stage1_sky_night.png",
+      "width": 640,
+      "height": 360,
+      "frameCount": 1,
+      "description": "Opaque night sky with orange and magenta fireworks."
+    },
+    {
+      "file": "stage1_skyline.png",
+      "width": 1280,
+      "height": 360,
+      "frameCount": 1,
+      "description": "Seamless transparent Sundara skyline with green coiled-snake Kraitworks Tower."
+    },
+    {
+      "file": "stage1_ui_title.png",
+      "width": 320,
+      "height": 80,
+      "frameCount": 1,
+      "description": "Stage 1 Festival Night title plaque."
+    },
+    {
+      "file": "stage1_ui_go.png",
+      "width": 64,
+      "height": 32,
+      "frameCount": 1,
+      "description": "Flashing GO arrow for cleared encounter exits."
+    },
+    {
+      "file": "stage1_ui_boss_banner.png",
+      "width": 400,
+      "height": 64,
+      "frameCount": 1,
+      "description": "Snake and lantern boss-health frame with separate live name and health fill."
+    }
+  ],
+  "screenCount": 12
+}
