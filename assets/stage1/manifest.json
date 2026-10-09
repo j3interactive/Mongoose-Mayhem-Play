@@ -79,19 +79,19 @@
     },
     {
       "file": "stage1_prop_lantern_whole.png",
-      "width": 48,
+      "width": 256,
       "height": 192,
       "frameCount": 1,
-      "frameWidth": 48,
+      "frameWidth": 256,
       "frameHeight": 192,
       "description": "stage1 prop lantern whole."
     },
     {
       "file": "stage1_prop_lantern_broken.png",
-      "width": 48,
+      "width": 256,
       "height": 192,
       "frameCount": 1,
-      "frameWidth": 48,
+      "frameWidth": 256,
       "frameHeight": 192,
       "description": "stage1 prop lantern broken."
     },
