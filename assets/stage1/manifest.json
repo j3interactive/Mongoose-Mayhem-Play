@@ -13,14 +13,14 @@
       "width": 640,
       "height": 360,
       "frameCount": 1,
-      "description": "Opaque dusk sky with orange and magenta fireworks."
+      "description": "Opaque dusk sky with clouds and stars; fireworks are animated at runtime."
     },
     {
       "file": "stage1_sky_night.png",
       "width": 640,
       "height": 360,
       "frameCount": 1,
-      "description": "Opaque night sky with orange and magenta fireworks."
+      "description": "Opaque night sky with clouds and stars; fireworks are animated at runtime."
     },
     {
       "file": "stage1_skyline.png",
