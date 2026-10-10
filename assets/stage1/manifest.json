@@ -313,10 +313,10 @@
     },
     {
       "file": "stage1_landmark_bandstand.png",
-      "width": 720,
-      "height": 288,
-      "nativeWidth": 360,
-      "nativeHeight": 144,
+      "width": 1120,
+      "height": 400,
+      "nativeWidth": 560,
+      "nativeHeight": 200,
       "frameCount": 1,
       "description": "Transparent lantern pavilion with the large festival video screen and speakers."
     },
