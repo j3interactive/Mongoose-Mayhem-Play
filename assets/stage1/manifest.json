@@ -319,7 +319,182 @@
       "nativeHeight": 144,
       "frameCount": 1,
       "description": "Transparent lantern pavilion with the large festival video screen and speakers."
+    },
+    {
+      "file": "stage1_mid.png",
+      "width": 5120,
+      "height": 720,
+      "nativeWidth": 2560,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Transparent banyan/house parallax strip with open alleys revealing Sundara.",
+      "scrollFactor": 0.55,
+      "seamless": true
+    },
+    {
+      "file": "stage1_street_01.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 1: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 1,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_02.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 2: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 2,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_03.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 3: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 3,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_04.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 4: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 4,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_05.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 5: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 5,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_06.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 6: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 6,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_07.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 7: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 7,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_08.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 8: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 8,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_09.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 9: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 9,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_10.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 10: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 10,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_11.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 11: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 11,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_street_12.png",
+      "width": 1280,
+      "height": 720,
+      "nativeWidth": 640,
+      "nativeHeight": 360,
+      "frameCount": 1,
+      "description": "Screen 12: continuous street and anchored festival scenery; floor y200–335 stays clear.",
+      "screen": 12,
+      "scrollFactor": 1
+    },
+    {
+      "file": "stage1_fg_lantern_post.png",
+      "width": 48,
+      "height": 192,
+      "nativeWidth": 24,
+      "nativeHeight": 96,
+      "frameCount": 1,
+      "description": "Transparent foreground lantern post, separate from breakable street lamps.",
+      "scrollFactor": 1.12
+    },
+    {
+      "file": "stage1_fg_bunting.png",
+      "width": 256,
+      "height": 64,
+      "nativeWidth": 128,
+      "nativeHeight": 32,
+      "frameCount": 1,
+      "description": "Transparent foreground orange/magenta bunting strip.",
+      "scrollFactor": 1.12
     }
   ],
-  "screenCount": 12
+  "screenCount": 12,
+  "layerOrder": [
+    "sky/fireworks",
+    "skyline",
+    "mid",
+    "street/scenery",
+    "actors/props",
+    "foreground"
+  ],
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  }
 }
