@@ -1,0 +1,93 @@
+{
+  "generation": "built-in imagegen",
+  "order": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "files": [
+    {
+      "file": "stage1_alley_a.png",
+      "width": 1280,
+      "height": 400,
+      "baseline": 399,
+      "screen": 6,
+      "description": "Screen 6: twilight alley entrance, picture-only firework posters and lit upstairs windows.",
+      "sourceSize": [
+        2172,
+        724
+      ],
+      "uniformScale": 0.5893186003683242,
+      "emptyColumns": 0,
+      "baselineGaps": 0,
+      "transparentPixels": 137382,
+      "frameCount": 1
+    },
+    {
+      "file": "stage1_alley_b.png",
+      "width": 1280,
+      "height": 400,
+      "baseline": 399,
+      "screen": 7,
+      "description": "Screen 7: purple brick wall with a zigzag metal fire escape and two fireworks in the rooftop gap.",
+      "sourceSize": [
+        2172,
+        724
+      ],
+      "uniformScale": 0.5541125541125541,
+      "emptyColumns": 0,
+      "baselineGaps": 0,
+      "transparentPixels": 186865,
+      "frameCount": 1
+    },
+    {
+      "file": "stage1_alley_c.png",
+      "width": 1280,
+      "height": 400,
+      "baseline": 399,
+      "screen": 8,
+      "description": "Screen 8: night courtyard with laundry, a striped wall canopy, painted mongoose mural and three fireworks.",
+      "sourceSize": [
+        2172,
+        724
+      ],
+      "uniformScale": 0.5722801788375559,
+      "emptyColumns": 0,
+      "baselineGaps": 0,
+      "transparentPixels": 173572,
+      "frameCount": 1
+    },
+    {
+      "file": "stage1_alley_d.png",
+      "width": 1280,
+      "height": 400,
+      "baseline": 399,
+      "screen": 9,
+      "description": "Screen 9: deepest-night descending rooftops with water tanks, overhead lights and dense fireworks toward the plaza.",
+      "sourceSize": [
+        2172,
+        724
+      ],
+      "uniformScale": 0.5722801788375559,
+      "emptyColumns": 0,
+      "baselineGaps": 0,
+      "transparentPixels": 186747,
+      "frameCount": 1
+    }
+  ],
+  "joins": [
+    {
+      "join": "A→B",
+      "mismatchChannels": 0
+    },
+    {
+      "join": "B→C",
+      "mismatchChannels": 0
+    },
+    {
+      "join": "C→D",
+      "mismatchChannels": 0
+    }
+  ]
+}

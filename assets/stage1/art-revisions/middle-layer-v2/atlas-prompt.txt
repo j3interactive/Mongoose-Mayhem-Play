@@ -1,0 +1,19 @@
+Create a production sprite-sheet atlas that will be CUT AND ASSEMBLED into a single 5120x720 background panorama. This is a technical art layout, so obey the sheet grid strictly. Use the supplied image ONLY as the identity/style reference for these eight buildings and trees. Retain its exact detailed crisp pixel-art rendering, warm lantern orange/magenta/teal/deep purple colors, straight side-on camera; no blur or smooth gradients.
+
+ATLAS CANVAS 2560x1440, aspect 16:9, TRANSPARENT. EXACT GRID 4 columns x 2 rows, ZERO gutters or borders. Each cell is 640x720. Eight cells read left-to-right top row then left-to-right bottom row. Draw exactly one complete 640-pixel-wide connected backdrop group in each cell. Each cell contains its own EMPTY TRANSPARENT road-reserve area from local y=400 to y=719. Baseline in EACH CELL at local y=400. Only local rows y=120..399 have architecture, roots, walls or plants. Top local y0..119 fully transparent. Lowest solid row local y399; NO artwork below y399, NO pavement or road. Keep this geometry if output is scaled. Thus top-row bases are at global y400, bottom-row bases global y1120. Do not draw one street stretching across the two atlas rows. Do not add any ground band between rows.
+
+Inside each 640x720 cell, group fills width from x0 to639 without empty vertical gaps: the main subject can occupy the central 350–500px, but adjoining facades or low garden boundary walls must fill all remaining width. Walls reach the same baseline. No floating or isolated cutouts. BOTH left and right sides of EVERY cell end in the SAME simple flat deep-purple garden wall: same height (local y310–399), same warm ochre coping at y310..315, same horizontal horizontal course lines, same neutral lighting. This common join connects the cells in order and makes the finished row loop seamlessly. Do not put plants, doors, posts or lanterns in the outermost 16px of each cell; outer margins must contain just the shared wall, never transparent gap. Transparency above the roofs/canopies. No baked checkerboard.
+
+Exactly these 8 distinct groups in reading order:
+TOP ROW CELL1: pink two-story house with flower-box balconies and string lights; roof local y180.
+TOP ROW CELL2: large spreading banyan with lanterns hanging from roots and branches; canopy local y125, low garden wall behind its roots.
+TOP ROW CELL3: teal cafe front with orange/magenta striped awning and glowing windows; roof local y220, no tables or sign.
+TOP ROW CELL4: narrow three-story house with laundry lines BETWEEN balconies; roof local y120. Broad connecting side walls occupy remainder of cell.
+BOTTOM ROW CELL1: small temple-style gate with festival garlands, ornate CLOSED dark-purple recessed doors, NO writing; roof local y235.
+BOTTOM ROW CELL2: orange corner shop shown FRONT ON, shutters half open and potted palms; roof local y190.
+BOTTOM ROW CELL3: different banyan with asymmetrical bent trunk, narrower canopy local y150, and EMPTY bench beneath it; connecting wall behind roots.
+BOTTOM ROW CELL4: lilac row house with rooftop water tank and fairy lights; roof local y240, tank top local y175.
+
+Busy tree/balcony groups alternate with calmer architecture. The buildings have wide compositions in their cells, not stretched tall, no detached props. User will assemble cells into ONE continuous repeating row. Preserve side-on orthographic art and consistent lantern light.
+
+NO characters, people, animals, statues of animals, text, lettering, logos, signs, crates, carts, stalls, food stands, tables, road, sky, fireworks, foreground objects or soft shadows. The bench, laundry, plants, awnings and architectural lanterns are expressly allowed. True transparent PNG alpha.

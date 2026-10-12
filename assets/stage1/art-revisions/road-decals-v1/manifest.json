@@ -1,0 +1,284 @@
+{
+  "stage": "Festival Night",
+  "type": "Flat road decals",
+  "generator": "built-in imagegen",
+  "files": [
+    {
+      "file": "stage1_decal_chalk_mural.png",
+      "width": 256,
+      "height": 96,
+      "frameCount": 1,
+      "description": "Chalk festival flower/sun painted flat on the street.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 7501,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 51,
+        "top": 88,
+        "right": 2017,
+        "bottom": 696
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_lantern_puddle.png",
+      "width": 160,
+      "height": 48,
+      "frameCount": 1,
+      "description": "Flat shallow puddle with fragmented warm lantern reflections.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 2303,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 69,
+        "top": 203,
+        "right": 2103,
+        "bottom": 538
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_manhole_cover.png",
+      "width": 64,
+      "height": 32,
+      "frameCount": 1,
+      "description": "Flush round iron cover seen as a flattened ellipse.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 1127,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 217,
+        "top": 177,
+        "right": 1557,
+        "bottom": 719
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_crack_weed.png",
+      "width": 96,
+      "height": 40,
+      "frameCount": 1,
+      "description": "Cobblestone crack with tiny weed leaves flattened along it.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 271,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 51,
+        "top": 131,
+        "right": 1904,
+        "bottom": 694
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_flower_petals.png",
+      "width": 128,
+      "height": 48,
+      "frameCount": 1,
+      "description": "Scattered loose festival flower petals lying flat.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 604,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 104,
+        "top": 207,
+        "right": 1945,
+        "bottom": 561
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_spice_powder.png",
+      "width": 96,
+      "height": 40,
+      "frameCount": 1,
+      "description": "Thin orange/red spice dust spill pressed into the ground.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 855,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 82,
+        "top": 153,
+        "right": 1872,
+        "bottom": 666
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_firework_scorch.png",
+      "width": 112,
+      "height": 48,
+      "frameCount": 1,
+      "description": "Flat soot scorch star and ash flecks from a firework.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 1532,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 18,
+        "top": 57,
+        "right": 1896,
+        "bottom": 757
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_confetti.png",
+      "width": 128,
+      "height": 48,
+      "frameCount": 1,
+      "description": "Small colorful confetti pieces lying flush on the street.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 351,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 106,
+        "top": 227,
+        "right": 1933,
+        "bottom": 533
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_hopscotch.png",
+      "width": 192,
+      "height": 64,
+      "frameCount": 1,
+      "description": "Blank chalk hopscotch boxes flattened onto the road.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 1992,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 57,
+        "top": 123,
+        "right": 2119,
+        "bottom": 608
+      },
+      "export": "proportional nearest-neighbor sampling"
+    },
+    {
+      "file": "stage1_decal_fountain_wet_ring.png",
+      "width": 320,
+      "height": 80,
+      "frameCount": 1,
+      "description": "Wide flat wet-stone ring with transparent fountain center.",
+      "alphaValues": [
+        0,
+        255
+      ],
+      "opaquePixels": 5925,
+      "edgePixels": 0,
+      "sourceBounds": {
+        "left": 75,
+        "top": 166,
+        "right": 1916,
+        "bottom": 636
+      },
+      "export": "proportional nearest-neighbor sampling"
+    }
+  ],
+  "atlas": {
+    "file": "stage1_road_decals_sheet.png",
+    "width": 704,
+    "height": 600,
+    "regions": [
+      {
+        "file": "stage1_decal_chalk_mural.png",
+        "x": 48,
+        "y": 12,
+        "width": 256,
+        "height": 96
+      },
+      {
+        "file": "stage1_decal_lantern_puddle.png",
+        "x": 448,
+        "y": 36,
+        "width": 160,
+        "height": 48
+      },
+      {
+        "file": "stage1_decal_manhole_cover.png",
+        "x": 144,
+        "y": 164,
+        "width": 64,
+        "height": 32
+      },
+      {
+        "file": "stage1_decal_crack_weed.png",
+        "x": 480,
+        "y": 160,
+        "width": 96,
+        "height": 40
+      },
+      {
+        "file": "stage1_decal_flower_petals.png",
+        "x": 112,
+        "y": 276,
+        "width": 128,
+        "height": 48
+      },
+      {
+        "file": "stage1_decal_spice_powder.png",
+        "x": 480,
+        "y": 280,
+        "width": 96,
+        "height": 40
+      },
+      {
+        "file": "stage1_decal_firework_scorch.png",
+        "x": 120,
+        "y": 396,
+        "width": 112,
+        "height": 48
+      },
+      {
+        "file": "stage1_decal_confetti.png",
+        "x": 464,
+        "y": 396,
+        "width": 128,
+        "height": 48
+      },
+      {
+        "file": "stage1_decal_hopscotch.png",
+        "x": 80,
+        "y": 508,
+        "width": 192,
+        "height": 64
+      },
+      {
+        "file": "stage1_decal_fountain_wet_ring.png",
+        "x": 368,
+        "y": 500,
+        "width": 320,
+        "height": 80
+      }
+    ]
+  }
+}

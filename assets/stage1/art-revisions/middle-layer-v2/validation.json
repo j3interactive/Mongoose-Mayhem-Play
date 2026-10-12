@@ -1,0 +1,28 @@
+{
+  "width": 5120,
+  "height": 720,
+  "baseline": 400,
+  "opaqueBoundsY": [
+    120,
+    399
+  ],
+  "pixelsAtOrBelow400": 0,
+  "emptyColumns": 0,
+  "wrapMismatchChannels": 0,
+  "alphaValues": [
+    0,
+    255
+  ],
+  "groups": [
+    "Pink house",
+    "Broad banyan",
+    "Teal cafe",
+    "Three-story house",
+    "Temple gate",
+    "Orange shop",
+    "Bent banyan and bench",
+    "Lilac house and water tank"
+  ],
+  "generation": "built-in imagegen",
+  "export": "nearest-neighbor panorama-row packing with y400 registration and mirrored 16px wrap endcap"
+}

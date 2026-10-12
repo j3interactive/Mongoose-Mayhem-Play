@@ -1,0 +1,19 @@
+Create a SINGLE very wide panoramic transparent PNG game asset: the middle background layer for Mongoose Mayhem Stage 1, Festival Night. TARGET CANVAS EXACTLY 5120 x 720 pixels, aspect ratio 64:9 (7.111:1). If exact dimensions cannot be produced, keep this exact very wide aspect ratio and all coordinates proportionally. This is one continuous horizontal strip, NEVER a grid, NEVER stacked rows.
+
+Reference image is STYLE ONLY: match its existing pixel-art Garden Quarter architecture, detailed dark ink pixel outlines, orange tile roofs, warm lantern orange and festival magenta highlights, teal and deep purple shadows. Straight front-facing orthographic side-on camera. Hard crisp pixel clusters, no anti-aliasing, blur, soft glows, soft gradients or painted smoothness.
+
+CRITICAL LAYOUT: wall/tree bases meet the same horizontal baseline at y=400 (400/720 = 55.5556% down the canvas). ALL pixels in rows y=400 through y=719 must be fully transparent: this is empty padding reserved for the separately rendered road. All architecture and roots terminate at y=399. Above the roof and tree silhouette is genuinely transparent, no sky whatsoever. Across the whole width the scenery joins continuously with NO empty vertical gaps between groups, no detached islands, no blank side margins. Building facades, low connecting garden walls and tree roots meet the baseline continuously. Different roof/tree heights between y=120 and y=260; nothing touches the top edge. Window recesses/gate door recesses can be dark purple solid pixels, not holes through the row. Ground line remains straight, no perspective floor or pavement.
+
+Exactly EIGHT distinct groups, each occupies about 640px width, in this exact left-to-right order:
+1. x0–639: pink two-story house, flower-box balconies and string lights; roof around y=180.
+2. x640–1279: large spreading banyan tree, paper lanterns hanging among its aerial roots and branches, connecting low garden wall behind roots; canopy around y=125.
+3. x1280–1919: teal café facade with striped orange/magenta awning and glowing windows, no tables, no sign; roof around y=220.
+4. x1920–2559: narrow three-story house, laundry lines between balconies; tall roof around y=120.
+5. x2560–3199: small temple-style gate covered in festival garlands, ornate closed/recessed doorway, NO writing; roof around y=235.
+6. x3200–3839: orange corner shop shown FRONT ON, shutters half open, potted palms; roof around y=190.
+7. x3840–4479: second banyan tree with distinctly different asymmetrical bent trunk and narrower canopy from #2, an empty bench beneath it and connecting low garden wall; canopy around y=150.
+8. x4480–5119: lilac row house, rooftop water tank and fairy lights; roof around y=240, tank top around y=175.
+
+SEAMLESS HORIZONTAL WRAP: the rightmost edge connects perfectly back to the leftmost edge with NO gap. Use the same modest-height purple garden-wall/roof profile and matching boundary pixel colors at both outermost edges; the lilac house at right continues architecturally into the pink house at left when repeated. Continuous baseline at y399 on both edges. Do not mirror/copy full groups to simulate variety. Busy detailed groups alternate with calmer facades; all eight visibly different.
+
+STRICT EXCLUSIONS: NO characters, people, animals (even statues), text, lettering, logos, signs, crates, carts, stalls, food stands, road, foreground objects, sky, fireworks or opaque background. Plants and empty bench are allowed as specified. Real PNG alpha transparency, not a baked checkerboard. Keep every group legible and use the full panorama width.

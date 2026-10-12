@@ -1,0 +1,16 @@
+Generate ONE transparent pixel-art production atlas, FOUR columns by TWO rows, canvas2560x1024 (aspect2.5:1), zero gutters. Each cell640x512. Image reference supplies exact Garden Quarter style and the eight subjects only. This atlas will be unpacked into a5120x720 panorama, so every group MUST occupy the full640px cell width as CONTINUOUS dense architecture/root/foliage. DO NOT make small isolated houses surrounded by long plain walls. Primary architecture or tree fills at least85% of its cell width, with neighboring adjoining facades extending to both edges. Tree roots and foliage spread wide; architectural fronts are naturally broad, multiple windows and balconies, no artificial horizontal bitmap stretching. The garden-wall connecting edges are very short, at most24px wide on each side. All eight groups different.
+
+The wall/street BASELINE is local y400 in each cell; top row global y400, bottom row global y912. Bottom112px of each cell is EMPTY alpha transparency. Everything sits on this line. Make roof/canopy tops local y120–260 and everything ABOVE those silhouettes transparent. Main occupied zone is local120–399, broad and low. NO pavement or ground. Side-on orthographic camera, natural window/door proportions. No big empty gaps between groups: neighboring architecture and hanging lights connect across cell boundaries. Both external edges share an identical modest purple wall/roof join profile so the unwrapped eight-group panorama repeats seamlessly.
+
+TOP ROW left to right:
+1 Pink two-story house, wide flower-box balconies and string lights, paired wide townhouse facade, roofy180.
+2 Large broad spreading banyan, paper lanterns hanging from aerial roots and branches, canopyy125, root wall reaches edges.
+3 Teal cafe FRONT facade with broad striped magenta/orange awning and wide glowing window bays, roofy220, no sign/tables.
+4 Narrow three-story central house, laundry between balconies, flanked by connected quieter house wings to fill the cell, highest roofy120.
+BOTTOM ROW left to right:
+5 Low wide temple-style gate, festival garlands, recessed CLOSED doorway, connected ornate side walls, roofy235, no writing.
+6 Broad orange corner shop shown FRONT ON, half-open shutters, potted palms, roofy190.
+7 Second broad banyan, different bent/asymmetric shape from2, EMPTY bench under roots, canopyy150.
+8 Wide lilac row house, rooftop water tank, fairy lights, roofy240 and tanky175.
+
+EXACT matching pixel-art style: hard dark outlines and visible crisp square pixel clusters, warm orange lantern highlights, festival magenta, teal/deep-purple shadow colors, no blur, smooth gradients, painted soft edges, glow haze or antialiasing. Real transparent PNG alpha, NOT a checkerboard or black background. No characters, people, animals, text, symbols resembling writing, logos, crates, carts, stalls, food stands, foreground objects, street, sky or fireworks. Preserve eight legible distinct full-width groups, busy groups alternate with calm facade panels.
