@@ -1,0 +1,1949 @@
+{
+  "name": "The Constrictor",
+  "gameHeadSpan": 120,
+  "animations": {
+    "idle": [
+      {
+        "key": "constrictor-idle-0",
+        "url": "assets/bosses/constrictor/frames/idle-00.png?v=a5316923bbde",
+        "width": 578,
+        "height": 566,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 301.1612903225806,
+        "originX": 0.5568444948131684,
+        "originY": 0.8904593639575972,
+        "leftOriginX": 0.44315550518683156,
+        "sourceRect": [
+          0,
+          26,
+          530,
+          518
+        ],
+        "pixels": 120188
+      },
+      {
+        "key": "constrictor-idle-1",
+        "url": "assets/bosses/constrictor/frames/idle-01.png?v=a5316923bbde",
+        "width": 544,
+        "height": 587,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 325.93548387096774,
+        "originX": 0.5366879079141017,
+        "originY": 0.8194207836456558,
+        "leftOriginX": 0.4633120920858983,
+        "sourceRect": [
+          530,
+          49,
+          496,
+          539
+        ],
+        "pixels": 125543
+      },
+      {
+        "key": "constrictor-idle-2",
+        "url": "assets/bosses/constrictor/frames/idle-02.png?v=a5316923bbde",
+        "width": 527,
+        "height": 557,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 356.9032258064516,
+        "originX": 0.5387698431064009,
+        "originY": 0.9048473967684022,
+        "leftOriginX": 0.46123015689359914,
+        "sourceRect": [
+          1042,
+          25,
+          479,
+          509
+        ],
+        "pixels": 127033
+      },
+      {
+        "key": "constrictor-idle-3",
+        "url": "assets/bosses/constrictor/frames/idle-03.png?v=a5316923bbde",
+        "width": 578,
+        "height": 461,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 291.09677419354836,
+        "originX": 0.5500713218851367,
+        "originY": 0.9349240780911063,
+        "leftOriginX": 0.44992867811486326,
+        "sourceRect": [
+          0,
+          571,
+          530,
+          413
+        ],
+        "pixels": 121444
+      },
+      {
+        "key": "constrictor-idle-4",
+        "url": "assets/bosses/constrictor/frames/idle-04.png?v=a5316923bbde",
+        "width": 602,
+        "height": 457,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 236.90322580645162,
+        "originX": 0.5106611589737827,
+        "originY": 0.8468271334792122,
+        "leftOriginX": 0.4893388410262173,
+        "sourceRect": [
+          526,
+          615,
+          554,
+          409
+        ],
+        "pixels": 113703
+      },
+      {
+        "key": "constrictor-idle-5",
+        "url": "assets/bosses/constrictor/frames/idle-05.png?v=a5316923bbde",
+        "width": 588,
+        "height": 467,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 299.61290322580646,
+        "originX": 0.5962016937458628,
+        "originY": 0.8972162740899358,
+        "leftOriginX": 0.40379830625413715,
+        "sourceRect": [
+          985,
+          583,
+          540,
+          419
+        ],
+        "pixels": 116074
+      }
+    ],
+    "slither": [
+      {
+        "key": "constrictor-slither-0",
+        "url": "assets/bosses/constrictor/frames/slither-00.png?v=58489a47220f",
+        "width": 526,
+        "height": 449,
+        "scale": 0.8,
+        "bodyHeight": 234.4,
+        "originX": 0.5598159003744608,
+        "originY": 0.8641425389755011,
+        "leftOriginX": 0.44018409962553917,
+        "sourceRect": [
+          30,
+          21,
+          478,
+          401
+        ],
+        "pixels": 88153
+      },
+      {
+        "key": "constrictor-slither-1",
+        "url": "assets/bosses/constrictor/frames/slither-01.png?v=58489a47220f",
+        "width": 514,
+        "height": 396,
+        "scale": 0.8,
+        "bodyHeight": 245.60000000000002,
+        "originX": 0.5458248561263346,
+        "originY": 0.9343434343434344,
+        "leftOriginX": 0.4541751438736654,
+        "sourceRect": [
+          541,
+          41,
+          466,
+          348
+        ],
+        "pixels": 86049
+      },
+      {
+        "key": "constrictor-slither-2",
+        "url": "assets/bosses/constrictor/frames/slither-02.png?v=58489a47220f",
+        "width": 549,
+        "height": 383,
+        "scale": 0.8,
+        "bodyHeight": 240,
+        "originX": 0.5301561093358622,
+        "originY": 0.9112271540469974,
+        "leftOriginX": 0.4698438906641378,
+        "sourceRect": [
+          30,
+          435,
+          501,
+          335
+        ],
+        "pixels": 91976
+      },
+      {
+        "key": "constrictor-slither-3",
+        "url": "assets/bosses/constrictor/frames/slither-03.png?v=58489a47220f",
+        "width": 544,
+        "height": 377,
+        "scale": 0.8,
+        "bodyHeight": 234.4,
+        "originX": 0.5311076933181539,
+        "originY": 0.9124668435013262,
+        "leftOriginX": 0.4688923066818461,
+        "sourceRect": [
+          528,
+          437,
+          496,
+          329
+        ],
+        "pixels": 86831
+      },
+      {
+        "key": "constrictor-slither-4",
+        "url": "assets/bosses/constrictor/frames/slither-04.png?v=58489a47220f",
+        "width": 589,
+        "height": 339,
+        "scale": 0.8,
+        "bodyHeight": 224,
+        "originX": 0.587753512366286,
+        "originY": 0.9203539823008849,
+        "leftOriginX": 0.41224648763371396,
+        "sourceRect": [
+          0,
+          833,
+          541,
+          291
+        ],
+        "pixels": 89320
+      },
+      {
+        "key": "constrictor-slither-5",
+        "url": "assets/bosses/constrictor/frames/slither-05.png?v=58489a47220f",
+        "width": 536,
+        "height": 392,
+        "scale": 0.8,
+        "bodyHeight": 237.60000000000002,
+        "originX": 0.5725357268116709,
+        "originY": 0.826530612244898,
+        "leftOriginX": 0.42746427318832914,
+        "sourceRect": [
+          536,
+          824,
+          488,
+          344
+        ],
+        "pixels": 88211
+      },
+      {
+        "key": "constrictor-slither-6",
+        "url": "assets/bosses/constrictor/frames/slither-06.png?v=58489a47220f",
+        "width": 589,
+        "height": 344,
+        "scale": 0.8,
+        "bodyHeight": 206.4,
+        "originX": 0.6285253679627778,
+        "originY": 0.9215116279069767,
+        "leftOriginX": 0.3714746320372222,
+        "sourceRect": [
+          0,
+          1195,
+          541,
+          296
+        ],
+        "pixels": 83709
+      },
+      {
+        "key": "constrictor-slither-7",
+        "url": "assets/bosses/constrictor/frames/slither-07.png?v=58489a47220f",
+        "width": 542,
+        "height": 347,
+        "scale": 0.8,
+        "bodyHeight": 200,
+        "originX": 0.5669143662710094,
+        "originY": 0.9250720461095101,
+        "leftOriginX": 0.43308563372899056,
+        "sourceRect": [
+          530,
+          1191,
+          494,
+          299
+        ],
+        "pixels": 80115
+      }
+    ],
+    "rush": [
+      {
+        "key": "constrictor-rush-0",
+        "url": "assets/bosses/constrictor/frames/rush-00.png?v=9b837baf9957",
+        "width": 513,
+        "height": 580,
+        "scale": 1,
+        "bodyHeight": 243,
+        "originX": 0.46498293741349594,
+        "originY": 0.7775862068965518,
+        "leftOriginX": 0.535017062586504,
+        "sourceRect": [
+          0,
+          20,
+          465,
+          532
+        ],
+        "pixels": 64299
+      },
+      {
+        "key": "constrictor-rush-1",
+        "url": "assets/bosses/constrictor/frames/rush-01.png?v=9b837baf9957",
+        "width": 491,
+        "height": 605,
+        "scale": 1,
+        "bodyHeight": 248,
+        "originX": 0.5166243397569442,
+        "originY": 0.7421487603305785,
+        "leftOriginX": 0.4833756602430558,
+        "sourceRect": [
+          375,
+          25,
+          443,
+          557
+        ],
+        "pixels": 65342
+      },
+      {
+        "key": "constrictor-rush-2",
+        "url": "assets/bosses/constrictor/frames/rush-02.png?v=9b837baf9957",
+        "width": 489,
+        "height": 585,
+        "scale": 1,
+        "bodyHeight": 263,
+        "originX": 0.5184266262186106,
+        "originY": 0.7333333333333333,
+        "leftOriginX": 0.4815733737813894,
+        "sourceRect": [
+          735,
+          43,
+          441,
+          537
+        ],
+        "pixels": 60952
+      },
+      {
+        "key": "constrictor-rush-3",
+        "url": "assets/bosses/constrictor/frames/rush-03.png?v=9b837baf9957",
+        "width": 465,
+        "height": 591,
+        "scale": 1,
+        "bodyHeight": 256,
+        "originX": 0.5821922900938002,
+        "originY": 0.7428087986463621,
+        "leftOriginX": 0.41780770990619975,
+        "sourceRect": [
+          1119,
+          37,
+          417,
+          543
+        ],
+        "pixels": 59950
+      },
+      {
+        "key": "constrictor-rush-4",
+        "url": "assets/bosses/constrictor/frames/rush-04.png?v=9b837baf9957",
+        "width": 544,
+        "height": 484,
+        "scale": 1,
+        "bodyHeight": 230,
+        "originX": 0.4327161056307392,
+        "originY": 0.7603305785123967,
+        "leftOriginX": 0.5672838943692609,
+        "sourceRect": [
+          0,
+          567,
+          496,
+          436
+        ],
+        "pixels": 62953
+      },
+      {
+        "key": "constrictor-rush-5",
+        "url": "assets/bosses/constrictor/frames/rush-05.png?v=9b837baf9957",
+        "width": 470,
+        "height": 450,
+        "scale": 1,
+        "bodyHeight": 196,
+        "originX": 0.651494883699964,
+        "originY": 0.74,
+        "leftOriginX": 0.348505116300036,
+        "sourceRect": [
+          369,
+          603,
+          422,
+          402
+        ],
+        "pixels": 56446
+      },
+      {
+        "key": "constrictor-rush-6",
+        "url": "assets/bosses/constrictor/frames/rush-06.png?v=9b837baf9957",
+        "width": 495,
+        "height": 427,
+        "scale": 1,
+        "bodyHeight": 200,
+        "originX": 0.5636968054529029,
+        "originY": 0.8360655737704918,
+        "leftOriginX": 0.4363031945470971,
+        "sourceRect": [
+          751,
+          581,
+          447,
+          379
+        ],
+        "pixels": 53754
+      },
+      {
+        "key": "constrictor-rush-7",
+        "url": "assets/bosses/constrictor/frames/rush-07.png?v=9b837baf9957",
+        "width": 440,
+        "height": 436,
+        "scale": 1,
+        "bodyHeight": 211,
+        "originX": 0.546329529951631,
+        "originY": 0.8325688073394495,
+        "leftOriginX": 0.453670470048369,
+        "sourceRect": [
+          1144,
+          580,
+          392,
+          388
+        ],
+        "pixels": 52223
+      }
+    ],
+    "taunt": [
+      {
+        "key": "constrictor-taunt-0",
+        "url": "assets/bosses/constrictor/frames/taunt-00.png?v=98f24069df4e",
+        "width": 570,
+        "height": 547,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 246.19354838709677,
+        "originX": 0.533029490616622,
+        "originY": 0.9323583180987203,
+        "leftOriginX": 0.46697050938337803,
+        "sourceRect": [
+          30,
+          25,
+          522,
+          499
+        ],
+        "pixels": 112831
+      },
+      {
+        "key": "constrictor-taunt-1",
+        "url": "assets/bosses/constrictor/frames/taunt-01.png?v=98f24069df4e",
+        "width": 553,
+        "height": 512,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 315.8709677419355,
+        "originX": 0.5584653403294344,
+        "originY": 0.94921875,
+        "leftOriginX": 0.4415346596705656,
+        "sourceRect": [
+          545,
+          49,
+          505,
+          464
+        ],
+        "pixels": 121095
+      },
+      {
+        "key": "constrictor-taunt-2",
+        "url": "assets/bosses/constrictor/frames/taunt-02.png?v=98f24069df4e",
+        "width": 495,
+        "height": 550,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 385.5483870967742,
+        "originX": 0.5433130416970718,
+        "originY": 0.9527272727272728,
+        "leftOriginX": 0.45668695830292816,
+        "sourceRect": [
+          1059,
+          13,
+          447,
+          502
+        ],
+        "pixels": 127193
+      },
+      {
+        "key": "constrictor-taunt-3",
+        "url": "assets/bosses/constrictor/frames/taunt-03.png?v=98f24069df4e",
+        "width": 565,
+        "height": 484,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 333.6774193548387,
+        "originX": 0.539049392985944,
+        "originY": 0.9442148760330579,
+        "leftOriginX": 0.460950607014056,
+        "sourceRect": [
+          29,
+          542,
+          517,
+          436
+        ],
+        "pixels": 147010
+      },
+      {
+        "key": "constrictor-taunt-4",
+        "url": "assets/bosses/constrictor/frames/taunt-04.png?v=98f24069df4e",
+        "width": 527,
+        "height": 405,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 272.51612903225805,
+        "originX": 0.551897629472467,
+        "originY": 0.9333333333333333,
+        "leftOriginX": 0.448102370527533,
+        "sourceRect": [
+          546,
+          621,
+          479,
+          357
+        ],
+        "pixels": 118275
+      },
+      {
+        "key": "constrictor-taunt-5",
+        "url": "assets/bosses/constrictor/frames/taunt-05.png?v=98f24069df4e",
+        "width": 532,
+        "height": 358,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 236.90322580645162,
+        "originX": 0.5751156317509557,
+        "originY": 0.9273743016759777,
+        "leftOriginX": 0.4248843682490443,
+        "sourceRect": [
+          1038,
+          670,
+          484,
+          310
+        ],
+        "pixels": 112117
+      }
+    ],
+    "bite": [
+      {
+        "key": "constrictor-bite-0",
+        "url": "assets/bosses/constrictor/frames/bite-00.png?v=9a4652113ed7",
+        "width": 509,
+        "height": 592,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 279.48387096774195,
+        "originX": 0.5485203945239797,
+        "originY": 0.8141891891891891,
+        "leftOriginX": 0.4514796054760203,
+        "sourceRect": [
+          23,
+          23,
+          461,
+          544
+        ],
+        "pixels": 108315
+      },
+      {
+        "key": "constrictor-bite-1",
+        "url": "assets/bosses/constrictor/frames/bite-01.png?v=9a4652113ed7",
+        "width": 513,
+        "height": 463,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 291.09677419354836,
+        "originX": 0.5231587272838044,
+        "originY": 0.8984881209503239,
+        "leftOriginX": 0.4768412727161956,
+        "sourceRect": [
+          527,
+          89,
+          465,
+          415
+        ],
+        "pixels": 113111
+      },
+      {
+        "key": "constrictor-bite-2",
+        "url": "assets/bosses/constrictor/frames/bite-02.png?v=9a4652113ed7",
+        "width": 560,
+        "height": 509,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 263.22580645161287,
+        "originX": 0.5543022115871143,
+        "originY": 0.8939096267190569,
+        "leftOriginX": 0.44569778841288565,
+        "sourceRect": [
+          1008,
+          51,
+          512,
+          461
+        ],
+        "pixels": 116824
+      },
+      {
+        "key": "constrictor-bite-3",
+        "url": "assets/bosses/constrictor/frames/bite-03.png?v=9a4652113ed7",
+        "width": 644,
+        "height": 447,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 239.2258064516129,
+        "originX": 0.5198276333159156,
+        "originY": 0.9351230425055929,
+        "leftOriginX": 0.48017236668408436,
+        "sourceRect": [
+          22,
+          567,
+          596,
+          399
+        ],
+        "pixels": 126647
+      },
+      {
+        "key": "constrictor-bite-4",
+        "url": "assets/bosses/constrictor/frames/bite-04.png?v=9a4652113ed7",
+        "width": 490,
+        "height": 455,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 281.0322580645161,
+        "originX": 0.5350706138251926,
+        "originY": 0.8637362637362638,
+        "leftOriginX": 0.4649293861748074,
+        "sourceRect": [
+          616,
+          591,
+          442,
+          407
+        ],
+        "pixels": 109063
+      },
+      {
+        "key": "constrictor-bite-5",
+        "url": "assets/bosses/constrictor/frames/bite-05.png?v=9a4652113ed7",
+        "width": 504,
+        "height": 441,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 270.96774193548384,
+        "originX": 0.5567403253567267,
+        "originY": 0.8934240362811792,
+        "leftOriginX": 0.4432596746432733,
+        "sourceRect": [
+          1058,
+          591,
+          456,
+          393
+        ],
+        "pixels": 105946
+      }
+    ],
+    "tail-whip": [
+      {
+        "key": "constrictor-tail-whip-0",
+        "url": "assets/bosses/constrictor/frames/tail-whip-00.png?v=7adef6a5461a",
+        "width": 471,
+        "height": 408,
+        "scale": 0.8,
+        "bodyHeight": 247.20000000000002,
+        "originX": 0.5106691316531284,
+        "originY": 0.9191176470588235,
+        "leftOriginX": 0.48933086834687156,
+        "sourceRect": [
+          17,
+          59,
+          423,
+          360
+        ],
+        "pixels": 78465
+      },
+      {
+        "key": "constrictor-tail-whip-1",
+        "url": "assets/bosses/constrictor/frames/tail-whip-01.png?v=7adef6a5461a",
+        "width": 442,
+        "height": 441,
+        "scale": 0.8,
+        "bodyHeight": 252,
+        "originX": 0.5364554459973426,
+        "originY": 0.9297052154195011,
+        "leftOriginX": 0.46354455400265737,
+        "sourceRect": [
+          500,
+          25,
+          394,
+          393
+        ],
+        "pixels": 84075
+      },
+      {
+        "key": "constrictor-tail-whip-2",
+        "url": "assets/bosses/constrictor/frames/tail-whip-02.png?v=7adef6a5461a",
+        "width": 449,
+        "height": 422,
+        "scale": 0.8,
+        "bodyHeight": 289.6,
+        "originX": 0.5706117959284195,
+        "originY": 0.9218009478672986,
+        "leftOriginX": 0.4293882040715805,
+        "sourceRect": [
+          925,
+          46,
+          401,
+          374
+        ],
+        "pixels": 85935
+      },
+      {
+        "key": "constrictor-tail-whip-3",
+        "url": "assets/bosses/constrictor/frames/tail-whip-03.png?v=7adef6a5461a",
+        "width": 460,
+        "height": 370,
+        "scale": 0.8,
+        "bodyHeight": 248.8,
+        "originX": 0.6066615814899567,
+        "originY": 0.918918918918919,
+        "leftOriginX": 0.39333841851004325,
+        "sourceRect": [
+          1362,
+          95,
+          412,
+          322
+        ],
+        "pixels": 80496
+      },
+      {
+        "key": "constrictor-tail-whip-4",
+        "url": "assets/bosses/constrictor/frames/tail-whip-04.png?v=7adef6a5461a",
+        "width": 545,
+        "height": 383,
+        "scale": 0.8,
+        "bodyHeight": 235.20000000000002,
+        "originX": 0.5122879629042629,
+        "originY": 0.9321148825065274,
+        "leftOriginX": 0.48771203709573707,
+        "sourceRect": [
+          17,
+          475,
+          497,
+          335
+        ],
+        "pixels": 90516
+      },
+      {
+        "key": "constrictor-tail-whip-5",
+        "url": "assets/bosses/constrictor/frames/tail-whip-05.png?v=7adef6a5461a",
+        "width": 470,
+        "height": 381,
+        "scale": 0.8,
+        "bodyHeight": 244,
+        "originX": 0.4312278440219142,
+        "originY": 0.884514435695538,
+        "leftOriginX": 0.5687721559780858,
+        "sourceRect": [
+          509,
+          498,
+          422,
+          333
+        ],
+        "pixels": 74990
+      },
+      {
+        "key": "constrictor-tail-whip-6",
+        "url": "assets/bosses/constrictor/frames/tail-whip-06.png?v=7adef6a5461a",
+        "width": 460,
+        "height": 403,
+        "scale": 0.8,
+        "bodyHeight": 247.20000000000002,
+        "originX": 0.6069556555304718,
+        "originY": 0.8312655086848635,
+        "leftOriginX": 0.3930443444695282,
+        "sourceRect": [
+          931,
+          498,
+          412,
+          355
+        ],
+        "pixels": 77442
+      },
+      {
+        "key": "constrictor-tail-whip-7",
+        "url": "assets/bosses/constrictor/frames/tail-whip-07.png?v=7adef6a5461a",
+        "width": 433,
+        "height": 373,
+        "scale": 0.8,
+        "bodyHeight": 251.20000000000002,
+        "originX": 0.5243090749670102,
+        "originY": 0.9115281501340483,
+        "leftOriginX": 0.4756909250329898,
+        "sourceRect": [
+          1381,
+          498,
+          385,
+          325
+        ],
+        "pixels": 76399
+      }
+    ],
+    "grab": [
+      {
+        "key": "constrictor-grab-0",
+        "url": "assets/bosses/constrictor/frames/grab-00.png?v=69902b9c69a3",
+        "width": 560,
+        "height": 377,
+        "scale": 0.8,
+        "bodyHeight": 236,
+        "originX": 0.35486209127264173,
+        "originY": 0.8541114058355438,
+        "leftOriginX": 0.6451379087273583,
+        "sourceRect": [
+          24,
+          56,
+          512,
+          329
+        ],
+        "pixels": 71487
+      },
+      {
+        "key": "constrictor-grab-1",
+        "url": "assets/bosses/constrictor/frames/grab-01.png?v=69902b9c69a3",
+        "width": 528,
+        "height": 357,
+        "scale": 0.8,
+        "bodyHeight": 232.8,
+        "originX": 0.36907148279099505,
+        "originY": 0.9187675070028011,
+        "leftOriginX": 0.6309285172090049,
+        "sourceRect": [
+          536,
+          45,
+          480,
+          309
+        ],
+        "pixels": 71991
+      },
+      {
+        "key": "constrictor-grab-2",
+        "url": "assets/bosses/constrictor/frames/grab-02.png?v=69902b9c69a3",
+        "width": 592,
+        "height": 386,
+        "scale": 0.8,
+        "bodyHeight": 238.4,
+        "originX": 0.47237093756980125,
+        "originY": 0.9196891191709845,
+        "leftOriginX": 0.5276290624301987,
+        "sourceRect": [
+          11,
+          387,
+          544,
+          338
+        ],
+        "pixels": 79649
+      },
+      {
+        "key": "constrictor-grab-3",
+        "url": "assets/bosses/constrictor/frames/grab-03.png?v=69902b9c69a3",
+        "width": 524,
+        "height": 385,
+        "scale": 0.8,
+        "bodyHeight": 238.4,
+        "originX": 0.4545016100060035,
+        "originY": 0.9272727272727272,
+        "leftOriginX": 0.5454983899939965,
+        "sourceRect": [
+          548,
+          385,
+          476,
+          337
+        ],
+        "pixels": 81146
+      },
+      {
+        "key": "constrictor-grab-4",
+        "url": "assets/bosses/constrictor/frames/grab-04.png?v=69902b9c69a3",
+        "width": 577,
+        "height": 391,
+        "scale": 0.8,
+        "bodyHeight": 248,
+        "originX": 0.44101338256109485,
+        "originY": 0.9258312020460358,
+        "leftOriginX": 0.5589866174389051,
+        "sourceRect": [
+          23,
+          753,
+          529,
+          343
+        ],
+        "pixels": 99197
+      },
+      {
+        "key": "constrictor-grab-5",
+        "url": "assets/bosses/constrictor/frames/grab-05.png?v=69902b9c69a3",
+        "width": 485,
+        "height": 399,
+        "scale": 0.8,
+        "bodyHeight": 253.60000000000002,
+        "originX": 0.43161085781309255,
+        "originY": 0.924812030075188,
+        "leftOriginX": 0.5683891421869074,
+        "sourceRect": [
+          559,
+          753,
+          437,
+          351
+        ],
+        "pixels": 94107
+      },
+      {
+        "key": "constrictor-grab-6",
+        "url": "assets/bosses/constrictor/frames/grab-06.png?v=69902b9c69a3",
+        "width": 511,
+        "height": 384,
+        "scale": 0.8,
+        "bodyHeight": 244.8,
+        "originX": 0.4649202724571338,
+        "originY": 0.9322916666666666,
+        "leftOriginX": 0.5350797275428663,
+        "sourceRect": [
+          54,
+          1139,
+          463,
+          336
+        ],
+        "pixels": 95966
+      },
+      {
+        "key": "constrictor-grab-7",
+        "url": "assets/bosses/constrictor/frames/grab-07.png?v=69902b9c69a3",
+        "width": 518,
+        "height": 379,
+        "scale": 0.8,
+        "bodyHeight": 251.20000000000002,
+        "originX": 0.5140311699132737,
+        "originY": 0.9102902374670184,
+        "leftOriginX": 0.4859688300867263,
+        "sourceRect": [
+          543,
+          1155,
+          470,
+          331
+        ],
+        "pixels": 104724
+      }
+    ],
+    "squeeze": [
+      {
+        "key": "constrictor-squeeze-0",
+        "url": "assets/bosses/constrictor/frames/squeeze-00.png?v=2b2e526f0269",
+        "width": 575,
+        "height": 499,
+        "scale": 0.75,
+        "bodyHeight": 278.25,
+        "originX": 0.5007123226502656,
+        "originY": 0.8076152304609219,
+        "leftOriginX": 0.49928767734973445,
+        "sourceRect": [
+          20,
+          67,
+          527,
+          451
+        ],
+        "pixels": 120531,
+        "foreground": {
+          "key": "constrictor-squeeze-front-0",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-0.png?v=160ec0c8aded"
+        },
+        "socket": {
+          "x": 95.31781085707297,
+          "y": -60
+        }
+      },
+      {
+        "key": "constrictor-squeeze-1",
+        "url": "assets/bosses/constrictor/frames/squeeze-01.png?v=2b2e526f0269",
+        "width": 561,
+        "height": 471,
+        "scale": 0.75,
+        "bodyHeight": 275.25,
+        "originX": 0.5224854472549896,
+        "originY": 0.8556263269639066,
+        "leftOriginX": 0.4775145527450104,
+        "sourceRect": [
+          543,
+          69,
+          513,
+          423
+        ],
+        "pixels": 115450,
+        "foreground": {
+          "key": "constrictor-squeeze-front-1",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-1.png?v=6f2d38cde56e"
+        },
+        "socket": {
+          "x": 84.66424806746315,
+          "y": -60
+        }
+      },
+      {
+        "key": "constrictor-squeeze-2",
+        "url": "assets/bosses/constrictor/frames/squeeze-02.png?v=2b2e526f0269",
+        "width": 519,
+        "height": 458,
+        "scale": 0.75,
+        "bodyHeight": 276.75,
+        "originX": 0.5301300416500289,
+        "originY": 0.9432314410480349,
+        "leftOriginX": 0.46986995834997114,
+        "sourceRect": [
+          1065,
+          40,
+          471,
+          410
+        ],
+        "pixels": 105586,
+        "foreground": {
+          "key": "constrictor-squeeze-front-2",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-2.png?v=6c039e68ac46"
+        },
+        "socket": {
+          "x": 88.39688128772627,
+          "y": -60
+        }
+      },
+      {
+        "key": "constrictor-squeeze-3",
+        "url": "assets/bosses/constrictor/frames/squeeze-03.png?v=2b2e526f0269",
+        "width": 550,
+        "height": 519,
+        "scale": 0.75,
+        "bodyHeight": 264.75,
+        "originX": 0.4822057796199702,
+        "originY": 0.8651252408477842,
+        "leftOriginX": 0.5177942203800299,
+        "sourceRect": [
+          20,
+          519,
+          502,
+          471
+        ],
+        "pixels": 113776,
+        "foreground": {
+          "key": "constrictor-squeeze-front-3",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-3.png?v=b7c95030afeb"
+        },
+        "socket": {
+          "x": 96.5901159067623,
+          "y": -60
+        }
+      },
+      {
+        "key": "constrictor-squeeze-4",
+        "url": "assets/bosses/constrictor/frames/squeeze-04.png?v=2b2e526f0269",
+        "width": 563,
+        "height": 509,
+        "scale": 0.75,
+        "bodyHeight": 272.25,
+        "originX": 0.5077959793115241,
+        "originY": 0.8605108055009824,
+        "leftOriginX": 0.4922040206884759,
+        "sourceRect": [
+          523,
+          529,
+          515,
+          461
+        ],
+        "pixels": 117439,
+        "foreground": {
+          "key": "constrictor-squeeze-front-4",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-4.png?v=54e65b7114b2"
+        },
+        "socket": {
+          "x": 96.08314773570896,
+          "y": -60
+        }
+      },
+      {
+        "key": "constrictor-squeeze-5",
+        "url": "assets/bosses/constrictor/frames/squeeze-05.png?v=2b2e526f0269",
+        "width": 532,
+        "height": 465,
+        "scale": 0.75,
+        "bodyHeight": 278.25,
+        "originX": 0.499356874328679,
+        "originY": 0.9440860215053763,
+        "leftOriginX": 0.5006431256713211,
+        "sourceRect": [
+          1052,
+          531,
+          484,
+          417
+        ],
+        "pixels": 115425,
+        "foreground": {
+          "key": "constrictor-squeeze-front-5",
+          "url": "assets/bosses/constrictor/frames/squeeze-front-5.png?v=d954b9006da2"
+        },
+        "socket": {
+          "x": 99.25660714285709,
+          "y": -60
+        }
+      }
+    ],
+    "release": [
+      {
+        "key": "constrictor-release-0",
+        "url": "assets/bosses/constrictor/frames/release-00.png?v=4ed2c1755e35",
+        "width": 551,
+        "height": 549,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 309.6774193548387,
+        "originX": 0.4681397186049989,
+        "originY": 0.8925318761384335,
+        "leftOriginX": 0.5318602813950011,
+        "sourceRect": [
+          26,
+          23,
+          503,
+          501
+        ],
+        "pixels": 131798
+      },
+      {
+        "key": "constrictor-release-1",
+        "url": "assets/bosses/constrictor/frames/release-01.png?v=4ed2c1755e35",
+        "width": 536,
+        "height": 525,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 313.5483870967742,
+        "originX": 0.4755008924299754,
+        "originY": 0.8952380952380953,
+        "leftOriginX": 0.5244991075700246,
+        "sourceRect": [
+          523,
+          47,
+          488,
+          477
+        ],
+        "pixels": 128801
+      },
+      {
+        "key": "constrictor-release-2",
+        "url": "assets/bosses/constrictor/frames/release-02.png?v=4ed2c1755e35",
+        "width": 570,
+        "height": 533,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 323.61290322580646,
+        "originX": 0.5445956081270172,
+        "originY": 0.8949343339587242,
+        "leftOriginX": 0.45540439187298276,
+        "sourceRect": [
+          13,
+          525,
+          522,
+          485
+        ],
+        "pixels": 132943
+      },
+      {
+        "key": "constrictor-release-3",
+        "url": "assets/bosses/constrictor/frames/release-03.png?v=4ed2c1755e35",
+        "width": 543,
+        "height": 501,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 323.61290322580646,
+        "originX": 0.5182431554425319,
+        "originY": 0.9421157684630739,
+        "leftOriginX": 0.48175684455746814,
+        "sourceRect": [
+          519,
+          529,
+          495,
+          453
+        ],
+        "pixels": 118544
+      },
+      {
+        "key": "constrictor-release-4",
+        "url": "assets/bosses/constrictor/frames/release-04.png?v=4ed2c1755e35",
+        "width": 557,
+        "height": 545,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 325.93548387096774,
+        "originX": 0.4970453424765082,
+        "originY": 0.8642201834862385,
+        "leftOriginX": 0.5029546575234918,
+        "sourceRect": [
+          29,
+          1015,
+          509,
+          497
+        ],
+        "pixels": 131528
+      },
+      {
+        "key": "constrictor-release-5",
+        "url": "assets/bosses/constrictor/frames/release-05.png?v=4ed2c1755e35",
+        "width": 516,
+        "height": 532,
+        "scale": 0.7741935483870968,
+        "bodyHeight": 321.2903225806451,
+        "originX": 0.5134693310565404,
+        "originY": 0.8364661654135338,
+        "leftOriginX": 0.48653066894345964,
+        "sourceRect": [
+          529,
+          1032,
+          468,
+          484
+        ],
+        "pixels": 123440
+      }
+    ],
+    "block": [
+      {
+        "key": "constrictor-block-0",
+        "url": "assets/bosses/constrictor/frames/block-00.png?v=9cc01e56f630",
+        "width": 869,
+        "height": 583,
+        "scale": 0.5217391304347826,
+        "bodyHeight": 242.08695652173913,
+        "originX": 0.4740955848818401,
+        "originY": 0.8679245283018868,
+        "leftOriginX": 0.5259044151181599,
+        "sourceRect": [
+          33,
+          23,
+          821,
+          535
+        ],
+        "pixels": 227096
+      },
+      {
+        "key": "constrictor-block-1",
+        "url": "assets/bosses/constrictor/frames/block-01.png?v=9cc01e56f630",
+        "width": 783,
+        "height": 523,
+        "scale": 0.5217391304347826,
+        "bodyHeight": 183.65217391304347,
+        "originX": 0.5598193699038412,
+        "originY": 0.9349904397705545,
+        "leftOriginX": 0.4401806300961588,
+        "sourceRect": [
+          785,
+          39,
+          735,
+          475
+        ],
+        "pixels": 188978
+      },
+      {
+        "key": "constrictor-block-2",
+        "url": "assets/bosses/constrictor/frames/block-02.png?v=9cc01e56f630",
+        "width": 792,
+        "height": 473,
+        "scale": 0.5217391304347826,
+        "bodyHeight": 190.95652173913044,
+        "originX": 0.5601194915000256,
+        "originY": 0.9302325581395349,
+        "leftOriginX": 0.4398805084999744,
+        "sourceRect": [
+          25,
+          567,
+          744,
+          425
+        ],
+        "pixels": 214852
+      },
+      {
+        "key": "constrictor-block-3",
+        "url": "assets/bosses/constrictor/frames/block-03.png?v=9cc01e56f630",
+        "width": 800,
+        "height": 496,
+        "scale": 0.5217391304347826,
+        "bodyHeight": 216.52173913043478,
+        "originX": 0.5833041459048909,
+        "originY": 0.9395161290322581,
+        "leftOriginX": 0.4166958540951091,
+        "sourceRect": [
+          769,
+          535,
+          752,
+          448
+        ],
+        "pixels": 221058
+      }
+    ],
+    "hit": [
+      {
+        "key": "constrictor-hit-0",
+        "url": "assets/bosses/constrictor/frames/hit-00.png?v=3c6896f21dbe",
+        "width": 644,
+        "height": 589,
+        "scale": 0.5714285714285714,
+        "bodyHeight": 274.85714285714283,
+        "originX": 0.552807840677186,
+        "originY": 0.8624787775891342,
+        "leftOriginX": 0.447192159322814,
+        "sourceRect": [
+          66,
+          16,
+          596,
+          541
+        ],
+        "pixels": 164685
+      },
+      {
+        "key": "constrictor-hit-1",
+        "url": "assets/bosses/constrictor/frames/hit-01.png?v=3c6896f21dbe",
+        "width": 757,
+        "height": 541,
+        "scale": 0.5714285714285714,
+        "bodyHeight": 260.57142857142856,
+        "originX": 0.5937667543651167,
+        "originY": 0.9519408502772643,
+        "leftOriginX": 0.4062332456348833,
+        "sourceRect": [
+          781,
+          9,
+          709,
+          493
+        ],
+        "pixels": 176491
+      },
+      {
+        "key": "constrictor-hit-2",
+        "url": "assets/bosses/constrictor/frames/hit-02.png?v=3c6896f21dbe",
+        "width": 859,
+        "height": 483,
+        "scale": 0.5714285714285714,
+        "bodyHeight": 212.57142857142856,
+        "originX": 0.5569004327723078,
+        "originY": 0.937888198757764,
+        "leftOriginX": 0.44309956722769217,
+        "sourceRect": [
+          25,
+          557,
+          811,
+          435
+        ],
+        "pixels": 178489
+      },
+      {
+        "key": "constrictor-hit-3",
+        "url": "assets/bosses/constrictor/frames/hit-03.png?v=3c6896f21dbe",
+        "width": 653,
+        "height": 538,
+        "scale": 0.5714285714285714,
+        "bodyHeight": 277.1428571428571,
+        "originX": 0.5613098138187023,
+        "originY": 0.9479553903345725,
+        "leftOriginX": 0.43869018618129774,
+        "sourceRect": [
+          881,
+          502,
+          605,
+          490
+        ],
+        "pixels": 167019
+      }
+    ],
+    "knockdown": [
+      {
+        "key": "constrictor-knockdown-0",
+        "url": "assets/bosses/constrictor/frames/knockdown-00.png?v=1d816c3bd6a7",
+        "width": 494,
+        "height": 530,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 384.92307692307696,
+        "originX": 0.5494375648285841,
+        "originY": 0.8358490566037736,
+        "leftOriginX": 0.4505624351714159,
+        "sourceRect": [
+          0,
+          90,
+          446,
+          482
+        ],
+        "pixels": 114761
+      },
+      {
+        "key": "constrictor-knockdown-1",
+        "url": "assets/bosses/constrictor/frames/knockdown-01.png?v=1d816c3bd6a7",
+        "width": 390,
+        "height": 569,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 347.0769230769231,
+        "originX": 0.49977596723327267,
+        "originY": 0.8453427065026362,
+        "leftOriginX": 0.5002240327667273,
+        "sourceRect": [
+          446,
+          53,
+          342,
+          521
+        ],
+        "pixels": 84757
+      },
+      {
+        "key": "constrictor-knockdown-2",
+        "url": "assets/bosses/constrictor/frames/knockdown-02.png?v=1d816c3bd6a7",
+        "width": 404,
+        "height": 633,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 399.69230769230774,
+        "originX": 0.5778495842397382,
+        "originY": 0.8309636650868878,
+        "leftOriginX": 0.4221504157602618,
+        "sourceRect": [
+          769,
+          23,
+          356,
+          585
+        ],
+        "pixels": 81535
+      },
+      {
+        "key": "constrictor-knockdown-3",
+        "url": "assets/bosses/constrictor/frames/knockdown-03.png?v=1d816c3bd6a7",
+        "width": 473,
+        "height": 675,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 351.69230769230774,
+        "originX": 0.5771010367414167,
+        "originY": 0.7822222222222223,
+        "leftOriginX": 0.42289896325858334,
+        "sourceRect": [
+          1095,
+          21,
+          425,
+          627
+        ],
+        "pixels": 92812
+      },
+      {
+        "key": "constrictor-knockdown-4",
+        "url": "assets/bosses/constrictor/frames/knockdown-04.png?v=1d816c3bd6a7",
+        "width": 571,
+        "height": 471,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 225.23076923076925,
+        "originX": 0.5563636801587437,
+        "originY": 0.6560509554140127,
+        "leftOriginX": 0.4436363198412563,
+        "sourceRect": [
+          17,
+          601,
+          523,
+          423
+        ],
+        "pixels": 76982
+      },
+      {
+        "key": "constrictor-knockdown-5",
+        "url": "assets/bosses/constrictor/frames/knockdown-05.png?v=1d816c3bd6a7",
+        "width": 720,
+        "height": 441,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 220.61538461538464,
+        "originX": 0.38574563374374643,
+        "originY": 0.7868480725623582,
+        "leftOriginX": 0.6142543662562536,
+        "sourceRect": [
+          349,
+          607,
+          672,
+          393
+        ],
+        "pixels": 72459
+      },
+      {
+        "key": "constrictor-knockdown-6",
+        "url": "assets/bosses/constrictor/frames/knockdown-06.png?v=1d816c3bd6a7",
+        "width": 667,
+        "height": 394,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 199.3846153846154,
+        "originX": 0.6154650066498377,
+        "originY": 0.9213197969543148,
+        "leftOriginX": 0.3845349933501623,
+        "sourceRect": [
+          893,
+          648,
+          619,
+          346
+        ],
+        "pixels": 71183
+      }
+    ],
+    "get-up": [
+      {
+        "key": "constrictor-get-up-0",
+        "url": "assets/bosses/constrictor/frames/get-up-00.png?v=b9a7bedc0fa5",
+        "width": 525,
+        "height": 419,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 163.3846153846154,
+        "originX": 0.6019447760006366,
+        "originY": 0.9307875894988067,
+        "leftOriginX": 0.39805522399936344,
+        "sourceRect": [
+          0,
+          77,
+          477,
+          371
+        ],
+        "pixels": 48432
+      },
+      {
+        "key": "constrictor-get-up-1",
+        "url": "assets/bosses/constrictor/frames/get-up-01.png?v=b9a7bedc0fa5",
+        "width": 436,
+        "height": 431,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 161.53846153846155,
+        "originX": 0.6095919852299533,
+        "originY": 0.8074245939675174,
+        "leftOriginX": 0.3904080147700467,
+        "sourceRect": [
+          463,
+          119,
+          388,
+          383
+        ],
+        "pixels": 48727
+      },
+      {
+        "key": "constrictor-get-up-2",
+        "url": "assets/bosses/constrictor/frames/get-up-02.png?v=b9a7bedc0fa5",
+        "width": 565,
+        "height": 537,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 240.92307692307693,
+        "originX": 0.6360528227401121,
+        "originY": 0.8286778398510242,
+        "leftOriginX": 0.3639471772598879,
+        "sourceRect": [
+          687,
+          21,
+          517,
+          489
+        ],
+        "pixels": 58381
+      },
+      {
+        "key": "constrictor-get-up-3",
+        "url": "assets/bosses/constrictor/frames/get-up-03.png?v=b9a7bedc0fa5",
+        "width": 411,
+        "height": 381,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 267.6923076923077,
+        "originX": 0.5083992162371184,
+        "originY": 0.9291338582677166,
+        "leftOriginX": 0.49160078376288163,
+        "sourceRect": [
+          1173,
+          117,
+          363,
+          333
+        ],
+        "pixels": 61868
+      },
+      {
+        "key": "constrictor-get-up-4",
+        "url": "assets/bosses/constrictor/frames/get-up-04.png?v=b9a7bedc0fa5",
+        "width": 448,
+        "height": 459,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 312.92307692307696,
+        "originX": 0.48559863341721454,
+        "originY": 0.9411764705882353,
+        "leftOriginX": 0.5144013665827855,
+        "sourceRect": [
+          19,
+          520,
+          400,
+          411
+        ],
+        "pixels": 83364
+      },
+      {
+        "key": "constrictor-get-up-5",
+        "url": "assets/bosses/constrictor/frames/get-up-05.png?v=b9a7bedc0fa5",
+        "width": 395,
+        "height": 415,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 323.0769230769231,
+        "originX": 0.46205710466471595,
+        "originY": 0.9156626506024096,
+        "leftOriginX": 0.537942895335284,
+        "sourceRect": [
+          435,
+          575,
+          347,
+          367
+        ],
+        "pixels": 72983
+      },
+      {
+        "key": "constrictor-get-up-6",
+        "url": "assets/bosses/constrictor/frames/get-up-06.png?v=b9a7bedc0fa5",
+        "width": 418,
+        "height": 446,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 313.84615384615387,
+        "originX": 0.49604505062458976,
+        "originY": 0.8228699551569507,
+        "leftOriginX": 0.5039549493754103,
+        "sourceRect": [
+          783,
+          590,
+          370,
+          398
+        ],
+        "pixels": 80183
+      },
+      {
+        "key": "constrictor-get-up-7",
+        "url": "assets/bosses/constrictor/frames/get-up-07.png?v=b9a7bedc0fa5",
+        "width": 407,
+        "height": 459,
+        "scale": 0.9230769230769231,
+        "bodyHeight": 317.53846153846155,
+        "originX": 0.5151687721364956,
+        "originY": 0.9411764705882353,
+        "leftOriginX": 0.4848312278635044,
+        "sourceRect": [
+          1177,
+          521,
+          359,
+          411
+        ],
+        "pixels": 80671
+      }
+    ],
+    "death": [
+      {
+        "key": "constrictor-death-0",
+        "url": "assets/bosses/constrictor/frames/death-00.png?v=109a479e35f9",
+        "width": 442,
+        "height": 620,
+        "scale": 1,
+        "bodyHeight": 364,
+        "originX": 0.5287027419672375,
+        "originY": 0.817741935483871,
+        "leftOriginX": 0.47129725803276246,
+        "sourceRect": [
+          14,
+          20,
+          394,
+          572
+        ],
+        "pixels": 86861
+      },
+      {
+        "key": "constrictor-death-1",
+        "url": "assets/bosses/constrictor/frames/death-01.png?v=109a479e35f9",
+        "width": 477,
+        "height": 640,
+        "scale": 1,
+        "bodyHeight": 391,
+        "originX": 0.4890643912877793,
+        "originY": 0.7859375,
+        "leftOriginX": 0.5109356087122208,
+        "sourceRect": [
+          401,
+          24,
+          429,
+          592
+        ],
+        "pixels": 75396
+      },
+      {
+        "key": "constrictor-death-2",
+        "url": "assets/bosses/constrictor/frames/death-02.png?v=109a479e35f9",
+        "width": 409,
+        "height": 673,
+        "scale": 1,
+        "bodyHeight": 338,
+        "originX": 0.5396475724332539,
+        "originY": 0.7473997028231798,
+        "leftOriginX": 0.4603524275667461,
+        "sourceRect": [
+          739,
+          33,
+          361,
+          625
+        ],
+        "pixels": 76140
+      },
+      {
+        "key": "constrictor-death-3",
+        "url": "assets/bosses/constrictor/frames/death-03.png?v=109a479e35f9",
+        "width": 519,
+        "height": 691,
+        "scale": 1,
+        "bodyHeight": 331,
+        "originX": 0.5160239770622598,
+        "originY": 0.7380607814761215,
+        "leftOriginX": 0.4839760229377402,
+        "sourceRect": [
+          1065,
+          32,
+          471,
+          643
+        ],
+        "pixels": 78806
+      },
+      {
+        "key": "constrictor-death-4",
+        "url": "assets/bosses/constrictor/frames/death-04.png?v=109a479e35f9",
+        "width": 572,
+        "height": 437,
+        "scale": 1,
+        "bodyHeight": 229,
+        "originX": 0.5942643290869029,
+        "originY": 0.7643020594965675,
+        "leftOriginX": 0.40573567091309715,
+        "sourceRect": [
+          0,
+          601,
+          524,
+          389
+        ],
+        "pixels": 69462
+      },
+      {
+        "key": "constrictor-death-5",
+        "url": "assets/bosses/constrictor/frames/death-05.png?v=109a479e35f9",
+        "width": 587,
+        "height": 359,
+        "scale": 1,
+        "bodyHeight": 194,
+        "originX": 0.3940903111724494,
+        "originY": 0.9275766016713092,
+        "leftOriginX": 0.6059096888275506,
+        "sourceRect": [
+          363,
+          619,
+          539,
+          311
+        ],
+        "pixels": 49294
+      },
+      {
+        "key": "constrictor-death-6",
+        "url": "assets/bosses/constrictor/frames/death-06.png?v=109a479e35f9",
+        "width": 453,
+        "height": 321,
+        "scale": 1,
+        "bodyHeight": 120,
+        "originX": 0.5007702199940858,
+        "originY": 0.9065420560747663,
+        "leftOriginX": 0.4992297800059142,
+        "sourceRect": [
+          763,
+          659,
+          405,
+          273
+        ],
+        "pixels": 33008
+      },
+      {
+        "key": "constrictor-death-7",
+        "url": "assets/bosses/constrictor/frames/death-07.png?v=109a479e35f9",
+        "width": 480,
+        "height": 317,
+        "scale": 1,
+        "bodyHeight": 106,
+        "originX": 0.4150666229794671,
+        "originY": 0.9053627760252366,
+        "leftOriginX": 0.5849333770205329,
+        "sourceRect": [
+          1104,
+          675,
+          432,
+          269
+        ],
+        "pixels": 32151
+      }
+    ]
+  },
+  "settings": {
+    "idle": {
+      "frameRate": 7,
+      "repeat": -1,
+      "holdLast": false,
+      "durations": [
+        143,
+        143,
+        143,
+        143,
+        143,
+        143
+      ]
+    },
+    "slither": {
+      "frameRate": 10,
+      "repeat": -1,
+      "holdLast": false,
+      "durations": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "rush": {
+      "frameRate": 14,
+      "repeat": -1,
+      "holdLast": false,
+      "durations": [
+        71,
+        71,
+        71,
+        71,
+        71,
+        71,
+        71,
+        71
+      ]
+    },
+    "taunt": {
+      "frameRate": 8,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        125,
+        125,
+        125,
+        125,
+        125,
+        125
+      ]
+    },
+    "bite": {
+      "frameRate": 12,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        120,
+        240,
+        70,
+        90,
+        160,
+        220
+      ]
+    },
+    "tail-whip": {
+      "frameRate": 12,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        140,
+        160,
+        200,
+        70,
+        90,
+        160,
+        200
+      ]
+    },
+    "grab": {
+      "frameRate": 10,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "squeeze": {
+      "frameRate": 8,
+      "repeat": -1,
+      "holdLast": false,
+      "durations": [
+        125,
+        125,
+        125,
+        125,
+        125,
+        125
+      ]
+    },
+    "release": {
+      "frameRate": 10,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "block": {
+      "frameRate": 10,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "hit": {
+      "frameRate": 14,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        71,
+        71,
+        71,
+        71
+      ]
+    },
+    "knockdown": {
+      "frameRate": 10,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "get-up": {
+      "frameRate": 10,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    "death": {
+      "frameRate": 9,
+      "repeat": 0,
+      "holdLast": true,
+      "durations": [
+        111,
+        111,
+        111,
+        111,
+        111,
+        111,
+        111,
+        111
+      ]
+    }
+  }
+}
