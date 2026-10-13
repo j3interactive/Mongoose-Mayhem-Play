@@ -4,7 +4,8 @@ import {fileURLToPath} from 'node:url';
 import {PNG} from 'pngjs';
 const dir=path.dirname(fileURLToPath(import.meta.url)),panels=[];
 for(const letter of 'ABCD'){
- const source=PNG.sync.read(fs.readFileSync(path.join(dir,`source_${letter}.png`)));
+ const clean=path.join(dir,`source_${letter}_clean.png`);
+ const source=PNG.sync.read(fs.readFileSync(fs.existsSync(clean)?clean:path.join(dir,`source_${letter}.png`)));
  let top=source.height,bottom=-1;
  for(let y=0;y<source.height;y++)for(let x=0;x<source.width;x++)if(source.data[(y*source.width+x)*4+3]>=220){top=Math.min(top,y);bottom=Math.max(bottom,y);}
  const height=bottom-top+1,scale=Math.min(1280/source.width,384/height);
@@ -32,7 +33,7 @@ for(const {p} of panels)for(let y=0;y<400;y++)for(let x=0;x<48;x++){
  strip.data.copy(p.data,(y*1280+1279-x)*4,si,si+4);
 }
 const reports=[];
-const descriptions={A:'Screen 6: twilight alley entrance, picture-only firework posters and lit upstairs windows.',B:'Screen 7: purple brick wall with a zigzag metal fire escape and two fireworks in the rooftop gap.',C:'Screen 8: night courtyard with laundry, a striped wall canopy, painted mongoose mural and three fireworks.',D:'Screen 9: deepest-night descending rooftops with water tanks, overhead lights and dense fireworks toward the plaza.'};
+const descriptions={A:'Screen 6: twilight alley entrance, picture-only firework posters and lit upstairs windows.',B:'Screen 7: purple brick wall with a zigzag metal fire escape; transparent sky without painted fireworks.',C:'Screen 8: night courtyard with laundry, striped canopy and mongoose mural; no painted fireworks.',D:'Screen 9: deepest-night descending rooftops, water tanks and string lights; no painted fireworks.'};
 for(const {letter,p,sourceSize,scale} of panels){
  let empty=0,baselineGaps=0,transparent=0;
  for(let x=0;x<1280;x++){

@@ -30,15 +30,15 @@
       "height": 400,
       "baseline": 399,
       "screen": 7,
-      "description": "Screen 7: purple brick wall with a zigzag metal fire escape and two fireworks in the rooftop gap.",
+      "description": "Screen 7: purple brick wall with a zigzag metal fire escape; transparent sky without painted fireworks.",
       "sourceSize": [
-        2172,
+        2171,
         724
       ],
-      "uniformScale": 0.5541125541125541,
+      "uniformScale": 0.588957055214724,
       "emptyColumns": 0,
       "baselineGaps": 0,
-      "transparentPixels": 186865,
+      "transparentPixels": 190724,
       "frameCount": 1
     },
     {
@@ -47,15 +47,15 @@
       "height": 400,
       "baseline": 399,
       "screen": 8,
-      "description": "Screen 8: night courtyard with laundry, a striped wall canopy, painted mongoose mural and three fireworks.",
+      "description": "Screen 8: night courtyard with laundry, striped canopy and mongoose mural; no painted fireworks.",
       "sourceSize": [
-        2172,
+        2171,
         724
       ],
-      "uniformScale": 0.5722801788375559,
+      "uniformScale": 0.5895900506678949,
       "emptyColumns": 0,
       "baselineGaps": 0,
-      "transparentPixels": 173572,
+      "transparentPixels": 178826,
       "frameCount": 1
     },
     {
@@ -64,15 +64,15 @@
       "height": 400,
       "baseline": 399,
       "screen": 9,
-      "description": "Screen 9: deepest-night descending rooftops with water tanks, overhead lights and dense fireworks toward the plaza.",
+      "description": "Screen 9: deepest-night descending rooftops, water tanks and string lights; no painted fireworks.",
       "sourceSize": [
-        2172,
+        2171,
         724
       ],
-      "uniformScale": 0.5722801788375559,
+      "uniformScale": 0.588957055214724,
       "emptyColumns": 0,
       "baselineGaps": 0,
-      "transparentPixels": 186747,
+      "transparentPixels": 233414,
       "frameCount": 1
     }
   ],
