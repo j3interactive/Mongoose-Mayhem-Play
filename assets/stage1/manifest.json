@@ -9,27 +9,6 @@
   "palette": "palette.json",
   "files": [
     {
-      "file": "stage1_sky_dusk.png",
-      "width": 640,
-      "height": 360,
-      "frameCount": 1,
-      "description": "Opaque dusk sky with clouds and stars; fireworks are animated at runtime."
-    },
-    {
-      "file": "stage1_sky_night.png",
-      "width": 640,
-      "height": 360,
-      "frameCount": 1,
-      "description": "Opaque night sky with clouds and stars; fireworks are animated at runtime."
-    },
-    {
-      "file": "stage1_skyline.png",
-      "width": 1280,
-      "height": 360,
-      "frameCount": 1,
-      "description": "Seamless transparent Sundara skyline with green coiled-snake Kraitworks Tower."
-    },
-    {
       "file": "stage1_ui_title.png",
       "width": 320,
       "height": 80,
@@ -306,19 +285,41 @@
       "file": "stage1_landmark_fountain.png",
       "width": 480,
       "height": 264,
-      "nativeWidth": 240,
-      "nativeHeight": 132,
       "frameCount": 1,
-      "description": "Transparent carved festival fountain with cyan water and a golden mongoose finial."
+      "description": "Complete fountain with clean comic contours, detailed shading and transparent silhouette.",
+      "sha256": "1bde487a3904d908f894843d197fc8012302f22c24d14637e9dc4583eebcf0a0"
     },
     {
       "file": "stage1_landmark_bandstand.png",
       "width": 1120,
       "height": 400,
-      "nativeWidth": 560,
-      "nativeHeight": 200,
       "frameCount": 1,
-      "description": "Transparent lantern pavilion with the large festival video screen and speakers."
+      "description": "Complete bandstand with clean comic contours, detailed shading and transparent silhouette.",
+      "sha256": "a8f98c53194f35e8e5ca02bc800ebb3649e38a81a8a1a58c0d0c9f926eeb3ca3"
+    },
+    {
+      "file": "stage1_sky_dusk.png",
+      "width": 1280,
+      "height": 720,
+      "frameCount": 1,
+      "description": "Full-resolution illustrated dusk sky, no dither or painted fireworks.",
+      "sha256": "fb8bf2f290ac4a42a819ff415ccc5bb2333d46f6670b2962c99f73a765059a21"
+    },
+    {
+      "file": "stage1_sky_night.png",
+      "width": 1280,
+      "height": 720,
+      "frameCount": 1,
+      "description": "Full-resolution illustrated night sky, no dither or painted fireworks.",
+      "sha256": "6e912d69bd337d4564c541c4e038bc6c3233e897254965bb56df1008930dafb7"
+    },
+    {
+      "file": "stage1_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "frameCount": 1,
+      "description": "Fine illustrated Sundara skyline with green coiled-snake Kraitworks Tower.",
+      "sha256": "927a38d6f359ac6e09d32fe1792ba078a9258317894b88c510fe2f4a01186bf8"
     },
     {
       "file": "stage1_mid.png",
@@ -496,5 +497,6 @@
   "runtimeResolution": {
     "width": 1280,
     "height": 720
-  }
+  },
+  "artStyle": "Clean inked comic/anime scenery matching the character art, full-resolution skies."
 }
