@@ -1,6 +1,92 @@
 {
   "generation": "built-in imagegen",
   "style": "Character-matched inked comic/anime scenery; previous pixel-art sources retained.",
+  "proportions": [
+    {
+      "asset": "middle row 1",
+      "source": [
+        1983,
+        382
+      ],
+      "output": [
+        1454,
+        280
+      ],
+      "scale": 0.7329842931937173
+    },
+    {
+      "asset": "middle row 2",
+      "source": [
+        1983,
+        333
+      ],
+      "output": [
+        1667,
+        280
+      ],
+      "scale": 0.8408408408408409
+    },
+    {
+      "asset": "alley a",
+      "source": [
+        2171,
+        643
+      ],
+      "output": [
+        1280,
+        379
+      ],
+      "scale": 0.5895900506678949
+    },
+    {
+      "asset": "alley b",
+      "source": [
+        2171,
+        680
+      ],
+      "output": [
+        1226,
+        384
+      ],
+      "scale": 0.5647058823529412
+    },
+    {
+      "asset": "alley c",
+      "source": [
+        2171,
+        579
+      ],
+      "output": [
+        1280,
+        341
+      ],
+      "scale": 0.5895900506678949
+    },
+    {
+      "asset": "alley d",
+      "source": [
+        2171,
+        715
+      ],
+      "output": [
+        1166,
+        384
+      ],
+      "scale": 0.5370629370629371
+    },
+    {
+      "asset": "skyline",
+      "source": [
+        2171,
+        319
+      ],
+      "output": [
+        2560,
+        376
+      ],
+      "scale": 1.1791801013357899
+    }
+  ],
   "files": [
     {
       "file": "stage1_mid.png",
@@ -8,7 +94,7 @@
       "height": 720,
       "frameCount": 1,
       "description": "Eight connected Garden Quarter groups with clean comic linework and finer painted shading.",
-      "sha256": "255231c8cf2732c8c9115dae02f1c1e09578873febdfc2c05bd3dd4114597172"
+      "sha256": "de8e5864236deab67d52f1c26b92ffd35548abe292f0c300c7182e73452e6077"
     },
     {
       "file": "stage1_alley_a.png",
@@ -24,7 +110,7 @@
       "height": 400,
       "frameCount": 1,
       "description": "Festival alley with clean ink contours, controlled cel shading and no painted aerial explosions.",
-      "sha256": "e747ad44928658ab4da7cf5af4fba6d965fba9fdb188ba4fe386d51fdcda5a8e"
+      "sha256": "1a08e108b50a1df41cd770ac2ff7f3d60d73f14f7a39284bb5f6d48075aeb9bf"
     },
     {
       "file": "stage1_alley_c.png",
@@ -40,7 +126,7 @@
       "height": 400,
       "frameCount": 1,
       "description": "Festival alley with clean ink contours, controlled cel shading and no painted aerial explosions.",
-      "sha256": "7a0e28565037b609b835fd5423634e748cb3ce720a633a3a873d030b3da338d1"
+      "sha256": "5eec4eeaec623c04547e242ecd8d5e78bf3b89eff0e7414678a4a8ba5f106364"
     },
     {
       "file": "cobblestone-street.png",
@@ -88,7 +174,7 @@
       "height": 720,
       "frameCount": 1,
       "description": "Fine illustrated Sundara skyline with green coiled-snake Kraitworks Tower.",
-      "sha256": "927a38d6f359ac6e09d32fe1792ba078a9258317894b88c510fe2f4a01186bf8"
+      "sha256": "e0489c52f43ff72f8e479a76a45de4e35f7d42289f898df9319c6332844a3d46"
     }
   ]
 }
