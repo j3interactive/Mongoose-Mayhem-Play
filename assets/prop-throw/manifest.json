@@ -1,0 +1,1145 @@
+{
+  "generator": "built-in image_gen",
+  "status": "sprite pack; gameplay registration pending",
+  "releaseAt": 420,
+  "duration": 700,
+  "pickupFrame": 2,
+  "releaseFrame": 5,
+  "characters": {
+    "rikki": {
+      "frames": [
+        {
+          "key": "rikki-prop-throw-0",
+          "url": "assets/prop-throw/rikki/throw-0.png?v=6ba10eb10403",
+          "width": 434,
+          "height": 470,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            18,
+            7,
+            386,
+            422
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5529953917050692,
+          "originY": 0.9468085106382979,
+          "handSocket": {
+            "x": 313,
+            "y": 205.6
+          },
+          "duration": 70,
+          "phase": "ready",
+          "propHeld": false,
+          "sha256": "6ba10eb1040396e80808021af547d5700c289cbc07439ccc79e9fd9f6b74b280",
+          "pixels": 89533
+        },
+        {
+          "key": "rikki-prop-throw-1",
+          "url": "assets/prop-throw/rikki/throw-1.png?v=3f5ca39400ba",
+          "width": 462,
+          "height": 405,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            458,
+            69,
+            414,
+            357
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5443722943722944,
+          "originY": 0.9382716049382716,
+          "handSocket": {
+            "x": 361.8399999999999,
+            "y": 298.35
+          },
+          "duration": 80,
+          "phase": "bend",
+          "propHeld": false,
+          "sha256": "3f5ca39400ba46a2d91cfc3273c7e51cee78bba911fa9b20a0391ed8ba5ec0c4",
+          "pixels": 85703
+        },
+        {
+          "key": "rikki-prop-throw-2",
+          "url": "assets/prop-throw/rikki/throw-2.png?v=bf6cac62b4f1",
+          "width": 447,
+          "height": 314,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            889,
+            162,
+            399,
+            266
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5850111856823266,
+          "originY": 0.9203821656050956,
+          "handSocket": {
+            "x": 361.5999999999999,
+            "y": 269.59000000000003
+          },
+          "duration": 80,
+          "phase": "reach",
+          "propHeld": true,
+          "sha256": "bf6cac62b4f1b6e91493738bd0d1b2069b712f019a6a74be8bc9a4538abe3202",
+          "pixels": 70598
+        },
+        {
+          "key": "rikki-prop-throw-3",
+          "url": "assets/prop-throw/rikki/throw-3.png?v=56fdf9848d61",
+          "width": 457,
+          "height": 435,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            1332,
+            41,
+            409,
+            387
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5700218818380745,
+          "originY": 0.9425287356321839,
+          "handSocket": {
+            "x": 349.79999999999995,
+            "y": 247.71999999999997
+          },
+          "duration": 90,
+          "phase": "lift",
+          "propHeld": true,
+          "sha256": "56fdf9848d61b282e84c6e146fb7c230841cadca1471a5de1d01869b5a520a75",
+          "pixels": 82147
+        },
+        {
+          "key": "rikki-prop-throw-4",
+          "url": "assets/prop-throw/rikki/throw-4.png?v=7bbc21cfda1b",
+          "width": 456,
+          "height": 466,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            23,
+            450,
+            408,
+            418
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5449561403508771,
+          "originY": 0.9463519313304721,
+          "handSocket": {
+            "x": 300.40000000000003,
+            "y": 202.88
+          },
+          "duration": 100,
+          "phase": "windup",
+          "propHeld": true,
+          "sha256": "7bbc21cfda1b8edd63110bfae9bb4084a714a642e1bb03f843f14dbadc9930f6",
+          "pixels": 83175
+        },
+        {
+          "key": "rikki-prop-throw-5",
+          "url": "assets/prop-throw/rikki/throw-5.png?v=5e0f22645bb5",
+          "width": 544,
+          "height": 441,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            427,
+            470,
+            496,
+            393
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.46691176470588236,
+          "originY": 0.9433106575963719,
+          "handSocket": {
+            "x": 484.4200000000001,
+            "y": 103
+          },
+          "duration": 80,
+          "phase": "release",
+          "propHeld": false,
+          "sha256": "5e0f22645bb5dcd5f3c511ff4cdb6d06f8e6abe12188f27d99523b0c2c48c597",
+          "pixels": 93263
+        },
+        {
+          "key": "rikki-prop-throw-6",
+          "url": "assets/prop-throw/rikki/throw-6.png?v=03e09e08e166",
+          "width": 508,
+          "height": 440,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            897,
+            469,
+            460,
+            392
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.4675196850393701,
+          "originY": 0.9431818181818182,
+          "handSocket": {
+            "x": 436.29999999999995,
+            "y": 122.25
+          },
+          "duration": 100,
+          "phase": "followThrough",
+          "propHeld": false,
+          "sha256": "03e09e08e1667e3f07c79d01364ee1e77348fce843ce4de2c6279296cd03a797",
+          "pixels": 86707
+        },
+        {
+          "key": "rikki-prop-throw-7",
+          "url": "assets/prop-throw/rikki/throw-7.png?v=68494d5f5021",
+          "width": 440,
+          "height": 462,
+          "source": "assets/characters/prop-throw/sources/rikki.png",
+          "rect": [
+            1356,
+            454,
+            392,
+            414
+          ],
+          "renderScale": 0.380931337347401,
+          "originX": 0.5568181818181818,
+          "originY": 0.9458874458874459,
+          "handSocket": {
+            "x": 336.20000000000005,
+            "y": 209.95000000000005
+          },
+          "duration": 100,
+          "phase": "recover",
+          "propHeld": false,
+          "sha256": "68494d5f502132bd60a732b39e916694c628880cbc7605bad635e1914ebfacce",
+          "pixels": 86885
+        }
+      ],
+      "sourceHash": "da07668c222099ed9258ba1ea97aec93107436b4c7be26c60352567b254ebd55",
+      "anatomicalReference": "assets/derived/rikki-idle-0.png?v=e28fff5a59b3",
+      "idleReference": {
+        "key": "rikki-idle-0",
+        "url": "assets/derived/rikki-idle-0.png?v=e28fff5a59b3",
+        "source": "assets/characters/rikki/sheets/rikki_idle.png",
+        "rect": [
+          10,
+          172,
+          381,
+          431
+        ],
+        "width": 389,
+        "height": 439,
+        "renderScale": 0.37209302325581395,
+        "originX": 0.5,
+        "originY": 0.9908883826879271,
+        "placeholder": false,
+        "extraction": "Whole connected foreground component"
+      },
+      "renderScale": 0.380931337347401,
+      "originLeftRule": "1 - originX",
+      "equipment": "Unarmed; original hood, gloves and boots."
+    },
+    "tikki": {
+      "frames": [
+        {
+          "key": "tikki-prop-throw-0",
+          "url": "assets/prop-throw/tikki/throw-0.png?v=761ce5491a86",
+          "width": 441,
+          "height": 426,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            23,
+            48,
+            393,
+            378
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5589569160997733,
+          "originY": 0.9413145539906104,
+          "handSocket": {
+            "x": 326.07,
+            "y": 175.4
+          },
+          "duration": 70,
+          "phase": "ready",
+          "propHeld": false,
+          "sha256": "761ce5491a861ec5a4b1b4287650d114fd38ba8dcf7e7d596aa3389536195eef",
+          "pixels": 80111
+        },
+        {
+          "key": "tikki-prop-throw-1",
+          "url": "assets/prop-throw/tikki/throw-1.png?v=1bfc4b129555",
+          "width": 469,
+          "height": 370,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            461,
+            104,
+            421,
+            322
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5682302771855011,
+          "originY": 0.9324324324324325,
+          "handSocket": {
+            "x": 371.94000000000005,
+            "y": 274.6
+          },
+          "duration": 80,
+          "phase": "bend",
+          "propHeld": false,
+          "sha256": "1bfc4b129555203913b870b27a46f3994a4606f2271b4c7ded8274aec13f9d39",
+          "pixels": 79218
+        },
+        {
+          "key": "tikki-prop-throw-2",
+          "url": "assets/prop-throw/tikki/throw-2.png?v=d33b5d1a92a7",
+          "width": 433,
+          "height": 308,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            934,
+            166,
+            385,
+            260
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5600461893764435,
+          "originY": 0.9188311688311688,
+          "handSocket": {
+            "x": 334.23,
+            "y": 267.52
+          },
+          "duration": 80,
+          "phase": "reach",
+          "propHeld": true,
+          "sha256": "d33b5d1a92a71d90e25576cca9944b86f06cb8704902e692879aaf1e0515d655",
+          "pixels": 65638
+        },
+        {
+          "key": "tikki-prop-throw-3",
+          "url": "assets/prop-throw/tikki/throw-3.png?v=1763e02e8d35",
+          "width": 440,
+          "height": 393,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            1359,
+            81,
+            392,
+            345
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5670454545454545,
+          "originY": 0.9363867684478372,
+          "handSocket": {
+            "x": 289.52,
+            "y": 213.20000000000005
+          },
+          "duration": 90,
+          "phase": "lift",
+          "propHeld": true,
+          "sha256": "1763e02e8d3536239f355db4cf53a45065f58230d07d1d1c8c36621e512177ac",
+          "pixels": 73546
+        },
+        {
+          "key": "tikki-prop-throw-4",
+          "url": "assets/prop-throw/tikki/throw-4.png?v=8c1d3d777ddf",
+          "width": 443,
+          "height": 423,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            44,
+            463,
+            395,
+            375
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5519187358916479,
+          "originY": 0.9408983451536643,
+          "handSocket": {
+            "x": 268.03999999999996,
+            "y": 203.51999999999998
+          },
+          "duration": 100,
+          "phase": "windup",
+          "propHeld": true,
+          "sha256": "8c1d3d777ddf66ec277b51f83cffd1db1c1958587968debaed69b781f68ee27e",
+          "pixels": 74500
+        },
+        {
+          "key": "tikki-prop-throw-5",
+          "url": "assets/prop-throw/tikki/throw-5.png?v=e5e0d62c2d8d",
+          "width": 491,
+          "height": 423,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            450,
+            463,
+            443,
+            375
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5162932790224033,
+          "originY": 0.9408983451536643,
+          "handSocket": {
+            "x": 425.30999999999995,
+            "y": 107.05999999999995
+          },
+          "duration": 80,
+          "phase": "release",
+          "propHeld": false,
+          "sha256": "e5e0d62c2d8d85d64fd9741601d4443bb4337e4095b806dae6916bb32e4fc663",
+          "pixels": 82526
+        },
+        {
+          "key": "tikki-prop-throw-6",
+          "url": "assets/prop-throw/tikki/throw-6.png?v=325229384171",
+          "width": 469,
+          "height": 417,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            897,
+            469,
+            421,
+            369
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5085287846481876,
+          "originY": 0.9400479616306955,
+          "handSocket": {
+            "x": 405.3800000000001,
+            "y": 123.36000000000001
+          },
+          "duration": 100,
+          "phase": "followThrough",
+          "propHeld": false,
+          "sha256": "3252293841716ac3242e388580f96b00afe1c61bce8b18f6d252dd8fae50c345",
+          "pixels": 79066
+        },
+        {
+          "key": "tikki-prop-throw-7",
+          "url": "assets/prop-throw/tikki/throw-7.png?v=1a1b12395003",
+          "width": 442,
+          "height": 419,
+          "source": "assets/characters/prop-throw/sources/tikki.png",
+          "rect": [
+            1344,
+            467,
+            394,
+            371
+          ],
+          "renderScale": 0.4253901671704398,
+          "originX": 0.5610859728506787,
+          "originY": 0.9403341288782816,
+          "handSocket": {
+            "x": 337.79999999999995,
+            "y": 191.04999999999995
+          },
+          "duration": 100,
+          "phase": "recover",
+          "propHeld": false,
+          "sha256": "1a1b12395003d092943352139f1ccdd4aad69100684c5c7b38ba329110d3e41a",
+          "pixels": 79576
+        }
+      ],
+      "sourceHash": "ebbb74db662746cadb4943b75c83fa3c304aa56a5e4c6c0bfe9b8b362f230970",
+      "anatomicalReference": "assets/tikki/frames/idle-0.png?v=a5c4facf10c1",
+      "idleReference": {
+        "key": "tikki-idle-0",
+        "url": "assets/tikki/frames/idle-0.png?v=a5c4facf10c1",
+        "source": "assets/characters/tikki/sheets/Tikki_idle_cycle.png",
+        "width": 495,
+        "height": 468,
+        "rect": [
+          22,
+          62,
+          471,
+          444
+        ],
+        "renderScale": 0.36119840771003564,
+        "originX": 0.5348760330578513,
+        "originY": 0.9743589743589743,
+        "placeholder": false,
+        "pixels": 111961
+      },
+      "renderScale": 0.4253901671704398,
+      "originLeftRule": "1 - originX",
+      "equipment": "Unarmed; teal hood and scarf retained."
+    },
+    "tavi": {
+      "frames": [
+        {
+          "key": "tavi-prop-throw-0",
+          "url": "assets/prop-throw/tavi/throw-0.png?v=251ac4f95960",
+          "width": 411,
+          "height": 489,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            17,
+            45,
+            363,
+            441
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5401459854014599,
+          "originY": 0.9488752556237219,
+          "handSocket": {
+            "x": 305.8,
+            "y": 235.24
+          },
+          "duration": 70,
+          "phase": "ready",
+          "propHeld": false,
+          "sha256": "251ac4f95960d8f626c8384b14e58f7bc32bd244b83e2cab0093b7123f75cbe9",
+          "pixels": 82002
+        },
+        {
+          "key": "tavi-prop-throw-1",
+          "url": "assets/prop-throw/tavi/throw-1.png?v=cf64aabe41ce",
+          "width": 414,
+          "height": 420,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            395,
+            115,
+            366,
+            372
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5048309178743962,
+          "originY": 0.9404761904761905,
+          "handSocket": {
+            "x": 337.18000000000006,
+            "y": 312.82
+          },
+          "duration": 80,
+          "phase": "bend",
+          "propHeld": false,
+          "sha256": "cf64aabe41ce702ff1b762f0ff4611778c82656a2c8d4b899abf8fead5f00e11",
+          "pixels": 78527
+        },
+        {
+          "key": "tavi-prop-throw-2",
+          "url": "assets/prop-throw/tavi/throw-2.png?v=4a8291ea7e22",
+          "width": 401,
+          "height": 350,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            774,
+            187,
+            353,
+            302
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5860349127182045,
+          "originY": 0.9285714285714286,
+          "handSocket": {
+            "x": 319,
+            "y": 309.05
+          },
+          "duration": 80,
+          "phase": "reach",
+          "propHeld": true,
+          "sha256": "4a8291ea7e2275b0e01e633b86a0cd3f9af0b46d1a4c7ca7848923fdcc45861e",
+          "pixels": 67721
+        },
+        {
+          "key": "tavi-prop-throw-3",
+          "url": "assets/prop-throw/tavi/throw-3.png?v=40810401253f",
+          "width": 411,
+          "height": 472,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            1155,
+            63,
+            363,
+            424
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5900243309002433,
+          "originY": 0.9470338983050848,
+          "handSocket": {
+            "x": 313,
+            "y": 256.55
+          },
+          "duration": 90,
+          "phase": "lift",
+          "propHeld": true,
+          "sha256": "40810401253f6e352fd361004de90df5b9d4162554ec1bfcdadfd61513291396",
+          "pixels": 76459
+        },
+        {
+          "key": "tavi-prop-throw-4",
+          "url": "assets/prop-throw/tavi/throw-4.png?v=c6b813a4e49f",
+          "width": 420,
+          "height": 492,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            16,
+            527,
+            372,
+            444
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5392857142857143,
+          "originY": 0.9491869918699187,
+          "handSocket": {
+            "x": 246.4,
+            "y": 236.67999999999995
+          },
+          "duration": 100,
+          "phase": "windup",
+          "propHeld": true,
+          "sha256": "c6b813a4e49f2d4f9885700fa4e7c59bbcb5b2ffb7440436fa36605cd9bfa538",
+          "pixels": 82449
+        },
+        {
+          "key": "tavi-prop-throw-5",
+          "url": "assets/prop-throw/tavi/throw-5.png?v=86079b216bc0",
+          "width": 481,
+          "height": 479,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            366,
+            536,
+            433,
+            431
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5114345114345115,
+          "originY": 0.9478079331941545,
+          "handSocket": {
+            "x": 412,
+            "y": 119.15999999999997
+          },
+          "duration": 80,
+          "phase": "release",
+          "propHeld": false,
+          "sha256": "86079b216bc05a66193553b3bee786afb182129baf99ada9214b15da40ff65f9",
+          "pixels": 82988
+        },
+        {
+          "key": "tavi-prop-throw-6",
+          "url": "assets/prop-throw/tavi/throw-6.png?v=aed88eee2ad5",
+          "width": 476,
+          "height": 479,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            748,
+            544,
+            428,
+            431
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5073529411764706,
+          "originY": 0.9478079331941545,
+          "handSocket": {
+            "x": 407.5,
+            "y": 140.55999999999995
+          },
+          "duration": 100,
+          "phase": "followThrough",
+          "propHeld": false,
+          "sha256": "aed88eee2ad576024061fa306bc6647edf14833feb2549f4ce0c0f3f0f00bfb5",
+          "pixels": 83095
+        },
+        {
+          "key": "tavi-prop-throw-7",
+          "url": "assets/prop-throw/tavi/throw-7.png?v=3f5fe05ba9e5",
+          "width": 409,
+          "height": 485,
+          "source": "assets/characters/prop-throw/sources/tavi.png",
+          "rect": [
+            1160,
+            538,
+            361,
+            437
+          ],
+          "renderScale": 0.3653122847910155,
+          "originX": 0.5574572127139364,
+          "originY": 0.9484536082474226,
+          "handSocket": {
+            "x": 304.24,
+            "y": 233.31999999999994
+          },
+          "duration": 100,
+          "phase": "recover",
+          "propHeld": false,
+          "sha256": "3f5fe05ba9e5f4b3946fb4ee0fe82f181d5c6d2dca219fe2fa59a475dbc8a03e",
+          "pixels": 81293
+        }
+      ],
+      "sourceHash": "26d6c09bbe6aa1a193fd4e2f6837dcfd9d1242f0d2204392475bbb7ec4312383",
+      "anatomicalReference": "assets/tavi/frames/idle-0.png?v=fde237858c45",
+      "idleReference": {
+        "key": "tavi-idle-0",
+        "url": "assets/tavi/frames/idle-0.png?v=fde237858c45",
+        "source": "assets/characters/tavi/sheets/Tavi_idle_cycle_v2.png",
+        "width": 479,
+        "height": 490,
+        "rect": [
+          32,
+          23,
+          455,
+          466
+        ],
+        "renderScale": 0.34414612236750175,
+        "originX": 0.44140331537599053,
+        "originY": 0.9755102040816327,
+        "placeholder": false,
+        "pixels": 107542
+      },
+      "renderScale": 0.3653122847910155,
+      "originLeftRule": "1 - originX",
+      "equipment": "Sword secured in scabbard at rear belt; hands free."
+    },
+    "bruno": {
+      "frames": [
+        {
+          "key": "bruno-prop-throw-0",
+          "url": "assets/prop-throw/bruno/throw-0.png?v=eccbfd3207f0",
+          "width": 437,
+          "height": 459,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            28,
+            27,
+            389,
+            411
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5594965675057209,
+          "originY": 0.9455337690631809,
+          "handSocket": {
+            "x": 334.6,
+            "y": 188.60000000000002
+          },
+          "duration": 70,
+          "phase": "ready",
+          "propHeld": false,
+          "sha256": "eccbfd3207f07ad0f7a10645644faa933564e1ae08b8d962ef037f90f9fce699",
+          "pixels": 97975
+        },
+        {
+          "key": "bruno-prop-throw-1",
+          "url": "assets/prop-throw/bruno/throw-1.png?v=9f335acf44fe",
+          "width": 469,
+          "height": 375,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            457,
+            109,
+            421,
+            327
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5106609808102346,
+          "originY": 0.9333333333333333,
+          "handSocket": {
+            "x": 384.3399999999999,
+            "y": 297.15999999999997
+          },
+          "duration": 80,
+          "phase": "bend",
+          "propHeld": false,
+          "sha256": "9f335acf44fe4325f1bcdf669be1aacec8db05301221fbaa0ff723f9eb5987f2",
+          "pixels": 88493
+        },
+        {
+          "key": "bruno-prop-throw-2",
+          "url": "assets/prop-throw/bruno/throw-2.png?v=4ff98f8b6853",
+          "width": 469,
+          "height": 339,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            921,
+            145,
+            421,
+            291
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5639658848614072,
+          "originY": 0.9262536873156342,
+          "handSocket": {
+            "x": 367.76,
+            "y": 296.65999999999997
+          },
+          "duration": 80,
+          "phase": "reach",
+          "propHeld": true,
+          "sha256": "4ff98f8b6853dd075ac1690763d50364f8f0b64b0b0251f89e33f8f16bb318c2",
+          "pixels": 80510
+        },
+        {
+          "key": "bruno-prop-throw-3",
+          "url": "assets/prop-throw/bruno/throw-3.png?v=ab40490276e4",
+          "width": 440,
+          "height": 436,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            1343,
+            51,
+            392,
+            388
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5693181818181818,
+          "originY": 0.9426605504587156,
+          "handSocket": {
+            "x": 336.20000000000005,
+            "y": 244.45
+          },
+          "duration": 90,
+          "phase": "lift",
+          "propHeld": true,
+          "sha256": "ab40490276e43cc0080c00d3d9e473014f711349ccedf8667aa0cda034d1e57d",
+          "pixels": 88048
+        },
+        {
+          "key": "bruno-prop-throw-4",
+          "url": "assets/prop-throw/bruno/throw-4.png?v=da9c8dcf566f",
+          "width": 440,
+          "height": 458,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            25,
+            458,
+            392,
+            410
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5511363636363636,
+          "originY": 0.9454148471615721,
+          "handSocket": {
+            "x": 258.4,
+            "y": 200.01
+          },
+          "duration": 100,
+          "phase": "windup",
+          "propHeld": true,
+          "sha256": "da9c8dcf566fe4cb1b8e8c897772fe66c0e7bfaea614d4f55902cbbbe2c48009",
+          "pixels": 98345
+        },
+        {
+          "key": "bruno-prop-throw-5",
+          "url": "assets/prop-throw/bruno/throw-5.png?v=a8124c399a8b",
+          "width": 563,
+          "height": 443,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            442,
+            468,
+            515,
+            395
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.4493783303730018,
+          "originY": 0.9435665914221218,
+          "handSocket": {
+            "x": 485.79999999999995,
+            "y": 91.63999999999999
+          },
+          "duration": 80,
+          "phase": "release",
+          "propHeld": false,
+          "sha256": "a8124c399a8b89db758f3499396b90b1d0341189f165fde9e129f889f1411641",
+          "pixels": 102684
+        },
+        {
+          "key": "bruno-prop-throw-6",
+          "url": "assets/prop-throw/bruno/throw-6.png?v=26fa5fbb3a70",
+          "width": 490,
+          "height": 443,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            908,
+            472,
+            442,
+            395
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.4642857142857143,
+          "originY": 0.9435665914221218,
+          "handSocket": {
+            "x": 424.49,
+            "y": 123
+          },
+          "duration": 100,
+          "phase": "followThrough",
+          "propHeld": false,
+          "sha256": "26fa5fbb3a70979cc26562ba257bfcaf2df60b14def2656b5251a9ea2c2af0a4",
+          "pixels": 93024
+        },
+        {
+          "key": "bruno-prop-throw-7",
+          "url": "assets/prop-throw/bruno/throw-7.png?v=6f574f1f17c8",
+          "width": 442,
+          "height": 450,
+          "source": "assets/characters/prop-throw/sources/bruno.png",
+          "rect": [
+            1343,
+            466,
+            394,
+            402
+          ],
+          "renderScale": 0.45121951219512196,
+          "originX": 0.5565610859728507,
+          "originY": 0.9444444444444444,
+          "handSocket": {
+            "x": 337.79999999999995,
+            "y": 192
+          },
+          "duration": 100,
+          "phase": "recover",
+          "propHeld": false,
+          "sha256": "6f574f1f17c850f13d35c0f071bd7559ec39f0979b396122e6d82ec7b7d3a164",
+          "pixels": 98028
+        }
+      ],
+      "sourceHash": "1489d51524ceecc858ebe0c841b1bd8ddf69abe3ced70596af7307299a641e79",
+      "anatomicalReference": "assets/bruno/frames/idle-0.png?v=2fa63598abc9",
+      "idleReference": {
+        "key": "bruno-idle-0",
+        "url": "assets/bruno/frames/idle-0.png?v=2fa63598abc9",
+        "source": "assets/characters/bruno/sheets/Bruno_idle.png",
+        "width": 512,
+        "height": 521,
+        "rect": [
+          26,
+          16,
+          480,
+          489
+        ],
+        "renderScale": 0.3783231083844581,
+        "originX": 0.5960887964221014,
+        "originY": 0.9692898272552783,
+        "pixels": 145216,
+        "placeholder": false
+      },
+      "renderScale": 0.45121951219512196,
+      "originLeftRule": "1 - originX",
+      "equipment": "Copper gauntlets retained; open palms for separate prop."
+    },
+    "juno": {
+      "frames": [
+        {
+          "key": "juno-prop-throw-0",
+          "url": "assets/prop-throw/juno/throw-0.png?v=232092adbba2",
+          "width": 443,
+          "height": 472,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            25,
+            12,
+            395,
+            424
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5485327313769752,
+          "originY": 0.9470338983050848,
+          "handSocket": {
+            "x": 330.76,
+            "y": 206.46
+          },
+          "duration": 70,
+          "phase": "ready",
+          "propHeld": false,
+          "sha256": "232092adbba2ec2c3d3bdceb355ee84894c0ac5e0a0d5b0ce92ddabc2821b3e8",
+          "pixels": 78965
+        },
+        {
+          "key": "juno-prop-throw-1",
+          "url": "assets/prop-throw/juno/throw-1.png?v=e036fd1e2afe",
+          "width": 450,
+          "height": 406,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            444,
+            77,
+            402,
+            358
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5511111111111111,
+          "originY": 0.9384236453201971,
+          "handSocket": {
+            "x": 368.14,
+            "y": 309.8
+          },
+          "duration": 80,
+          "phase": "bend",
+          "propHeld": false,
+          "sha256": "e036fd1e2afef40c1ed526926160acf087609b8c6628728aaa046631536fd44a",
+          "pixels": 77580
+        },
+        {
+          "key": "juno-prop-throw-2",
+          "url": "assets/prop-throw/juno/throw-2.png?v=739079c9f0f5",
+          "width": 456,
+          "height": 342,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            906,
+            141,
+            408,
+            294
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5855263157894737,
+          "originY": 0.9269005847953217,
+          "handSocket": {
+            "x": 370.0999999999999,
+            "y": 299.47999999999996
+          },
+          "duration": 80,
+          "phase": "reach",
+          "propHeld": true,
+          "sha256": "739079c9f0f5bfbb08ec5edf07a170e7921e25ec52d4dacac779f8b19a8b935f",
+          "pixels": 68149
+        },
+        {
+          "key": "juno-prop-throw-3",
+          "url": "assets/prop-throw/juno/throw-3.png?v=b64d23163c25",
+          "width": 453,
+          "height": 430,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            1347,
+            54,
+            405,
+            382
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5761589403973509,
+          "originY": 0.9418604651162791,
+          "handSocket": {
+            "x": 346.5999999999999,
+            "y": 233.55
+          },
+          "duration": 90,
+          "phase": "lift",
+          "propHeld": true,
+          "sha256": "b64d23163c25b3d4b4e6743b625a2fffadb6ad91da80cac764b24f14671e2731",
+          "pixels": 74155
+        },
+        {
+          "key": "juno-prop-throw-4",
+          "url": "assets/prop-throw/juno/throw-4.png?v=ee56298e5d61",
+          "width": 450,
+          "height": 471,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            25,
+            441,
+            402,
+            423
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5444444444444444,
+          "originY": 0.9469214437367304,
+          "handSocket": {
+            "x": 284.35,
+            "y": 226.60000000000002
+          },
+          "duration": 100,
+          "phase": "windup",
+          "propHeld": true,
+          "sha256": "ee56298e5d61ec391eff3337dc881e8e40345474c1f60901c5cfa0b3df335b3e",
+          "pixels": 75272
+        },
+        {
+          "key": "juno-prop-throw-5",
+          "url": "assets/prop-throw/juno/throw-5.png?v=a8bfafeda91f",
+          "width": 542,
+          "height": 458,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            431,
+            453,
+            494,
+            410
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.46309963099630996,
+          "originY": 0.9454148471615721,
+          "handSocket": {
+            "x": 466.9000000000001,
+            "y": 106.39999999999998
+          },
+          "duration": 80,
+          "phase": "release",
+          "propHeld": false,
+          "sha256": "a8bfafeda91fed57f3a934eb8c7613a649a9eded0ea9742c8c3fc290215ad335",
+          "pixels": 82094
+        },
+        {
+          "key": "juno-prop-throw-6",
+          "url": "assets/prop-throw/juno/throw-6.png?v=a72bb8a5940d",
+          "width": 501,
+          "height": 457,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            889,
+            455,
+            453,
+            409
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5119760479041916,
+          "originY": 0.9452954048140044,
+          "handSocket": {
+            "x": 430,
+            "y": 138.68000000000006
+          },
+          "duration": 100,
+          "phase": "followThrough",
+          "propHeld": false,
+          "sha256": "a72bb8a5940df2c9e9e772af4da40beb40ff968f9e1d027bc10fb346598be74f",
+          "pixels": 82802
+        },
+        {
+          "key": "juno-prop-throw-7",
+          "url": "assets/prop-throw/juno/throw-7.png?v=4b00c5a5710d",
+          "width": 449,
+          "height": 465,
+          "source": "assets/characters/prop-throw/sources/juno.png",
+          "rect": [
+            1356,
+            447,
+            401,
+            417
+          ],
+          "renderScale": 0.37913024355379626,
+          "originX": 0.5679287305122495,
+          "originY": 0.946236559139785,
+          "handSocket": {
+            "x": 335.22,
+            "y": 203.01999999999998
+          },
+          "duration": 100,
+          "phase": "recover",
+          "propHeld": false,
+          "sha256": "4b00c5a5710d849be61740a228754ab7ee1134c7aae07f0d9b4bb4746aa4e48f",
+          "pixels": 77614
+        }
+      ],
+      "sourceHash": "5176f5f2f5a1ec8c1db8b1d6db136cb13a82ff6b9a49adccd2982cd5ca4f0c3e",
+      "anatomicalReference": "assets/juno/frames/idle-0.png?v=92a6bb27e285",
+      "idleReference": {
+        "key": "juno-idle-0",
+        "url": "assets/juno/frames/idle-0.png?v=92a6bb27e285",
+        "source": "assets/characters/juno/sheets/Juno_idle_yellow.png",
+        "width": 499,
+        "height": 532,
+        "rect": [
+          22,
+          17,
+          467,
+          500
+        ],
+        "renderScale": 0.3207441860465116,
+        "originX": 0.6768329087968367,
+        "originY": 0.9699248120300752,
+        "pixels": 116575,
+        "placeholder": false
+      },
+      "renderScale": 0.37913024355379626,
+      "originLeftRule": "1 - originX",
+      "equipment": "Collapsed silver/cyan staff secured to rear belt; hands free."
+    }
+  }
+}

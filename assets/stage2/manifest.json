@@ -1,0 +1,221 @@
+{
+  "stage": 2,
+  "title": "Spice Market Scramble",
+  "boss": "karait",
+  "status": "art-pack; campaign integration pending",
+  "nativeResolution": {
+    "width": 640,
+    "height": 360
+  },
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "nativeFloor": {
+    "minY": 200,
+    "maxY": 335
+  },
+  "screenCount": 12,
+  "stageWidth": 7680,
+  "layerOrder": [
+    "sky",
+    "skyline",
+    "mid",
+    "floor/anchored scenery",
+    "actors/interactive sacks",
+    "foreground",
+    "HUD"
+  ],
+  "files": [
+    {
+      "key": "stage2_sky",
+      "file": "stage2_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "92efbbf295d9967f0df531a8b6652c8dba61c5ad4a054925e28b5b5095c9319c",
+      "scrollFactor": 0,
+      "url": "assets/stage2/stage2_sky.png?v=92efbbf295d9"
+    },
+    {
+      "key": "stage2_skyline",
+      "file": "stage2_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "sha256": "2196de6d33b42741ebec347658b0e580c88150b665e58d562ec0b164c77ba792",
+      "scrollFactor": 0.15,
+      "baseline": 390,
+      "matchingTransparentEndcaps": true,
+      "url": "assets/stage2/stage2_skyline.png?v=2196de6d33b4"
+    },
+    {
+      "key": "stage2_market_mid",
+      "file": "stage2_market_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "0f28c480b75d32f31cdef492bbfe02b5b3171ed3eae1daeeb6a946af2d939d6c",
+      "scrollFactor": 0.55,
+      "baseline": 400,
+      "matchingTransparentEndcaps": true,
+      "url": "assets/stage2/stage2_market_mid.png?v=0f28c480b75d"
+    },
+    {
+      "key": "stage2_rooftop_mid",
+      "file": "stage2_rooftop_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "98c1c636397074ce669af89fb5b526c8a54e1d41b377167d96289b2622ff1dfa",
+      "scrollFactor": 0.55,
+      "baseline": 400,
+      "matchingTransparentEndcaps": true,
+      "url": "assets/stage2/stage2_rooftop_mid.png?v=98c1c6363970"
+    },
+    {
+      "key": "stage2_karait_backdrop",
+      "file": "stage2_karait_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d042268dd35a616d10b9b4d9d98874f5fe8bb83515692b75dd391af8d43914d0",
+      "scrollFactor": 1,
+      "baseline": 400,
+      "matchingTransparentEndcaps": true,
+      "url": "assets/stage2/stage2_karait_backdrop.png?v=d042268dd35a"
+    },
+    {
+      "key": "stage2_market_floor",
+      "file": "stage2_market_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a3b157fe9c54e1da6986b26e4b5ad86c2bcab1f160144116a8b387069bea88f7",
+      "scrollFactor": 1,
+      "floorY": 400,
+      "url": "assets/stage2/stage2_market_floor.png?v=a3b157fe9c54"
+    },
+    {
+      "key": "stage2_rooftop_floor",
+      "file": "stage2_rooftop_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "abea80de4f6c2d4c9a1abc04a3e2cff5e8524ca716acb5307dcdad5a430919f3",
+      "scrollFactor": 1,
+      "floorY": 400,
+      "url": "assets/stage2/stage2_rooftop_floor.png?v=abea80de4f6c"
+    },
+    {
+      "key": "stage2_foreground",
+      "file": "stage2_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "787f541bd8b48aace8b148584a39c7c740c490d35d7988993367dd0f041c846f",
+      "scrollFactor": 1.12,
+      "separateFromScenery": true,
+      "originX": 0.5,
+      "originY": 0.5,
+      "url": "assets/stage2/stage2_foreground.png?v=787f541bd8b4"
+    },
+    {
+      "key": "stage2_spice_sack",
+      "file": "stage2_spice_sack.png",
+      "width": 128,
+      "height": 128,
+      "sha256": "a94c474b5a89518060b8f05d4b3af04bf5f398c65cfda83ef946825b93cdf5b3",
+      "scrollFactor": 1,
+      "separateFromScenery": true,
+      "originX": 0.5,
+      "originY": 1,
+      "url": "assets/stage2/stage2_spice_sack.png?v=a94c474b5a89"
+    },
+    {
+      "key": "stage2_spice_dust",
+      "file": "stage2_spice_dust.png",
+      "width": 384,
+      "height": 256,
+      "sha256": "9892d717712e0c5b36147d746f0bd28841d59d1a1949d56e0524cea8dc1e9471",
+      "scrollFactor": 1,
+      "separateFromScenery": true,
+      "originX": 0.5,
+      "originY": 0.5,
+      "url": "assets/stage2/stage2_spice_dust.png?v=9892d717712e"
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "market",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 2,
+      "section": "market",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 3,
+      "section": "market",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 4,
+      "section": "market",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 5,
+      "section": "rooftops",
+      "floor": "stage2_rooftop_floor",
+      "backdrop": "stage2_rooftop_mid"
+    },
+    {
+      "screen": 6,
+      "section": "rooftops",
+      "floor": "stage2_rooftop_floor",
+      "backdrop": "stage2_rooftop_mid"
+    },
+    {
+      "screen": 7,
+      "section": "rooftops",
+      "floor": "stage2_rooftop_floor",
+      "backdrop": "stage2_rooftop_mid"
+    },
+    {
+      "screen": 8,
+      "section": "rooftops",
+      "floor": "stage2_rooftop_floor",
+      "backdrop": "stage2_rooftop_mid"
+    },
+    {
+      "screen": 9,
+      "section": "exchange-approach",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 10,
+      "section": "exchange-approach",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 11,
+      "section": "exchange-approach",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_market_mid"
+    },
+    {
+      "screen": 12,
+      "section": "karait-arena",
+      "floor": "stage2_market_floor",
+      "backdrop": "stage2_karait_backdrop"
+    }
+  ],
+  "spiceSacks": {
+    "sprite": "stage2_spice_sack",
+    "impactEffect": "stage2_spice_dust",
+    "intent": "Throwable sacks burst into spice dust and temporarily blind enemies.",
+    "gameplayImplemented": false,
+    "tuning": "Blind duration, range and boss response remain gameplay integration work; do not bake effects or collision into scenery."
+  }
+}
