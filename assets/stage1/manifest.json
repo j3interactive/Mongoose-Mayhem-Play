@@ -287,7 +287,7 @@
       "height": 264,
       "frameCount": 1,
       "description": "Complete fountain with clean comic contours, detailed shading and transparent silhouette.",
-      "sha256": "1bde487a3904d908f894843d197fc8012302f22c24d14637e9dc4583eebcf0a0"
+      "sha256": "3f5523e17677b2d040f44dc26d054e32f6ad0506e2de924b718da2734ac5f5eb"
     },
     {
       "file": "stage1_landmark_bandstand.png",
@@ -295,7 +295,7 @@
       "height": 400,
       "frameCount": 1,
       "description": "Complete bandstand with clean comic contours, detailed shading and transparent silhouette.",
-      "sha256": "a8f98c53194f35e8e5ca02bc800ebb3649e38a81a8a1a58c0d0c9f926eeb3ca3"
+      "sha256": "1a1684c17196e393a46d9346dacf2d2c57f9031513482e899f2868b92e689c26"
     },
     {
       "file": "stage1_sky_dusk.png",
@@ -303,7 +303,7 @@
       "height": 720,
       "frameCount": 1,
       "description": "Full-resolution illustrated dusk sky, no dither or painted fireworks.",
-      "sha256": "fb8bf2f290ac4a42a819ff415ccc5bb2333d46f6670b2962c99f73a765059a21"
+      "sha256": "40f640475ebd7ccfe89df446d2ecab3a07daa825ec2009a6d669b2dd8a0de26e"
     },
     {
       "file": "stage1_sky_night.png",
@@ -311,7 +311,7 @@
       "height": 720,
       "frameCount": 1,
       "description": "Full-resolution illustrated night sky, no dither or painted fireworks.",
-      "sha256": "6e912d69bd337d4564c541c4e038bc6c3233e897254965bb56df1008930dafb7"
+      "sha256": "19d6ec85d6213eeb9ce14701859e46e27594066d496c9280fb2650de9e86f8e0"
     },
     {
       "file": "stage1_skyline.png",
@@ -319,7 +319,7 @@
       "height": 720,
       "frameCount": 1,
       "description": "Fine illustrated Sundara skyline with green coiled-snake Kraitworks Tower.",
-      "sha256": "e0489c52f43ff72f8e479a76a45de4e35f7d42289f898df9319c6332844a3d46"
+      "sha256": "6f08b775923641f6f857aac02f257bdcbe175403c73eb01ea1950284c975efc4"
     },
     {
       "file": "stage1_mid.png",
