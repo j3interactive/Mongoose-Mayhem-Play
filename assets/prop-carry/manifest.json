@@ -1,0 +1,2422 @@
+{
+  "generator": "built-in image_gen",
+  "characters": {
+    "rikki": {
+      "sourceHash": "251e53ddd97466e658fb3e9c7d1de4856f5bdcadaf9c016b5e4da076dc4e322e",
+      "anatomicalReference": {
+        "key": "rikki-idle-0",
+        "url": "assets/derived/rikki-idle-0.png?v=e28fff5a59b3",
+        "source": "assets/characters/rikki/sheets/rikki_idle.png",
+        "rect": [
+          10,
+          172,
+          381,
+          431
+        ],
+        "width": 389,
+        "height": 439,
+        "renderScale": 0.37209302325581395,
+        "originX": 0.5,
+        "originY": 0.9908883826879271,
+        "placeholder": false,
+        "extraction": "Whole connected foreground component"
+      },
+      "animations": {
+        "carryIdle": [
+          {
+            "key": "rikki-carryIdle-0",
+            "url": "assets/prop-carry/rikki/carryIdle-0.png?v=028a861310ed",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              42,
+              48,
+              198,
+              229
+            ],
+            "width": 246,
+            "height": 277,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6035772357723578,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 203.36,
+              "y": 133.95999999999998
+            },
+            "sha256": "028a861310ed932ea01bfe801293842ed2dbcf2cf3e6de12c8bb5aaa830aadd6",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryIdle-1",
+            "url": "assets/prop-carry/rikki/carryIdle-1.png?v=f8720ef17dc0",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              319,
+              46,
+              189,
+              231
+            ],
+            "width": 237,
+            "height": 279,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6025738396624473,
+            "originY": 0.9068100358422939,
+            "handSocket": {
+              "x": 195.17000000000002,
+              "y": 134.92000000000002
+            },
+            "sha256": "f8720ef17dc0a6f7ca0c37e5e1af4c9ad8140fe3c78006a4e41b1d17a65bbdad",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryIdle-2",
+            "url": "assets/prop-carry/rikki/carryIdle-2.png?v=a22b6630d524",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              579,
+              44,
+              194,
+              233
+            ],
+            "width": 242,
+            "height": 281,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6057438016528927,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 200.63,
+              "y": 135.88
+            },
+            "sha256": "a22b6630d524e8f4600b4d3aee3f8d33a93cb4d64f1184ea29edeafad517c40f",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryIdle-3",
+            "url": "assets/prop-carry/rikki/carryIdle-3.png?v=7cdf453e9df4",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              858,
+              43,
+              199,
+              234
+            ],
+            "width": 247,
+            "height": 282,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6036842105263158,
+            "originY": 0.9078014184397163,
+            "handSocket": {
+              "x": 204.26999999999998,
+              "y": 136.36
+            },
+            "sha256": "7cdf453e9df435c6b8af9110f08de1adde54a6d0e9cd27e6374cec2987648a7d",
+            "padding": 24
+          }
+        ],
+        "carryWalk": [
+          {
+            "key": "rikki-carryWalk-0",
+            "url": "assets/prop-carry/rikki/carryWalk-0.png?v=c6deb58be75a",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              35,
+              309,
+              207,
+              229
+            ],
+            "width": 255,
+            "height": 277,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6069803921568627,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 212.46,
+              "y": 133.95999999999998
+            },
+            "sha256": "c6deb58be75add30290c559435951c1e571594a668286254299e4548acd0ee89",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-1",
+            "url": "assets/prop-carry/rikki/carryWalk-1.png?v=6ad8448f64a4",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              305,
+              311,
+              209,
+              227
+            ],
+            "width": 257,
+            "height": 275,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6047081712062256,
+            "originY": 0.9054545454545454,
+            "handSocket": {
+              "x": 213.37,
+              "y": 133
+            },
+            "sha256": "6ad8448f64a46ff812c0eea6b9506a7e84205b93de22bca9218cf82a8747da41",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-2",
+            "url": "assets/prop-carry/rikki/carryWalk-2.png?v=7434aeb85f44",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              574,
+              309,
+              203,
+              229
+            ],
+            "width": 251,
+            "height": 277,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6041035856573705,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 207.90999999999997,
+              "y": 133.95999999999998
+            },
+            "sha256": "7434aeb85f44edd71c0fa06f8ec3ba9754eb3caacd16a1309ea7ff07c7e706c3",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-3",
+            "url": "assets/prop-carry/rikki/carryWalk-3.png?v=ad9bd770cbe3",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              858,
+              310,
+              213,
+              225
+            ],
+            "width": 261,
+            "height": 273,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6050957854406133,
+            "originY": 0.9047619047619048,
+            "handSocket": {
+              "x": 217.01,
+              "y": 132.03999999999996
+            },
+            "sha256": "ad9bd770cbe3e85a406af3c86dfed7f9c883567f468ba88697f4c5ec3c2a94a3",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-4",
+            "url": "assets/prop-carry/rikki/carryWalk-4.png?v=d0896b6111d9",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              41,
+              570,
+              214,
+              232
+            ],
+            "width": 262,
+            "height": 280,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6051908396946565,
+            "originY": 0.9071428571428571,
+            "handSocket": {
+              "x": 217.92000000000002,
+              "y": 135.39999999999998
+            },
+            "sha256": "d0896b6111d9c794eb901afa7c526da9b3ac8570242a162e2906695fa2d9c5b9",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-5",
+            "url": "assets/prop-carry/rikki/carryWalk-5.png?v=bd485e667de6",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              311,
+              569,
+              207,
+              233
+            ],
+            "width": 255,
+            "height": 281,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6045098039215685,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 211.55,
+              "y": 135.88
+            },
+            "sha256": "bd485e667de63cccb232879c2b6588c9e84766bceb333e6ab40a63ae1628fe69",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-6",
+            "url": "assets/prop-carry/rikki/carryWalk-6.png?v=4bf582538907",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              577,
+              574,
+              200,
+              229
+            ],
+            "width": 248,
+            "height": 277,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6037903225806452,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 205.18000000000006,
+              "y": 133.96000000000004
+            },
+            "sha256": "4bf582538907a1ed2f87981cfbacdc2b0da439bd46d837bac1de80db2a676e2b",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryWalk-7",
+            "url": "assets/prop-carry/rikki/carryWalk-7.png?v=01045072bd5d",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              862,
+              568,
+              213,
+              231
+            ],
+            "width": 261,
+            "height": 279,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6036781609195401,
+            "originY": 0.9068100358422939,
+            "handSocket": {
+              "x": 216.92000000000007,
+              "y": 134.91999999999996
+            },
+            "sha256": "01045072bd5db9ac895c162d9f818bf7b6965088ae1999c38719d84b662f7cba",
+            "padding": 24
+          }
+        ],
+        "carryRun": [
+          {
+            "key": "rikki-carryRun-0",
+            "url": "assets/prop-carry/rikki/carryRun-0.png?v=6fde6e59f57a",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              47,
+              835,
+              220,
+              236
+            ],
+            "width": 268,
+            "height": 284,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6057462686567164,
+            "originY": 0.9084507042253521,
+            "handSocket": {
+              "x": 223.38,
+              "y": 137.31999999999994
+            },
+            "sha256": "6fde6e59f57af80373f8cae8b48438aaf14c56d20bc00b10247b5e11d75ac920",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-1",
+            "url": "assets/prop-carry/rikki/carryRun-1.png?v=e4d95ec3ede8",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              306,
+              837,
+              226,
+              237
+            ],
+            "width": 274,
+            "height": 285,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6062773722627738,
+            "originY": 0.9087719298245615,
+            "handSocket": {
+              "x": 228.84000000000003,
+              "y": 137.79999999999995
+            },
+            "sha256": "e4d95ec3ede8e424896d942cede3d012601be8f2ebac0827414b27a96714a179",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-2",
+            "url": "assets/prop-carry/rikki/carryRun-2.png?v=9b30bb0cb5d7",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              570,
+              837,
+              235,
+              224
+            ],
+            "width": 283,
+            "height": 272,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6070318021201412,
+            "originY": 0.9044117647058824,
+            "handSocket": {
+              "x": 237.02999999999997,
+              "y": 131.55999999999995
+            },
+            "sha256": "9b30bb0cb5d75eaaea87d2b99eae62fb8a79a32997237679b92004ec4bf971e1",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-3",
+            "url": "assets/prop-carry/rikki/carryRun-3.png?v=84fb3fcc0145",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              846,
+              833,
+              243,
+              240
+            ],
+            "width": 291,
+            "height": 288,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.60766323024055,
+            "originY": 0.93921093548595,
+            "handSocket": {
+              "x": 244.30999999999995,
+              "y": 139.24
+            },
+            "sha256": "84fb3fcc01450d5a147d218954b23ca8fb4155546a2c5d87e38004de696deff5",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-4",
+            "url": "assets/prop-carry/rikki/carryRun-4.png?v=7cb7c94379ec",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              42,
+              1098,
+              217,
+              235
+            ],
+            "width": 265,
+            "height": 283,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6054716981132076,
+            "originY": 0.9081272084805654,
+            "handSocket": {
+              "x": 220.65,
+              "y": 136.83999999999992
+            },
+            "sha256": "7cb7c94379ece75a23734f58251a841283f0070c5dfa9ba72f5e57ef45fbd29e",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-5",
+            "url": "assets/prop-carry/rikki/carryRun-5.png?v=ca262e4a0247",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              300,
+              1102,
+              220,
+              232
+            ],
+            "width": 268,
+            "height": 280,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6057462686567165,
+            "originY": 0.9071428571428571,
+            "handSocket": {
+              "x": 223.38,
+              "y": 135.4000000000001
+            },
+            "sha256": "ca262e4a024793b420ce9d918585219dbf15b0c5150c2794cc10ab80522db8ad",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-6",
+            "url": "assets/prop-carry/rikki/carryRun-6.png?v=dae76343a145",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              566,
+              1100,
+              245,
+              227
+            ],
+            "width": 293,
+            "height": 275,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6078156996587032,
+            "originY": 0.9090909090909091,
+            "handSocket": {
+              "x": 246.13,
+              "y": 133.48000000000002
+            },
+            "sha256": "dae76343a145dbbbc308515eb6b9396fcf9d25d2022779da3b752d9db3900bd6",
+            "padding": 24
+          },
+          {
+            "key": "rikki-carryRun-7",
+            "url": "assets/prop-carry/rikki/carryRun-7.png?v=8f2874484472",
+            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "rect": [
+              857,
+              1104,
+              240,
+              231
+            ],
+            "width": 288,
+            "height": 279,
+            "renderScale": 0.7064849912918758,
+            "originX": 0.6074305555555557,
+            "originY": 0.9372499979209807,
+            "handSocket": {
+              "x": 241.57999999999993,
+              "y": 134.92000000000007
+            },
+            "sha256": "8f28744844729ade4d988e6d92ec08218c9b0121f21799e94943a6b157714867",
+            "padding": 24
+          }
+        ]
+      },
+      "animationSettings": {
+        "carryIdle": {
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "carryWalk": {
+          "frameRate": 10,
+          "repeat": -1
+        },
+        "carryRun": {
+          "frameRate": 14,
+          "repeat": -1
+        }
+      }
+    },
+    "tikki": {
+      "sourceHash": "c11982cf604834c670d50f3f0fed4e6cabe15d939b652128ade46e9b7da4d642",
+      "anatomicalReference": {
+        "key": "tikki-idle-0",
+        "url": "assets/tikki/frames/idle-0.png?v=138bcdbf0081",
+        "source": "assets/characters/tikki/sheets/redraw-v1/idle.png",
+        "width": 518,
+        "height": 492,
+        "rect": [
+          17,
+          35,
+          494,
+          468
+        ],
+        "renderScale": 0.3426754124428543,
+        "originX": 0.5373651650247395,
+        "originY": 0.975609756097561,
+        "pixels": 121883,
+        "placeholder": false,
+        "extraction": "Whole connected authored redraw pose",
+        "supportGameOffset": -54.26441821752598
+      },
+      "animations": {
+        "carryIdle": [
+          {
+            "key": "tikki-carryIdle-0",
+            "url": "assets/prop-carry/tikki/carryIdle-0.png?v=f5624cee734f",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              35,
+              37,
+              209,
+              241
+            ],
+            "width": 257,
+            "height": 289,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6047081712062257,
+            "originY": 0.9100346020761245,
+            "handSocket": {
+              "x": 182.32,
+              "y": 139.72
+            },
+            "sha256": "f5624cee734fc6b96ee08d9e1f716f5b5b97236625b7fdb3d9b7fd7ff8d61145",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryIdle-1",
+            "url": "assets/prop-carry/tikki/carryIdle-1.png?v=956b4add8a3b",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              311,
+              37,
+              204,
+              241
+            ],
+            "width": 252,
+            "height": 289,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6042063492063492,
+            "originY": 0.9100346020761245,
+            "handSocket": {
+              "x": 178.51999999999998,
+              "y": 139.72
+            },
+            "sha256": "956b4add8a3b78a6d0c7f50a7c21d657948f6a17327cb226ec68c85b7f8d09b7",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryIdle-2",
+            "url": "assets/prop-carry/tikki/carryIdle-2.png?v=ac9d19965244",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              588,
+              38,
+              188,
+              239
+            ],
+            "width": 236,
+            "height": 287,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6024576271186444,
+            "originY": 0.9128919860627178,
+            "handSocket": {
+              "x": 166.36,
+              "y": 139.24
+            },
+            "sha256": "ac9d19965244f18fae8f6aeef00b498aa30b7ce702bf8952b83f49540a79badc",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryIdle-3",
+            "url": "assets/prop-carry/tikki/carryIdle-3.png?v=dda0eb64883f",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              869,
+              38,
+              194,
+              239
+            ],
+            "width": 242,
+            "height": 287,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.601611570247934,
+            "originY": 0.9094076655052264,
+            "handSocket": {
+              "x": 170.68000000000006,
+              "y": 138.76
+            },
+            "sha256": "dda0eb64883ff3cb1c123d94b54c6f92d72d28c9aca3e3dfdb4dfdaa3a1f3405",
+            "padding": 24
+          }
+        ],
+        "carryWalk": [
+          {
+            "key": "tikki-carryWalk-0",
+            "url": "assets/prop-carry/tikki/carryWalk-0.png?v=7c9cd3c48d76",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              45,
+              316,
+              221,
+              235
+            ],
+            "width": 269,
+            "height": 283,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6058364312267658,
+            "originY": 0.9081272084805654,
+            "handSocket": {
+              "x": 191.44,
+              "y": 136.83999999999997
+            },
+            "sha256": "7c9cd3c48d760f6375ce5980ad519f65e15b627b0f2a2ac00d56c1b3fb320f5d",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-1",
+            "url": "assets/prop-carry/tikki/carryWalk-1.png?v=c18f76d16ee4",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              312,
+              318,
+              210,
+              232
+            ],
+            "width": 258,
+            "height": 280,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6048062015503874,
+            "originY": 0.9071428571428571,
+            "handSocket": {
+              "x": 183.08000000000004,
+              "y": 135.39999999999998
+            },
+            "sha256": "c18f76d16ee4026c9b75de573749333b3baaaaebda350161238dcced482a1f1c",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-2",
+            "url": "assets/prop-carry/tikki/carryWalk-2.png?v=346854f14453",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              582,
+              318,
+              189,
+              233
+            ],
+            "width": 237,
+            "height": 281,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.602573839662447,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 167.12,
+              "y": 135.88
+            },
+            "sha256": "346854f14453904abbc7ebee90f37daef1e667c49a6dc10b1b437af180e2d35b",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-3",
+            "url": "assets/prop-carry/tikki/carryWalk-3.png?v=dfc384cdb2ce",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              868,
+              316,
+              214,
+              233
+            ],
+            "width": 262,
+            "height": 281,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6051908396946563,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 186.1199999999999,
+              "y": 135.88
+            },
+            "sha256": "dfc384cdb2cecbda8c0084e26b92218d79703fea2124f56e43bdb86d111d40d5",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-4",
+            "url": "assets/prop-carry/tikki/carryWalk-4.png?v=d63e7d36b9d2",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              37,
+              593,
+              210,
+              235
+            ],
+            "width": 258,
+            "height": 283,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6048062015503876,
+            "originY": 0.9081272084805654,
+            "handSocket": {
+              "x": 183.08,
+              "y": 136.84000000000003
+            },
+            "sha256": "d63e7d36b9d220c1bd9033c59abef7d71d3c6e8fdc1053f9ca5762bf3665b864",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-5",
+            "url": "assets/prop-carry/tikki/carryWalk-5.png?v=243fa1bb5cb4",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              325,
+              597,
+              195,
+              229
+            ],
+            "width": 243,
+            "height": 277,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6032510288065845,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 171.68,
+              "y": 133.96000000000004
+            },
+            "sha256": "243fa1bb5cb45ee888cb198096a44308f1a1ed3381757bd1b8c7e2afdf77e6a9",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-6",
+            "url": "assets/prop-carry/tikki/carryWalk-6.png?v=6f89f22c07ab",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              589,
+              592,
+              190,
+              233
+            ],
+            "width": 238,
+            "height": 281,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6026890756302523,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 167.88,
+              "y": 135.88
+            },
+            "sha256": "6f89f22c07ab2d49912063dbe43245b66cab4ddc8b165e72dba9a57d93277575",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryWalk-7",
+            "url": "assets/prop-carry/tikki/carryWalk-7.png?v=52c20c94998f",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              872,
+              590,
+              196,
+              237
+            ],
+            "width": 244,
+            "height": 285,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.603360655737705,
+            "originY": 0.9087719298245615,
+            "handSocket": {
+              "x": 172.44000000000005,
+              "y": 137.79999999999995
+            },
+            "sha256": "52c20c94998f0999eebff950a696c49776b33f812aae463139d4dde0d40c8e1e",
+            "padding": 24
+          }
+        ],
+        "carryRun": [
+          {
+            "key": "tikki-carryRun-0",
+            "url": "assets/prop-carry/tikki/carryRun-0.png?v=106ffe2fffbc",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              33,
+              879,
+              209,
+              211
+            ],
+            "width": 257,
+            "height": 259,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6071595330739299,
+            "originY": 0.8996138996138996,
+            "handSocket": {
+              "x": 183.08,
+              "y": 125.31999999999994
+            },
+            "sha256": "106ffe2fffbc9b86c2e252508253ceca12f5266112315a7f290b3eef4f3485db",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-1",
+            "url": "assets/prop-carry/tikki/carryRun-1.png?v=1cc0b34d3cdf",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              306,
+              883,
+              211,
+              206
+            ],
+            "width": 259,
+            "height": 254,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6049034749034747,
+            "originY": 0.8976377952755905,
+            "handSocket": {
+              "x": 183.84000000000003,
+              "y": 122.91999999999996
+            },
+            "sha256": "1cc0b34d3cdf80030152a13ac85007ffa0c71357336f49cdf6936c0ed2e8dead",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-2",
+            "url": "assets/prop-carry/tikki/carryRun-2.png?v=8a58fc83d206",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              584,
+              870,
+              222,
+              218
+            ],
+            "width": 270,
+            "height": 266,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.605925925925926,
+            "originY": 0.9022556390977443,
+            "handSocket": {
+              "x": 192.20000000000005,
+              "y": 128.67999999999995
+            },
+            "sha256": "8a58fc83d206b0d731524c5c8173feadc8efaff58023cc191d375d31c49df0d0",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-3",
+            "url": "assets/prop-carry/tikki/carryRun-3.png?v=ef11abd96704",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              873,
+              863,
+              224,
+              210
+            ],
+            "width": 272,
+            "height": 258,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6061029411764707,
+            "originY": 0.9338825788233601,
+            "handSocket": {
+              "x": 193.72000000000003,
+              "y": 124.84000000000003
+            },
+            "sha256": "ef11abd9670465370b0c7812d4b6a272bc076b66e7b426c3d50a87e1ba3d0911",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-4",
+            "url": "assets/prop-carry/tikki/carryRun-4.png?v=2b3c80832182",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              45,
+              1132,
+              197,
+              223
+            ],
+            "width": 245,
+            "height": 271,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6060408163265307,
+            "originY": 0.9040590405904059,
+            "handSocket": {
+              "x": 173.96,
+              "y": 131.07999999999993
+            },
+            "sha256": "2b3c808321822724eee432032ea943bafd8caa81e4439eaf46fec2a0bf654731",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-5",
+            "url": "assets/prop-carry/tikki/carryRun-5.png?v=394d623cb041",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              311,
+              1131,
+              203,
+              223
+            ],
+            "width": 251,
+            "height": 271,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6041035856573705,
+            "originY": 0.9040590405904059,
+            "handSocket": {
+              "x": 177.76,
+              "y": 131.07999999999993
+            },
+            "sha256": "394d623cb041735f924a2ef149a50d231c97cb094a6e950b5fc4e50a8fb9c20d",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-6",
+            "url": "assets/prop-carry/tikki/carryRun-6.png?v=3bb46ed66ce7",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              575,
+              1133,
+              218,
+              221
+            ],
+            "width": 266,
+            "height": 269,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6055639097744362,
+            "originY": 0.9033457249070632,
+            "handSocket": {
+              "x": 189.15999999999997,
+              "y": 130.1199999999999
+            },
+            "sha256": "3bb46ed66ce7d12b35b85ba7339d1c29dd09a3ea8b1c71783eda1b7ec1e11307",
+            "padding": 24
+          },
+          {
+            "key": "tikki-carryRun-7",
+            "url": "assets/prop-carry/tikki/carryRun-7.png?v=620dc1a5ab33",
+            "source": "assets/characters/prop-carry/sources/tikki-v1.png",
+            "rect": [
+              873,
+              1126,
+              221,
+              199
+            ],
+            "width": 269,
+            "height": 247,
+            "renderScale": 0.6710129415198988,
+            "originX": 0.6058364312267659,
+            "originY": 0.9349866612810805,
+            "handSocket": {
+              "x": 191.44000000000005,
+              "y": 120.03999999999996
+            },
+            "sha256": "620dc1a5ab337fa602ec4ad06ff87a2d8a6adc1bbeeb32c8d30a4798e2d1386f",
+            "padding": 24
+          }
+        ]
+      },
+      "animationSettings": {
+        "carryIdle": {
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "carryWalk": {
+          "frameRate": 10,
+          "repeat": -1
+        },
+        "carryRun": {
+          "frameRate": 14,
+          "repeat": -1
+        }
+      }
+    },
+    "tavi": {
+      "sourceHash": "0c7e6d93cb7dc13a1cb82b2eb0cf7ffb13f04a47f90c1e520475d8c21e4a4128",
+      "anatomicalReference": {
+        "key": "tavi-idle-0",
+        "url": "assets/tavi/frames/idle-0.png?v=fde237858c45",
+        "source": "assets/characters/tavi/sheets/Tavi_idle_cycle_v2.png",
+        "width": 479,
+        "height": 490,
+        "rect": [
+          32,
+          23,
+          455,
+          466
+        ],
+        "renderScale": 0.34414612236750175,
+        "originX": 0.44140331537599053,
+        "originY": 0.9755102040816327,
+        "placeholder": false,
+        "pixels": 107542
+      },
+      "animations": {
+        "carryIdle": [
+          {
+            "key": "tavi-carryIdle-0",
+            "url": "assets/prop-carry/tavi/carryIdle-0.png?v=7203abe29420",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              52,
+              43,
+              186,
+              255
+            ],
+            "width": 234,
+            "height": 303,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6022222222222223,
+            "originY": 0.9141914191419142,
+            "handSocket": {
+              "x": 190.6,
+              "y": 145.92000000000002
+            },
+            "sha256": "7203abe2942065acfb6a3c3bf3f3b525c53a6504e6feab0c0c5dd7ce587a4c2d",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryIdle-1",
+            "url": "assets/prop-carry/tavi/carryIdle-1.png?v=9092a538b886",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              318,
+              42,
+              187,
+              256
+            ],
+            "width": 235,
+            "height": 304,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6023404255319149,
+            "originY": 0.9144736842105263,
+            "handSocket": {
+              "x": 191.5,
+              "y": 146.92000000000002
+            },
+            "sha256": "9092a538b8861338dfa749f60ba3d6ae69bcb4bd51acb6b61712085039c6662d",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryIdle-2",
+            "url": "assets/prop-carry/tavi/carryIdle-2.png?v=30a8727a36bf",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              584,
+              43,
+              193,
+              256
+            ],
+            "width": 241,
+            "height": 304,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6056431535269711,
+            "originY": 0.9144736842105263,
+            "handSocket": {
+              "x": 197.79999999999995,
+              "y": 146.39999999999998
+            },
+            "sha256": "30a8727a36bf1ad53eba6ea2a8fab66044de5f3340d88077de84cd7490bc6d3b",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryIdle-3",
+            "url": "assets/prop-carry/tavi/carryIdle-3.png?v=93b06f444910",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              865,
+              47,
+              190,
+              251
+            ],
+            "width": 238,
+            "height": 299,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6026890756302523,
+            "originY": 0.9130434782608695,
+            "handSocket": {
+              "x": 194.20000000000005,
+              "y": 144.51999999999998
+            },
+            "sha256": "93b06f444910b63d98ed8ac8fa1ec5a3ccecf39e7c314324b3798c9e0e42f51d",
+            "padding": 24
+          }
+        ],
+        "carryWalk": [
+          {
+            "key": "tavi-carryWalk-0",
+            "url": "assets/prop-carry/tavi/carryWalk-0.png?v=ec01539dfab2",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              37,
+              325,
+              218,
+              256
+            ],
+            "width": 266,
+            "height": 304,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6079323308270677,
+            "originY": 0.9177631578947368,
+            "handSocket": {
+              "x": 220.3,
+              "y": 147.39999999999998
+            },
+            "sha256": "ec01539dfab29f5519f7a7b23e97154d4d41788247e7c4ab296267e20ee40644",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-1",
+            "url": "assets/prop-carry/tavi/carryWalk-1.png?v=7b1cc7623b9b",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              323,
+              326,
+              191,
+              254
+            ],
+            "width": 239,
+            "height": 302,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6028033472803347,
+            "originY": 0.9139072847682119,
+            "handSocket": {
+              "x": 195.10000000000002,
+              "y": 145.95999999999998
+            },
+            "sha256": "7b1cc7623b9b1dc721122747a7e010edd507c5bc300f9a7cd558458b776f5788",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-2",
+            "url": "assets/prop-carry/tavi/carryWalk-2.png?v=6030d0e7bf11",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              587,
+              325,
+              199,
+              254
+            ],
+            "width": 247,
+            "height": 302,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6036842105263158,
+            "originY": 0.9139072847682119,
+            "handSocket": {
+              "x": 202.29999999999995,
+              "y": 145.95999999999998
+            },
+            "sha256": "6030d0e7bf115e5a0c083c60cc4433da24814e6bdc67342a30def0b4fc4edb45",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-3",
+            "url": "assets/prop-carry/tavi/carryWalk-3.png?v=a06f08f4054a",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              865,
+              326,
+              214,
+              252
+            ],
+            "width": 262,
+            "height": 300,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6051908396946563,
+            "originY": 0.9133333333333333,
+            "handSocket": {
+              "x": 215.79999999999995,
+              "y": 145
+            },
+            "sha256": "a06f08f4054a44183324db4bfa729c039780fbaae7ca97bfbdd303b827c65387",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-4",
+            "url": "assets/prop-carry/tavi/carryWalk-4.png?v=d4d6f5afca9b",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              36,
+              608,
+              227,
+              251
+            ],
+            "width": 275,
+            "height": 299,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6063636363636363,
+            "originY": 0.9163879598662207,
+            "handSocket": {
+              "x": 227.5,
+              "y": 145
+            },
+            "sha256": "d4d6f5afca9b66ca67159540f98b79f414ba0712801e7346626543a35b49547d",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-5",
+            "url": "assets/prop-carry/tavi/carryWalk-5.png?v=6825eb0b45aa",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              327,
+              608,
+              188,
+              252
+            ],
+            "width": 236,
+            "height": 300,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6008898305084746,
+            "originY": 0.9166666666666666,
+            "handSocket": {
+              "x": 192.3,
+              "y": 145.48000000000002
+            },
+            "sha256": "6825eb0b45aaca9445a9ec1eb6d36d4fefa7a47da6bccac5b09ba7c645314557",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-6",
+            "url": "assets/prop-carry/tavi/carryWalk-6.png?v=352bb8a68ac9",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              587,
+              607,
+              199,
+              253
+            ],
+            "width": 247,
+            "height": 301,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6062348178137652,
+            "originY": 0.9169435215946844,
+            "handSocket": {
+              "x": 203.20000000000005,
+              "y": 145.96000000000004
+            },
+            "sha256": "352bb8a68ac9f8aaea75bc1a606130501888b9dacb43175528e9ca0673b512b6",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryWalk-7",
+            "url": "assets/prop-carry/tavi/carryWalk-7.png?v=cf3ed3a6bbb0",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              867,
+              609,
+              224,
+              252
+            ],
+            "width": 272,
+            "height": 300,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6047426470588235,
+            "originY": 0.9133333333333333,
+            "handSocket": {
+              "x": 224.70000000000005,
+              "y": 145
+            },
+            "sha256": "cf3ed3a6bbb0f16a4513b546cab76264a65b057c1a6083c100f0960b210e45fb",
+            "padding": 24
+          }
+        ],
+        "carryRun": [
+          {
+            "key": "tavi-carryRun-0",
+            "url": "assets/prop-carry/tavi/carryRun-0.png?v=ce497f9b8315",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              37,
+              891,
+              231,
+              215
+            ],
+            "width": 279,
+            "height": 263,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6067025089605735,
+            "originY": 0.9011406844106464,
+            "handSocket": {
+              "x": 231.1,
+              "y": 127.24000000000001
+            },
+            "sha256": "ce497f9b831537996f843945ab52e1984059708dc1a58ebe515f5a345acdc5a9",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-1",
+            "url": "assets/prop-carry/tavi/carryRun-1.png?v=993ce4f1f40d",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              311,
+              895,
+              231,
+              212
+            ],
+            "width": 279,
+            "height": 260,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6067025089605734,
+            "originY": 0.9,
+            "handSocket": {
+              "x": 231.10000000000002,
+              "y": 125.79999999999995
+            },
+            "sha256": "993ce4f1f40d76941ce850ee0039da6ecb3a758bb42b205fe774d96a8f63bba1",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-2",
+            "url": "assets/prop-carry/tavi/carryRun-2.png?v=89ae8783a2d3",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              572,
+              889,
+              242,
+              189
+            ],
+            "width": 290,
+            "height": 237,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6075862068965519,
+            "originY": 0.890295358649789,
+            "handSocket": {
+              "x": 241,
+              "y": 114.75999999999999
+            },
+            "sha256": "89ae8783a2d34dd02d361177feb51c72d5c6b55e95628147954419a15b77c444",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-3",
+            "url": "assets/prop-carry/tavi/carryRun-3.png?v=0052739e815b",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              859,
+              892,
+              228,
+              214
+            ],
+            "width": 276,
+            "height": 262,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6051086956521738,
+            "originY": 0.9370339703512158,
+            "handSocket": {
+              "x": 228.29999999999995,
+              "y": 126.75999999999999
+            },
+            "sha256": "0052739e815bb8424db31e977f31f7a5aa62e1799c6e90e49ecc478087fe2a71",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-4",
+            "url": "assets/prop-carry/tavi/carryRun-4.png?v=6682ee679657",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              49,
+              1131,
+              211,
+              237
+            ],
+            "width": 259,
+            "height": 285,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6049034749034748,
+            "originY": 0.9087719298245615,
+            "handSocket": {
+              "x": 213.1,
+              "y": 137.79999999999995
+            },
+            "sha256": "6682ee6796577714798bf9a9c69bf2f4b630a330d48b5a19633df11cb9a2eefb",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-5",
+            "url": "assets/prop-carry/tavi/carryRun-5.png?v=5710d624a649",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              309,
+              1135,
+              250,
+              222
+            ],
+            "width": 298,
+            "height": 270,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6069463087248322,
+            "originY": 0.9037037037037037,
+            "handSocket": {
+              "x": 248.10000000000002,
+              "y": 130.5999999999999
+            },
+            "sha256": "5710d624a649a88e3a522971621b9ecf67981f8404e0570a0d1ff8daad7ce6e1",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-6",
+            "url": "assets/prop-carry/tavi/carryRun-6.png?v=1d229b25cf25",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              583,
+              1127,
+              235,
+              213
+            ],
+            "width": 283,
+            "height": 261,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6092579505300352,
+            "originY": 0.9003831417624522,
+            "handSocket": {
+              "x": 235.60000000000002,
+              "y": 126.27999999999997
+            },
+            "sha256": "1d229b25cf25e12d8d7efee91b69e3fe7fb29e36024e3f42b6461d2f34747d26",
+            "padding": 24
+          },
+          {
+            "key": "tavi-carryRun-7",
+            "url": "assets/prop-carry/tavi/carryRun-7.png?v=ca0533bf2635",
+            "source": "assets/characters/prop-carry/sources/tavi-v1.png",
+            "rect": [
+              865,
+              1136,
+              220,
+              232
+            ],
+            "width": 268,
+            "height": 280,
+            "renderScale": 0.6313861930049441,
+            "originX": 0.6057462686567165,
+            "originY": 0.9410817865429233,
+            "handSocket": {
+              "x": 221.20000000000005,
+              "y": 135.4000000000001
+            },
+            "sha256": "ca0533bf26354d02cc4ccf2cbb14e5efd07040444c5c3b7ba585f3c1fc46e4a3",
+            "padding": 24
+          }
+        ]
+      },
+      "animationSettings": {
+        "carryIdle": {
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "carryWalk": {
+          "frameRate": 10,
+          "repeat": -1
+        },
+        "carryRun": {
+          "frameRate": 14,
+          "repeat": -1
+        }
+      }
+    },
+    "bruno": {
+      "sourceHash": "e8c355434d09605469ceb8b18231f76df56aa1d4bacfbf427096e922555356d2",
+      "anatomicalReference": {
+        "key": "bruno-idle-0",
+        "url": "assets/bruno/frames/idle-0.png?v=2fa63598abc9",
+        "source": "assets/characters/bruno/sheets/Bruno_idle.png",
+        "width": 512,
+        "height": 521,
+        "rect": [
+          26,
+          16,
+          480,
+          489
+        ],
+        "renderScale": 0.3783231083844581,
+        "originX": 0.5960887964221014,
+        "originY": 0.9692898272552783,
+        "pixels": 145216,
+        "placeholder": false
+      },
+      "animations": {
+        "carryIdle": [
+          {
+            "key": "bruno-carryIdle-0",
+            "url": "assets/prop-carry/bruno/carryIdle-0.png?v=d057ffe7788d",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              31,
+              38,
+              219,
+              246
+            ],
+            "width": 267,
+            "height": 294,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5650187265917602,
+            "originY": 0.9115646258503401,
+            "handSocket": {
+              "x": 215.96,
+              "y": 144.56
+            },
+            "sha256": "d057ffe7788d5a494d1a23bf858ffcd52fe419f11b22fcdeb3e361f005deef56",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryIdle-1",
+            "url": "assets/prop-carry/bruno/carryIdle-1.png?v=6336fbd02605",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              309,
+              39,
+              216,
+              245
+            ],
+            "width": 264,
+            "height": 293,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5648484848484848,
+            "originY": 0.9112627986348123,
+            "handSocket": {
+              "x": 213.32,
+              "y": 144.07
+            },
+            "sha256": "6336fbd02605122f1db9786608d64b12cc209cd24de9c67eadec9f7619f39193",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryIdle-2",
+            "url": "assets/prop-carry/bruno/carryIdle-2.png?v=98fed49ea581",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              584,
+              37,
+              212,
+              247
+            ],
+            "width": 260,
+            "height": 295,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5646153846153844,
+            "originY": 0.911864406779661,
+            "handSocket": {
+              "x": 209.79999999999995,
+              "y": 145.05
+            },
+            "sha256": "98fed49ea581c9066d50869745f759ba0d0e9ef8cbd87ea5bc661a9ca2cb6569",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryIdle-3",
+            "url": "assets/prop-carry/bruno/carryIdle-3.png?v=95f16149d700",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              852,
+              39,
+              214,
+              245
+            ],
+            "width": 262,
+            "height": 293,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5647328244274811,
+            "originY": 0.9112627986348123,
+            "handSocket": {
+              "x": 211.55999999999995,
+              "y": 144.07
+            },
+            "sha256": "95f16149d700235d3acd74c91aa230550955534f90934f6922fb269147d9458a",
+            "padding": 24
+          }
+        ],
+        "carryWalk": [
+          {
+            "key": "bruno-carryWalk-0",
+            "url": "assets/prop-carry/bruno/carryWalk-0.png?v=cde10112aa67",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              35,
+              309,
+              230,
+              248
+            ],
+            "width": 278,
+            "height": 296,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5656115107913668,
+            "originY": 0.9121621621621622,
+            "handSocket": {
+              "x": 225.64000000000001,
+              "y": 145.53999999999996
+            },
+            "sha256": "cde10112aa6794e7512e13f94b76d2a0e38ef84406b85901c11db2ce7084d157",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-1",
+            "url": "assets/prop-carry/bruno/carryWalk-1.png?v=04ad0d1f5eed",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              314,
+              312,
+              233,
+              246
+            ],
+            "width": 281,
+            "height": 294,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5657651245551603,
+            "originY": 0.9115646258503401,
+            "handSocket": {
+              "x": 228.27999999999997,
+              "y": 144.56
+            },
+            "sha256": "04ad0d1f5eed64d0b68f8027eb1424ce0d36ca730a723ce98098dea9112661b4",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-2",
+            "url": "assets/prop-carry/bruno/carryWalk-2.png?v=fa4ae8b9aa6e",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              596,
+              310,
+              220,
+              247
+            ],
+            "width": 268,
+            "height": 295,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5672388059701492,
+            "originY": 0.911864406779661,
+            "handSocket": {
+              "x": 217.72000000000003,
+              "y": 145.05
+            },
+            "sha256": "fa4ae8b9aa6e1f1cea213265daa1d03d8215c073053c268f578cb5fbd68fef47",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-3",
+            "url": "assets/prop-carry/bruno/carryWalk-3.png?v=13b7082a73c5",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              858,
+              310,
+              235,
+              247
+            ],
+            "width": 283,
+            "height": 295,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5658657243816254,
+            "originY": 0.911864406779661,
+            "handSocket": {
+              "x": 230.03999999999996,
+              "y": 145.05
+            },
+            "sha256": "13b7082a73c597163e0f5896edaf8ec7f97a6ce1445e3af447041f8ea3fc9ff2",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-4",
+            "url": "assets/prop-carry/bruno/carryWalk-4.png?v=d52fb6d47c88",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              41,
+              583,
+              246,
+              249
+            ],
+            "width": 294,
+            "height": 297,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5663945578231292,
+            "originY": 0.9124579124579124,
+            "handSocket": {
+              "x": 239.72000000000003,
+              "y": 146.02999999999997
+            },
+            "sha256": "d52fb6d47c88a4f6fa63cd24c2e7b622be97a912544726b5d157ef596b42d06f",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-5",
+            "url": "assets/prop-carry/bruno/carryWalk-5.png?v=77c1627d1050",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              318,
+              586,
+              228,
+              248
+            ],
+            "width": 276,
+            "height": 296,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5655072463768115,
+            "originY": 0.9121621621621622,
+            "handSocket": {
+              "x": 223.88,
+              "y": 145.53999999999996
+            },
+            "sha256": "77c1627d1050c595d6e8ec9c45f78c6e05c27491888f3f1c62150676bcda8eaf",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-6",
+            "url": "assets/prop-carry/bruno/carryWalk-6.png?v=a55cb1124deb",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              586,
+              585,
+              225,
+              251
+            ],
+            "width": 273,
+            "height": 299,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5653479853479855,
+            "originY": 0.9130434782608695,
+            "handSocket": {
+              "x": 221.24,
+              "y": 147.01
+            },
+            "sha256": "a55cb1124deb65754c2d67ac3f87674fd24d24f0d99bcdd2e21949e93baca694",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryWalk-7",
+            "url": "assets/prop-carry/bruno/carryWalk-7.png?v=93519cf7490c",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              862,
+              583,
+              221,
+              250
+            ],
+            "width": 269,
+            "height": 298,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5651301115241635,
+            "originY": 0.912751677852349,
+            "handSocket": {
+              "x": 217.72000000000003,
+              "y": 146.51999999999998
+            },
+            "sha256": "93519cf7490c348bfd6e892123c996d29190fa05dfd15e8a9abc4e067ed12369",
+            "padding": 24
+          }
+        ],
+        "carryRun": [
+          {
+            "key": "bruno-carryRun-0",
+            "url": "assets/prop-carry/bruno/carryRun-0.png?v=1d99426478b4",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              34,
+              865,
+              250,
+              235
+            ],
+            "width": 298,
+            "height": 283,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5665771812080537,
+            "originY": 0.9081272084805654,
+            "handSocket": {
+              "x": 243.24,
+              "y": 139.16999999999996
+            },
+            "sha256": "1d99426478b4d59e54260f6187dd7e9c60a019cccd00ea89e3f9b60e7a49402c",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-1",
+            "url": "assets/prop-carry/bruno/carryRun-1.png?v=94631f638be2",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              322,
+              867,
+              230,
+              234
+            ],
+            "width": 278,
+            "height": 282,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5641007194244604,
+            "originY": 0.9078014184397163,
+            "handSocket": {
+              "x": 225.51999999999998,
+              "y": 138.67999999999995
+            },
+            "sha256": "94631f638be245f88fef08f9e8eab87a44405e7024608c405b1a6e9fc52d1121",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-2",
+            "url": "assets/prop-carry/bruno/carryRun-2.png?v=144ff1099055",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              595,
+              864,
+              225,
+              227
+            ],
+            "width": 273,
+            "height": 275,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5674725274725273,
+            "originY": 0.9054545454545454,
+            "handSocket": {
+              "x": 222.12,
+              "y": 135.25
+            },
+            "sha256": "144ff10990555b58d1cceb2ecf68f2bd8015b849292ef14ba3c27ca59fcabb74",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-3",
+            "url": "assets/prop-carry/bruno/carryRun-3.png?v=48f0633b6aba",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              858,
+              864,
+              231,
+              222
+            ],
+            "width": 279,
+            "height": 270,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5656630824372758,
+            "originY": 0.9330130130130131,
+            "handSocket": {
+              "x": 226.51999999999998,
+              "y": 132.79999999999995
+            },
+            "sha256": "48f0633b6aba9d8b28326b3cdda182a664956c1a7fff11914bd6b1b8934b229f",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-4",
+            "url": "assets/prop-carry/bruno/carryRun-4.png?v=1ccbf04dbe39",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              37,
+              1129,
+              246,
+              231
+            ],
+            "width": 294,
+            "height": 279,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5663945578231292,
+            "originY": 0.9068100358422939,
+            "handSocket": {
+              "x": 239.72,
+              "y": 137.21000000000004
+            },
+            "sha256": "1ccbf04dbe39b0d301c5e3cb4c8bb36b5ad2644bac3cbd961ce96b437178003c",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-5",
+            "url": "assets/prop-carry/bruno/carryRun-5.png?v=5e2c01806f8c",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              311,
+              1125,
+              239,
+              234
+            ],
+            "width": 287,
+            "height": 282,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5660627177700348,
+            "originY": 0.9078014184397163,
+            "handSocket": {
+              "x": 233.55999999999995,
+              "y": 138.68000000000006
+            },
+            "sha256": "5e2c01806f8cf88d71a234ec6d0a0f39e0fa8ed4714c8e1dc17cc7a10d9d91ed",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-6",
+            "url": "assets/prop-carry/bruno/carryRun-6.png?v=7f0419dd673c",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              599,
+              1123,
+              231,
+              237
+            ],
+            "width": 279,
+            "height": 285,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5656630824372758,
+            "originY": 0.9087719298245615,
+            "handSocket": {
+              "x": 226.51999999999998,
+              "y": 140.1500000000001
+            },
+            "sha256": "7f0419dd673c9953adc05197af3114764c6e897538a14520e1841ed135aa4991",
+            "padding": 24
+          },
+          {
+            "key": "bruno-carryRun-7",
+            "url": "assets/prop-carry/bruno/carryRun-7.png?v=cd3e465cdfe4",
+            "source": "assets/characters/prop-carry/sources/bruno-v1.png",
+            "rect": [
+              866,
+              1122,
+              231,
+              226
+            ],
+            "width": 279,
+            "height": 274,
+            "renderScale": 0.7581967213114754,
+            "originX": 0.5656630824372758,
+            "originY": 0.9339909252318012,
+            "handSocket": {
+              "x": 226.51999999999998,
+              "y": 134.76
+            },
+            "sha256": "cd3e465cdfe488384c77404af04ccb12b314c7771fde990ac39b6b5f86119d76",
+            "padding": 24
+          }
+        ]
+      },
+      "animationSettings": {
+        "carryIdle": {
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "carryWalk": {
+          "frameRate": 10,
+          "repeat": -1
+        },
+        "carryRun": {
+          "frameRate": 14,
+          "repeat": -1
+        }
+      }
+    },
+    "juno": {
+      "sourceHash": "1327c383e521b9b531704b02ea2cf2bcdbe4d252eef624f48bfc76bfd7bd04eb",
+      "anatomicalReference": {
+        "key": "juno-idle-0",
+        "url": "assets/juno/frames/idle-0.png?v=92a6bb27e285",
+        "source": "assets/characters/juno/sheets/Juno_idle_yellow.png",
+        "width": 499,
+        "height": 532,
+        "rect": [
+          22,
+          17,
+          467,
+          500
+        ],
+        "renderScale": 0.3207441860465116,
+        "originX": 0.6768329087968367,
+        "originY": 0.9699248120300752,
+        "pixels": 116575,
+        "placeholder": false
+      },
+      "animations": {
+        "carryIdle": [
+          {
+            "key": "juno-carryIdle-0",
+            "url": "assets/prop-carry/juno/carryIdle-0.png?v=aae4b9e1b518",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              61,
+              36,
+              176,
+              249
+            ],
+            "width": 224,
+            "height": 297,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6009821428571429,
+            "originY": 0.9124579124579124,
+            "handSocket": {
+              "x": 181.6,
+              "y": 143.56
+            },
+            "sha256": "aae4b9e1b5187a146e6f28ae19c89959f07fa6de43f39c9989a710dd6c8ff47b",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryIdle-1",
+            "url": "assets/prop-carry/juno/carryIdle-1.png?v=5127e4893d02",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              327,
+              33,
+              172,
+              253
+            ],
+            "width": 220,
+            "height": 301,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6004545454545456,
+            "originY": 0.9136212624584718,
+            "handSocket": {
+              "x": 178,
+              "y": 145.48
+            },
+            "sha256": "5127e4893d02e32c6bc0d4bed03989eb519936c0fe5cf68cfffaf253bea58f72",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryIdle-2",
+            "url": "assets/prop-carry/juno/carryIdle-2.png?v=9ab96e72854f",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              592,
+              35,
+              173,
+              251
+            ],
+            "width": 221,
+            "height": 299,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6034389140271493,
+            "originY": 0.9130434782608695,
+            "handSocket": {
+              "x": 179.79999999999995,
+              "y": 144.51999999999998
+            },
+            "sha256": "9ab96e72854f96c41bb0449dea5bc3d0abd5be94f780cadf684969212370c627",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryIdle-3",
+            "url": "assets/prop-carry/juno/carryIdle-3.png?v=3c8cf6a716e9",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              865,
+              31,
+              170,
+              255
+            ],
+            "width": 218,
+            "height": 303,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6001834862385322,
+            "originY": 0.9141914191419142,
+            "handSocket": {
+              "x": 176.20000000000005,
+              "y": 146.44
+            },
+            "sha256": "3c8cf6a716e99cfa51231558f8d5cbbaef00b37be626132f1f4c75b89576c3de",
+            "padding": 24
+          }
+        ],
+        "carryWalk": [
+          {
+            "key": "juno-carryWalk-0",
+            "url": "assets/prop-carry/juno/carryWalk-0.png?v=093804a959de",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              50,
+              309,
+              220,
+              247
+            ],
+            "width": 268,
+            "height": 295,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6057462686567164,
+            "originY": 0.911864406779661,
+            "handSocket": {
+              "x": 221.20000000000002,
+              "y": 142.60000000000002
+            },
+            "sha256": "093804a959defc61ad54454965d28eb95ec267d5deff2c1e9f9d71698a764403",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-1",
+            "url": "assets/prop-carry/juno/carryWalk-1.png?v=26f55978a9e0",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              324,
+              308,
+              191,
+              245
+            ],
+            "width": 239,
+            "height": 293,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6028033472803347,
+            "originY": 0.9112627986348123,
+            "handSocket": {
+              "x": 195.10000000000002,
+              "y": 141.64
+            },
+            "sha256": "26f55978a9e0f94ae722dce7530a716d88be46f8fe72c718302066d7069982a1",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-2",
+            "url": "assets/prop-carry/juno/carryWalk-2.png?v=3e5cd371eda2",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              590,
+              311,
+              201,
+              244
+            ],
+            "width": 249,
+            "height": 292,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6038955823293173,
+            "originY": 0.910958904109589,
+            "handSocket": {
+              "x": 204.10000000000002,
+              "y": 141.15999999999997
+            },
+            "sha256": "3e5cd371eda2ec6a56045113f292a9d5cbc4e76a43e4e65c0c609bd58468d30d",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-3",
+            "url": "assets/prop-carry/juno/carryWalk-3.png?v=fb018ddcd881",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              860,
+              311,
+              204,
+              244
+            ],
+            "width": 252,
+            "height": 292,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6042063492063492,
+            "originY": 0.910958904109589,
+            "handSocket": {
+              "x": 206.79999999999995,
+              "y": 141.15999999999997
+            },
+            "sha256": "fb018ddcd881b12b111daddecbd021a77408ea1ab13c13147029252088ad05a6",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-4",
+            "url": "assets/prop-carry/juno/carryWalk-4.png?v=3c2a06c92a29",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              50,
+              580,
+              216,
+              241
+            ],
+            "width": 264,
+            "height": 289,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6053787878787878,
+            "originY": 0.9100346020761245,
+            "handSocket": {
+              "x": 217.6,
+              "y": 139.72000000000003
+            },
+            "sha256": "3c2a06c92a293665c5b5a5393186ca3bf5f2a08d0efec5b2b6c9768de2a69c2b",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-5",
+            "url": "assets/prop-carry/juno/carryWalk-5.png?v=45a8f943db88",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              323,
+              581,
+              209,
+              244
+            ],
+            "width": 257,
+            "height": 292,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6047081712062256,
+            "originY": 0.910958904109589,
+            "handSocket": {
+              "x": 211.3,
+              "y": 141.15999999999997
+            },
+            "sha256": "45a8f943db8845894dddfedb71d9ec4215d0684dd63d71a6e8a13e09d07131a7",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-6",
+            "url": "assets/prop-carry/juno/carryWalk-6.png?v=5ffa0abdefdf",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              589,
+              577,
+              212,
+              248
+            ],
+            "width": 260,
+            "height": 296,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6074230769230772,
+            "originY": 0.9121621621621622,
+            "handSocket": {
+              "x": 214.89999999999998,
+              "y": 143.08000000000004
+            },
+            "sha256": "5ffa0abdefdf6edaa8e0f5ed5f5fbed6af5b64d00362ccf7f499a495b70c2750",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryWalk-7",
+            "url": "assets/prop-carry/juno/carryWalk-7.png?v=4757577fb2cd",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              856,
+              577,
+              224,
+              247
+            ],
+            "width": 272,
+            "height": 295,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6061029411764707,
+            "originY": 0.911864406779661,
+            "handSocket": {
+              "x": 224.79999999999995,
+              "y": 142.60000000000002
+            },
+            "sha256": "4757577fb2cdf11a53ae740b7f051bcd749e097d9d74c317c32af553c518f8df",
+            "padding": 24
+          }
+        ],
+        "carryRun": [
+          {
+            "key": "juno-carryRun-0",
+            "url": "assets/prop-carry/juno/carryRun-0.png?v=de3335de8d15",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              44,
+              852,
+              220,
+              229
+            ],
+            "width": 268,
+            "height": 277,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6080970149253732,
+            "originY": 0.9061371841155235,
+            "handSocket": {
+              "x": 222.1,
+              "y": 133.96000000000004
+            },
+            "sha256": "de3335de8d15d052371a1bd24915c33ab403e7082d977ac1f22b373278dcb65b",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-1",
+            "url": "assets/prop-carry/juno/carryRun-1.png?v=99de4d3d485b",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              308,
+              858,
+              224,
+              217
+            ],
+            "width": 272,
+            "height": 265,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6061029411764707,
+            "originY": 0.9018867924528302,
+            "handSocket": {
+              "x": 224.8,
+              "y": 128.20000000000005
+            },
+            "sha256": "99de4d3d485b05b397cea8f28e8809a692e07574da28b2018092c0bc66b0531c",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-2",
+            "url": "assets/prop-carry/juno/carryRun-2.png?v=23df38c27c4b",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              573,
+              856,
+              243,
+              220
+            ],
+            "width": 291,
+            "height": 268,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6098281786941582,
+            "originY": 0.9029850746268657,
+            "handSocket": {
+              "x": 242.79999999999995,
+              "y": 129.64
+            },
+            "sha256": "23df38c27c4b2707ce0af8c0d1f7b771888fea60d32301c0b835d60426f112fc",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-3",
+            "url": "assets/prop-carry/juno/carryRun-3.png?v=b4329fa8bc10",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              868,
+              853,
+              216,
+              213
+            ],
+            "width": 264,
+            "height": 261,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6053787878787876,
+            "originY": 0.9357893075890515,
+            "handSocket": {
+              "x": 217.5999999999999,
+              "y": 126.27999999999997
+            },
+            "sha256": "b4329fa8bc106e37b3fea10f539b7b6246fa477c13eeadfc28250d9fa39f7672",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-4",
+            "url": "assets/prop-carry/juno/carryRun-4.png?v=1af6b6f22990",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              53,
+              1125,
+              216,
+              233
+            ],
+            "width": 264,
+            "height": 281,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6053787878787878,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 217.6,
+              "y": 135.8800000000001
+            },
+            "sha256": "1af6b6f229909f1bdd3d37c6b38ba832511f47f64a5a0d8890a83b08fbfdfbe2",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-5",
+            "url": "assets/prop-carry/juno/carryRun-5.png?v=a7d3ef521d2e",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              314,
+              1122,
+              222,
+              227
+            ],
+            "width": 270,
+            "height": 275,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.605925925925926,
+            "originY": 0.9054545454545454,
+            "handSocket": {
+              "x": 223,
+              "y": 133
+            },
+            "sha256": "a7d3ef521d2ee461144b89bc220407542433f36e3af3134fcfdcf4e6eb903434",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-6",
+            "url": "assets/prop-carry/juno/carryRun-6.png?v=611fe6202a34",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              577,
+              1116,
+              243,
+              233
+            ],
+            "width": 291,
+            "height": 281,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.60766323024055,
+            "originY": 0.9074733096085409,
+            "handSocket": {
+              "x": 241.89999999999998,
+              "y": 135.8800000000001
+            },
+            "sha256": "611fe6202a3475d8d6a65a20ad3734ef782c98f7998b6285759659499ee97a09",
+            "padding": 24
+          },
+          {
+            "key": "juno-carryRun-7",
+            "url": "assets/prop-carry/juno/carryRun-7.png?v=3d67a2cd0d01",
+            "source": "assets/characters/prop-carry/sources/juno-v1.png",
+            "rect": [
+              858,
+              1115,
+              232,
+              204
+            ],
+            "width": 280,
+            "height": 252,
+            "renderScale": 0.6492797288390924,
+            "originX": 0.6067857142857142,
+            "originY": 0.9334960685743748,
+            "handSocket": {
+              "x": 232,
+              "y": 121.96000000000004
+            },
+            "sha256": "3d67a2cd0d01171a9e1e92fb32b13212c8b3a37616042199ea9f8639dcab9799",
+            "padding": 24
+          }
+        ]
+      },
+      "animationSettings": {
+        "carryIdle": {
+          "frameRate": 4,
+          "repeat": -1
+        },
+        "carryWalk": {
+          "frameRate": 10,
+          "repeat": -1
+        },
+        "carryRun": {
+          "frameRate": 14,
+          "repeat": -1
+        }
+      }
+    }
+  }
+}
