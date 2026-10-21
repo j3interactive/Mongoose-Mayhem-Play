@@ -328,9 +328,12 @@
       "nativeWidth": 2560,
       "nativeHeight": 360,
       "frameCount": 1,
-      "description": "Connected Garden Quarter parallax strip: eight distinct house, banyan, cafe and gate groups.",
+      "description": "Approved larger-form Garden Quarter architecture: substantial pastel facades and banyan, repeated at native density.",
       "scrollFactor": 0.55,
-      "seamless": true
+      "seamless": true,
+      "source": "assets/stage1/art-revisions/stage2-standard-screen1/stage1_review_mid.png",
+      "moduleWidth": 1280,
+      "moduleCount": 4
     },
     {
       "file": "stage1_street_01.png",
@@ -498,5 +501,13 @@
     "width": 1280,
     "height": 720
   },
-  "artStyle": "Clean inked comic/anime scenery matching the character art, full-resolution skies."
+  "artStyle": "Approved larger-form illustrated architecture with teal/purple festival cobbles, warm reflections and flat floral margins.",
+  "activeScenery": {
+    "revision": "stage2-standard-screen1",
+    "midSource": "assets/stage1/art-revisions/stage2-standard-screen1/stage1_review_mid.png",
+    "roadSource": "assets/stage1/art-revisions/stage2-standard-screen1/stage1_review_street.png",
+    "moduleCount": 4,
+    "screenCount": 12,
+    "notes": "Approved architecture installed in the runtime parallax strip; approved festival road installed across all twelve screens; existing alleys and landmarks retained."
+  }
 }
