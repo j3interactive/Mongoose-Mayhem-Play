@@ -1,0 +1,353 @@
+[
+  {
+    "key": "ui-move",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "source": "library/kenney/interface-sounds/Audio/click_001.ogg",
+    "sourceSha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+    "sha256": "ff2e7e58590e42e1deae6c0c3dab093bf888f1ddf40352b185737b89bd92a67d"
+  },
+  {
+    "key": "ui-confirm",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "source": "library/kenney/interface-sounds/Audio/confirmation_001.ogg",
+    "sourceSha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+    "sha256": "8a9a2ea99581ac1bdf2606fc9ed800096d6a74bcb1b268918a9dd46316737ecb"
+  },
+  {
+    "key": "ui-back",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "source": "library/kenney/interface-sounds/Audio/back_001.ogg",
+    "sourceSha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+    "sha256": "9b41091244e65cf0c95d9e634d286ea3263d7292a9c08576901283c119861901"
+  },
+  {
+    "key": "hit-1",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactPunch_medium_000.ogg",
+    "sourceSha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c",
+    "sha256": "e7d1b77483c1c6b43ea71a70630af41f47320a7d1a410b19c7640de760a18185"
+  },
+  {
+    "key": "hit-2",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactPunch_medium_001.ogg",
+    "sourceSha256": "e71d23abcc3f10d9d6bc9615b2a431fff70b12333a5fcdd9964457564ace4349",
+    "sha256": "e96d21503ed5752bc5f21e34dd243b5ad4670e6ced4a76d363babb13f940a56e"
+  },
+  {
+    "key": "hit-3",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactPunch_medium_002.ogg",
+    "sourceSha256": "6492f9ccbc8d24dcef607bb1b48790b7870961474561f7fe5601e1c73a3018ef",
+    "sha256": "e9129dfcb1c58aa1a06c03fd978e99f3d21ca1abe722794be7801007175ac66b"
+  },
+  {
+    "key": "heavy-1",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactPunch_heavy_000.ogg",
+    "sourceSha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8",
+    "sha256": "b8786c7c68f9ecf296ba4dd8205fbf838686872325decf5b2e056949da3fad39"
+  },
+  {
+    "key": "heavy-2",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactPunch_heavy_001.ogg",
+    "sourceSha256": "f92f5cb6ba4ff2766497292ffd90865654317eeca976f5652e0708dbdcdc0dd9",
+    "sha256": "2da15023ebef255f65ebcbf7d24202a3bb7c431ae7addf3c120cbed1ab131385"
+  },
+  {
+    "key": "guard",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactMetal_light_000.ogg",
+    "sourceSha256": "33b5e6e37c6e9d54e07bf5a89b12c76e879f40c1ea83cdd82714df1d6f9fec6d",
+    "sha256": "0b2a741cb63224500221c2ea9134d453584fec6e76c5f62bb681b811cac680b5"
+  },
+  {
+    "key": "parry",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactBell_heavy_000.ogg",
+    "sourceSha256": "94b8bb5f2d43ab65e4bcc32b28562416e9bc2c51d9fd4be1e333660ee52f977f",
+    "sha256": "f09bd7d4795ec5635db14218973bad68826f1a3b073016bb09fc2e14f5a65f9b"
+  },
+  {
+    "key": "step-1",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/footstep_concrete_000.ogg",
+    "sourceSha256": "d7267e183067757c92c169de2a379abea592cfca6b39bb2e8feea15221ad79fe",
+    "sha256": "ce9c43655c547d67b876796e6449a616004ed277d780148bd4a56a0dcfc41e15"
+  },
+  {
+    "key": "step-2",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/footstep_concrete_001.ogg",
+    "sourceSha256": "507a75eb19b897087855a3be3cf11a12d7fa37d143ad535eeebe0b8031c7325d",
+    "sha256": "ec73869da263e6bffcdb9ba51ae8b283ddcab0ebe19ea0e335c1b49c981f5f89"
+  },
+  {
+    "key": "step-3",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/footstep_concrete_002.ogg",
+    "sourceSha256": "b21fa546d74941196b25da8a20b7010abd8c05c4fcf93545d1f344e66a664e13",
+    "sha256": "97bbfcae7388de7254960ac3ca6091872a2f340350c4b2f8fe989226de10636d"
+  },
+  {
+    "key": "jump",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+    "source": "library/kenney/rpg-audio/Audio/cloth1.ogg",
+    "sourceSha256": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d",
+    "sha256": "8356978d2c880c680d38770908d4f6b9bfcaf491b602a2e1bfdca7a7007aff4f"
+  },
+  {
+    "key": "land",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactSoft_heavy_000.ogg",
+    "sourceSha256": "49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1",
+    "sha256": "f47e89f28bc11ad719f4230f085ea4b870b52bbcd85d1d7dc819316e4b1c6083"
+  },
+  {
+    "key": "swing",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+    "source": "library/kenney/rpg-audio/Audio/cloth4.ogg",
+    "sourceSha256": "e7ab9a6c4466dea874196c61f59bf1da05cfe58748f42fadd695d441a154a99b",
+    "sha256": "54cc24b516def959bdfa8f8851ad918e9571242b9603bf45c09ae322d98a60fe"
+  },
+  {
+    "key": "sword",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+    "source": "library/kenney/rpg-audio/Audio/knifeSlice.ogg",
+    "sourceSha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+    "sha256": "730c304db2de8b8ba17691ddd0f08f6c1d3f8a21fd89d9f1d2763c9739faf86f"
+  },
+  {
+    "key": "spin",
+    "author": "UnderlinedDesigns",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/UnderlinedDesigns/sounds/191766/",
+    "source": "library/freesound/bosses/dash-tail-whoosh-191766-hq-preview.mp3",
+    "sourceSha256": "c26860e97f4fbcd289064122ec8b6b6eb0d4600acc1a1583737a045932893f0e",
+    "sha256": "e765a315c2eee7fc14ee8e7002511ca41e91f28eb5a9f7bae0f7a91f25b6d5ae"
+  },
+  {
+    "key": "gadget",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+    "source": "library/kenney/sci-fi-sounds/Audio/forceField_000.ogg",
+    "sourceSha256": "c2916f2a062c8ddd1aca2826d134fe90847037db31342726ffb0f9097afe339c",
+    "sha256": "a6ac906e7726bfe723373e3e37a2116a3ab6a80052645d4ffa944d0d98de7a4b"
+  },
+  {
+    "key": "slam",
+    "author": "kyles",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/kyles/sounds/51817/",
+    "source": "library/freesound/bosses/heavy-slam-51817-hq-preview.mp3",
+    "sourceSha256": "eec5f75f135a407de2eb20a5771d9a7bb9727abfbd3ad3999ac26c4c60ba258e",
+    "sha256": "3fd89500390cb489ab95dac5b353cca50556a83566c1cb9352e3c0148de1be33"
+  },
+  {
+    "key": "wood-hit",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactWood_medium_000.ogg",
+    "sourceSha256": "1723a9fd25103ed41af06054814e84e65f4a772bac86ab2dc927da93d9592ff5",
+    "sha256": "b4867b85ca0576afd67dddb526bd73a0190bc60f758a3060d8156bf6ef9ec355"
+  },
+  {
+    "key": "wood-break",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactWood_heavy_000.ogg",
+    "sourceSha256": "15ff82332f342c30e469215539e1cc57e11b221aa2cf7e11e811d313a9927f3d",
+    "sha256": "4512143638ef6e5a9c548b94eb71096c52f2e960c393fea0243dbbb90598cc45"
+  },
+  {
+    "key": "metal-hit",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactMetal_medium_000.ogg",
+    "sourceSha256": "a96f879fec0864a8938e0c745b6996a6c5679c16a234ce31a01cc995e8401003",
+    "sha256": "23cc069ab771a10cba513f71930e02b0b15a5404688e5fea381c802cfa7fa32e"
+  },
+  {
+    "key": "metal-break",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/impact-sounds",
+    "source": "library/kenney/impact-sounds/Audio/impactMetal_heavy_000.ogg",
+    "sourceSha256": "e07045693e4a2b3d165c424e3dab4c781d9ff8880a386880ac89a51315d7f831",
+    "sha256": "13be487b3fa1853a4812c7a1a18f265958fb880c0b5f669787ed1c6340c77d48"
+  },
+  {
+    "key": "coin",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+    "source": "library/kenney/rpg-audio/Audio/handleCoins.ogg",
+    "sourceSha256": "8a91f969e932df709df80ee124d86a51389eed9b67f22e5e716bc2bbf60d8dab",
+    "sha256": "f3210208d2cdd3c3745a988cae1c977f84c22a6911cd8f308194de1aaa9dd476"
+  },
+  {
+    "key": "heal",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "source": "library/kenney/interface-sounds/Audio/confirmation_002.ogg",
+    "sourceSha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+    "sha256": "85c426df7eb8ea67cd4d55e22f6bcbf60588bf3a929561bdd59931c9426c9170"
+  },
+  {
+    "key": "blast",
+    "author": "Kenney",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+    "source": "library/kenney/sci-fi-sounds/Audio/explosionCrunch_000.ogg",
+    "sourceSha256": "4b597d658d0ae101f0a030fbeea5fc3a4292ab85f017470a8254a8e7959cbd69",
+    "sha256": "71f98bf7df48d76cb81e5091a3db12431efc0c00d0b86da86744f2d85f7732bd"
+  },
+  {
+    "key": "hiss",
+    "author": "xoiziox",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/xoiziox/sounds/553374/",
+    "source": "library/freesound/snakes/snake-hiss-553374-hq-preview.mp3",
+    "sourceSha256": "79006dcae9b1e987882038efb6cd6e728696f26fe6897abc6131b683cdf1a19f",
+    "sha256": "9f459226db4a08b33a69f26b79cd33af364533bd00b770fae364deda7098d9ee"
+  },
+  {
+    "key": "cobra",
+    "author": "florianreichelt",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/florianreichelt/sounds/423454/",
+    "source": "library/freesound/snakes/cobra-snarl-423454-hq-preview.mp3",
+    "sourceSha256": "b071bd4f524a1017e5a872f077b70aa5d0ed0421800427734496116b76c5c2e1",
+    "sha256": "7fb5b719e28a7721da4e71e0db5f1061967c3cf2b8f83f3d0ab882d229e0cbef"
+  },
+  {
+    "key": "rattle",
+    "author": "U.S. Fish and Wildlife Service; Ogg conversion by Wikimedia uploader",
+    "license": "Public-domain-USGov-FWS",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rattlesnake.ogg",
+    "source": "library/other/snakes/ray-rattle.ogg",
+    "sourceSha256": "145f92830ee8219e08d30d88f84966d5d5a5b94cdbbe1ebb9defa70bd79e6755",
+    "sha256": "704f710e93dafa0ae190e57ca8d115c60cd5b209906c57f63061ecb84cc7de43"
+  },
+  {
+    "key": "scrape",
+    "author": "magnuswaker",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/magnuswaker/sounds/530075/",
+    "source": "library/freesound/bosses/rasp-scrape-530075-hq-preview.mp3",
+    "sourceSha256": "ae8e0f6fe04664df684de19ddab2db411793cba3a543c05ac656a0a7209dbd6f",
+    "sha256": "b97b8babd0dbf50010417cd8bca141990999e24a2e1b21daebef8e0eae7c6146"
+  },
+  {
+    "key": "fuse",
+    "author": "themightyglider; derived from j1987",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://opengameart.org/content/simple-fuse-sound",
+    "source": "library/other/bosses/rasp-fuse.ogg",
+    "sourceSha256": "cebb92afb020a18ae437581e62ed8dbcd2d34e728d330a1110e3156d541d898a",
+    "sha256": "70b2a788fb9a27d0e42f18a1940d7fd9634f45352cac899cca56d08f46e16d9a"
+  },
+  {
+    "key": "call",
+    "author": "john129pats",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/john129pats/sounds/146558/",
+    "source": "library/freesound/bosses/boss-growl-146558-hq-preview.mp3",
+    "sourceSha256": "d6f5b2537776310e06ebe6113cca10bda48e86f40d75afab58bd49510d5c558d",
+    "sha256": "4fd17f3a771a468f5a34134f92ac1d89953cbc6a2ecb2e94abf6aff4d4d84db0"
+  },
+  {
+    "key": "venom",
+    "author": "rubberduck",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+    "source": "library/opengameart/water-splash-slime/slime_01.ogg",
+    "sourceSha256": "4273c9510b03c3cc6b2d901fbd20de62ff4f537e4077a368355039c3081099a1",
+    "sha256": "097409a7581502d094c3028c7efcf5d43a2c8056cbbf3619c930dae7b65a3187"
+  },
+  {
+    "key": "splash",
+    "author": "rubberduck",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+    "source": "library/opengameart/water-splash-slime/splash_01.ogg",
+    "sourceSha256": "156f4df0fa1a552d1c4e451284a55000417ea871954dc4b5e0d4302a49e228a8",
+    "sha256": "9e6236294d301d2dfb172acda86e39cf9e8ad9d184ff0dc376ce6fa3ddde806c"
+  },
+  {
+    "key": "bubbles",
+    "author": "rubberduck",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+    "source": "library/opengameart/water-splash-slime/loop_bubbles_02.ogg",
+    "sourceSha256": "e1b572a7a0ed264313b1ed3e66c3ee9839bcc04fd0bea913ff68158208623166",
+    "sha256": "3521e411b5efc700c8bdb7b86b99ffecd428635231708d83b11eb53706fbbee6"
+  },
+  {
+    "key": "crowd",
+    "author": "IENBA",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/IENBA/sounds/653920/",
+    "source": "library/freesound/festival/small-crowd-653920-hq-preview.mp3",
+    "sourceSha256": "a953c2ea3d550382154ca899fb027822b7436d0bb673575bde5443631339e836",
+    "sha256": "5e30c39cb5e105727f4948e7fd7a37c41870112186381dcd392537ea7106353b"
+  },
+  {
+    "key": "crickets",
+    "author": "FreethinkerAnon",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://freesound.org/people/FreethinkerAnon/sounds/129678/",
+    "source": "library/freesound/festival/night-crickets-129678-hq-preview.mp3",
+    "sourceSha256": "ee9480b488f5ced24a56b4e7acaf89d5f514033f8e82f8c7a20f758d8a33a28f",
+    "sha256": "3d40f84003c02a728a22aee87a0406527ea73d4a9d2d04fcc47139c073490e58"
+  },
+  {
+    "key": "fountain",
+    "author": "BigSoundBank / Joseph SARDIN",
+    "license": "CC0-1.0",
+    "sourceUrl": "https://bigsoundbank.com/fontaine-de-temple-japonais-s0913.html",
+    "source": "library/other/festival/fountain.ogg",
+    "sourceSha256": "3ee333fcff07f0fc098b62f5b70a6a833f88b029f0f5af1c4087a77270435473",
+    "sha256": "3951af57ff2ed9c8e0d5e63bb01dec98d3aded2ff17e3cca089ea44c471630f9"
+  }
+]
