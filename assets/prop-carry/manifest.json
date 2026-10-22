@@ -2,7 +2,7 @@
   "generator": "built-in image_gen",
   "characters": {
     "rikki": {
-      "sourceHash": "251e53ddd97466e658fb3e9c7d1de4856f5bdcadaf9c016b5e4da076dc4e322e",
+      "sourceHash": "0f7d44db294f5983500df23d5b15866d6c24de7b57dace2cfa1a70fd5f13cc5f",
       "anatomicalReference": {
         "key": "rikki-idle-0",
         "url": "assets/derived/rikki-idle-0.png?v=e28fff5a59b3",
@@ -25,446 +25,446 @@
         "carryIdle": [
           {
             "key": "rikki-carryIdle-0",
-            "url": "assets/prop-carry/rikki/carryIdle-0.png?v=028a861310ed",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryIdle-0.png?v=e2266cfc7870",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              42,
-              48,
-              198,
-              229
+              27,
+              35,
+              216,
+              252
             ],
-            "width": 246,
-            "height": 277,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6035772357723578,
-            "originY": 0.9061371841155235,
+            "width": 264,
+            "height": 300,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6053787878787878,
+            "originY": 0.9133333333333333,
             "handSocket": {
-              "x": 203.36,
-              "y": 133.95999999999998
+              "x": 219.74,
+              "y": 145
             },
-            "sha256": "028a861310ed932ea01bfe801293842ed2dbcf2cf3e6de12c8bb5aaa830aadd6",
+            "sha256": "e2266cfc7870da0261d5e39e27d676ca7d1f9a01d3741a2bcb31026f3f675f96",
             "padding": 24
           },
           {
             "key": "rikki-carryIdle-1",
-            "url": "assets/prop-carry/rikki/carryIdle-1.png?v=f8720ef17dc0",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryIdle-1.png?v=a48a967f07d8",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              319,
-              46,
-              189,
-              231
+              302,
+              34,
+              216,
+              253
             ],
-            "width": 237,
-            "height": 279,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6025738396624473,
-            "originY": 0.9068100358422939,
+            "width": 264,
+            "height": 301,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6053787878787878,
+            "originY": 0.9136212624584718,
             "handSocket": {
-              "x": 195.17000000000002,
-              "y": 134.92000000000002
+              "x": 219.74,
+              "y": 145.48
             },
-            "sha256": "f8720ef17dc0a6f7ca0c37e5e1af4c9ad8140fe3c78006a4e41b1d17a65bbdad",
+            "sha256": "a48a967f07d8d27f7a8bda2ad0f1bf43d3a13c12030e54e406fce1e416867975",
             "padding": 24
           },
           {
             "key": "rikki-carryIdle-2",
-            "url": "assets/prop-carry/rikki/carryIdle-2.png?v=a22b6630d524",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryIdle-2.png?v=e58f07883807",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              579,
-              44,
-              194,
-              233
+              577,
+              35,
+              221,
+              252
             ],
-            "width": 242,
-            "height": 281,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6057438016528927,
-            "originY": 0.9074733096085409,
+            "width": 269,
+            "height": 300,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6058364312267659,
+            "originY": 0.9133333333333333,
             "handSocket": {
-              "x": 200.63,
-              "y": 135.88
+              "x": 224.28999999999996,
+              "y": 145
             },
-            "sha256": "a22b6630d524e8f4600b4d3aee3f8d33a93cb4d64f1184ea29edeafad517c40f",
+            "sha256": "e58f07883807b6c2628246ef574b8650cee3d8418fc4d13cddafd6167fefca20",
             "padding": 24
           },
           {
             "key": "rikki-carryIdle-3",
-            "url": "assets/prop-carry/rikki/carryIdle-3.png?v=7cdf453e9df4",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryIdle-3.png?v=65dae7e0ac98",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              858,
-              43,
-              199,
-              234
+              866,
+              35,
+              217,
+              252
             ],
-            "width": 247,
-            "height": 282,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6036842105263158,
-            "originY": 0.9078014184397163,
+            "width": 265,
+            "height": 300,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6054716981132077,
+            "originY": 0.9133333333333333,
             "handSocket": {
-              "x": 204.26999999999998,
-              "y": 136.36
+              "x": 220.6500000000001,
+              "y": 145
             },
-            "sha256": "7cdf453e9df435c6b8af9110f08de1adde54a6d0e9cd27e6374cec2987648a7d",
+            "sha256": "65dae7e0ac986a3a8f0fade5fb5f81575d398efb0fa25d0f6d7cecbf45572ef0",
             "padding": 24
           }
         ],
         "carryWalk": [
           {
             "key": "rikki-carryWalk-0",
-            "url": "assets/prop-carry/rikki/carryWalk-0.png?v=c6deb58be75a",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-0.png?v=cea7fdd0151a",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              35,
-              309,
-              207,
-              229
+              29,
+              305,
+              236,
+              256
             ],
-            "width": 255,
-            "height": 277,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6069803921568627,
-            "originY": 0.9061371841155235,
+            "width": 284,
+            "height": 304,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.607112676056338,
+            "originY": 0.9144736842105263,
             "handSocket": {
-              "x": 212.46,
-              "y": 133.95999999999998
+              "x": 237.94,
+              "y": 146.92000000000002
             },
-            "sha256": "c6deb58be75add30290c559435951c1e571594a668286254299e4548acd0ee89",
+            "sha256": "cea7fdd0151ac5e379c498e8c36ee3d6986d720fd6819373a5ad45746b71b7d3",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-1",
-            "url": "assets/prop-carry/rikki/carryWalk-1.png?v=6ad8448f64a4",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-1.png?v=57f9264acc7f",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              305,
-              311,
-              209,
-              227
+              313,
+              306,
+              226,
+              256
             ],
-            "width": 257,
-            "height": 275,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6047081712062256,
-            "originY": 0.9054545454545454,
+            "width": 274,
+            "height": 304,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6062773722627738,
+            "originY": 0.9144736842105263,
             "handSocket": {
-              "x": 213.37,
-              "y": 133
+              "x": 228.84000000000003,
+              "y": 146.92000000000002
             },
-            "sha256": "6ad8448f64a46ff812c0eea6b9506a7e84205b93de22bca9218cf82a8747da41",
+            "sha256": "57f9264acc7f4f31ee40566b4e58866f297dfb6b44aeaf1b63b43149c0ec24e6",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-2",
-            "url": "assets/prop-carry/rikki/carryWalk-2.png?v=7434aeb85f44",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-2.png?v=1391cf28a341",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              574,
-              309,
-              203,
-              229
+              579,
+              304,
+              231,
+              258
             ],
-            "width": 251,
-            "height": 277,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6041035856573705,
-            "originY": 0.9061371841155235,
+            "width": 279,
+            "height": 306,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6053763440860215,
+            "originY": 0.9150326797385621,
             "handSocket": {
-              "x": 207.90999999999997,
-              "y": 133.95999999999998
+              "x": 233.29999999999995,
+              "y": 147.88
             },
-            "sha256": "7434aeb85f44edd71c0fa06f8ec3ba9754eb3caacd16a1309ea7ff07c7e706c3",
+            "sha256": "1391cf28a3411de91f9341c7921787d8eb3bcc1511b83f82779bee284aaf26a2",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-3",
-            "url": "assets/prop-carry/rikki/carryWalk-3.png?v=ad9bd770cbe3",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-3.png?v=6e6bd44e7197",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              858,
-              310,
-              213,
-              225
+              873,
+              305,
+              228,
+              256
             ],
-            "width": 261,
-            "height": 273,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6050957854406133,
-            "originY": 0.9047619047619048,
+            "width": 276,
+            "height": 304,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6064492753623189,
+            "originY": 0.9144736842105263,
             "handSocket": {
-              "x": 217.01,
-              "y": 132.03999999999996
+              "x": 230.66000000000008,
+              "y": 146.92000000000002
             },
-            "sha256": "ad9bd770cbe3e85a406af3c86dfed7f9c883567f468ba88697f4c5ec3c2a94a3",
+            "sha256": "6e6bd44e71972ef23942185af046cb02a3a396be7b8e033ad10456839cfcd299",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-4",
-            "url": "assets/prop-carry/rikki/carryWalk-4.png?v=d0896b6111d9",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-4.png?v=a0856b2ac546",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              41,
-              570,
-              214,
-              232
+              36,
+              577,
+              244,
+              259
             ],
-            "width": 262,
-            "height": 280,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6051908396946565,
-            "originY": 0.9071428571428571,
+            "width": 292,
+            "height": 307,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6077397260273973,
+            "originY": 0.9153094462540716,
             "handSocket": {
-              "x": 217.92000000000002,
-              "y": 135.39999999999998
+              "x": 245.22000000000003,
+              "y": 148.36
             },
-            "sha256": "d0896b6111d9c794eb901afa7c526da9b3ac8570242a162e2906695fa2d9c5b9",
+            "sha256": "a0856b2ac546731acdf386f3c2b00c82e56b79d28b0c7c13b26c6121fd4d4763",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-5",
-            "url": "assets/prop-carry/rikki/carryWalk-5.png?v=bd485e667de6",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-5.png?v=3c0fa5bb28b8",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              311,
-              569,
-              207,
-              233
+              312,
+              576,
+              224,
+              261
             ],
-            "width": 255,
-            "height": 281,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6045098039215685,
-            "originY": 0.9074733096085409,
+            "width": 272,
+            "height": 309,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6061029411764707,
+            "originY": 0.9158576051779935,
             "handSocket": {
-              "x": 211.55,
-              "y": 135.88
+              "x": 227.01999999999998,
+              "y": 149.31999999999994
             },
-            "sha256": "bd485e667de63cccb232879c2b6588c9e84766bceb333e6ab40a63ae1628fe69",
+            "sha256": "3c0fa5bb28b80244bb8cd64b69d10caf86626a2a6c885eb7eb7297660be88407",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-6",
-            "url": "assets/prop-carry/rikki/carryWalk-6.png?v=4bf582538907",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-6.png?v=c8b98c4ca23b",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              577,
-              574,
-              200,
-              229
+              587,
+              579,
+              242,
+              258
             ],
-            "width": 248,
-            "height": 277,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6037903225806452,
-            "originY": 0.9061371841155235,
+            "width": 290,
+            "height": 306,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6075862068965519,
+            "originY": 0.9150326797385621,
             "handSocket": {
-              "x": 205.18000000000006,
-              "y": 133.96000000000004
+              "x": 243.39999999999998,
+              "y": 147.88
             },
-            "sha256": "4bf582538907a1ed2f87981cfbacdc2b0da439bd46d837bac1de80db2a676e2b",
+            "sha256": "c8b98c4ca23bdabbdd04fe2422f44e53d18f75b35db65f024155cf03c00c7a52",
             "padding": 24
           },
           {
             "key": "rikki-carryWalk-7",
-            "url": "assets/prop-carry/rikki/carryWalk-7.png?v=01045072bd5d",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryWalk-7.png?v=f07d0585e513",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              862,
-              568,
-              213,
-              231
+              878,
+              579,
+              231,
+              259
             ],
-            "width": 261,
-            "height": 279,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6036781609195401,
-            "originY": 0.9068100358422939,
+            "width": 279,
+            "height": 307,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6067025089605734,
+            "originY": 0.9153094462540716,
             "handSocket": {
-              "x": 216.92000000000007,
-              "y": 134.91999999999996
+              "x": 233.3900000000001,
+              "y": 148.36
             },
-            "sha256": "01045072bd5db9ac895c162d9f818bf7b6965088ae1999c38719d84b662f7cba",
+            "sha256": "f07d0585e5136fbd2c4f51d677e3941fb48e1f83c68961a4891d6ea7bd3b22e4",
             "padding": 24
           }
         ],
         "carryRun": [
           {
             "key": "rikki-carryRun-0",
-            "url": "assets/prop-carry/rikki/carryRun-0.png?v=6fde6e59f57a",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-0.png?v=4b742dcdd4a6",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              47,
-              835,
-              220,
-              236
+              29,
+              851,
+              245,
+              242
             ],
-            "width": 268,
-            "height": 284,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6057462686567164,
-            "originY": 0.9084507042253521,
+            "width": 293,
+            "height": 290,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6078156996587031,
+            "originY": 0.9103448275862069,
             "handSocket": {
-              "x": 223.38,
-              "y": 137.31999999999994
+              "x": 246.13,
+              "y": 140.20000000000005
             },
-            "sha256": "6fde6e59f57af80373f8cae8b48438aaf14c56d20bc00b10247b5e11d75ac920",
+            "sha256": "4b742dcdd4a668f17ddb5692cbe517fbf57ccfd914be79e4820a2894e4b336f8",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-1",
-            "url": "assets/prop-carry/rikki/carryRun-1.png?v=e4d95ec3ede8",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-1.png?v=727fb6d7d8bc",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              306,
-              837,
-              226,
-              237
+              301,
+              852,
+              257,
+              247
             ],
-            "width": 274,
-            "height": 285,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6062773722627738,
-            "originY": 0.9087719298245615,
+            "width": 305,
+            "height": 295,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6086885245901639,
+            "originY": 0.911864406779661,
             "handSocket": {
-              "x": 228.84000000000003,
-              "y": 137.79999999999995
+              "x": 257.04999999999995,
+              "y": 142.60000000000002
             },
-            "sha256": "e4d95ec3ede8e424896d942cede3d012601be8f2ebac0827414b27a96714a179",
+            "sha256": "727fb6d7d8bc42e7146e9580be61953908b3b01ce0e85cfcaee6b7a8f2a0b635",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-2",
-            "url": "assets/prop-carry/rikki/carryRun-2.png?v=9b30bb0cb5d7",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-2.png?v=c4e58579c8e8",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              570,
-              837,
-              235,
-              224
+              587,
+              852,
+              266,
+              244
             ],
-            "width": 283,
-            "height": 272,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6070318021201412,
-            "originY": 0.9044117647058824,
+            "width": 314,
+            "height": 292,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6092993630573247,
+            "originY": 0.910958904109589,
             "handSocket": {
-              "x": 237.02999999999997,
-              "y": 131.55999999999995
+              "x": 265.24,
+              "y": 141.15999999999997
             },
-            "sha256": "9b30bb0cb5d75eaaea87d2b99eae62fb8a79a32997237679b92004ec4bf971e1",
+            "sha256": "c4e58579c8e82f02a64a0c53f6bb2a84648246aef8219d34a973d4ec5d52e671",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-3",
-            "url": "assets/prop-carry/rikki/carryRun-3.png?v=84fb3fcc0145",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-3.png?v=2e73261f4910",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              846,
-              833,
-              243,
-              240
+              859,
+              864,
+              251,
+              241
             ],
-            "width": 291,
-            "height": 288,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.60766323024055,
-            "originY": 0.93921093548595,
+            "width": 299,
+            "height": 289,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6082608695652174,
+            "originY": 0.9423987829060927,
             "handSocket": {
-              "x": 244.30999999999995,
-              "y": 139.24
+              "x": 251.58999999999992,
+              "y": 139.72000000000003
             },
-            "sha256": "84fb3fcc01450d5a147d218954b23ca8fb4155546a2c5d87e38004de696deff5",
+            "sha256": "2e73261f49107102787e4e8cd1876b7693e85f2a21d697ba6bd06ee156ab5929",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-4",
-            "url": "assets/prop-carry/rikki/carryRun-4.png?v=7cb7c94379ec",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-4.png?v=7caaf3cd44df",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              42,
-              1098,
-              217,
-              235
+              24,
+              1106,
+              241,
+              238
             ],
-            "width": 265,
-            "height": 283,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6054716981132076,
-            "originY": 0.9081272084805654,
+            "width": 289,
+            "height": 286,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6075086505190311,
+            "originY": 0.9090909090909091,
             "handSocket": {
-              "x": 220.65,
-              "y": 136.83999999999992
+              "x": 242.49,
+              "y": 138.27999999999997
             },
-            "sha256": "7cb7c94379ece75a23734f58251a841283f0070c5dfa9ba72f5e57ef45fbd29e",
+            "sha256": "7caaf3cd44df20dbeee34f989918d21e177d760a329bea2a8d10d11644dc3148",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-5",
-            "url": "assets/prop-carry/rikki/carryRun-5.png?v=ca262e4a0247",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-5.png?v=6908301d142c",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              300,
-              1102,
-              220,
-              232
+              301,
+              1101,
+              266,
+              241
             ],
-            "width": 268,
-            "height": 280,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6057462686567165,
-            "originY": 0.9071428571428571,
+            "width": 314,
+            "height": 289,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6092993630573248,
+            "originY": 0.9100346020761245,
             "handSocket": {
-              "x": 223.38,
-              "y": 135.4000000000001
+              "x": 265.24,
+              "y": 139.72000000000003
             },
-            "sha256": "ca262e4a024793b420ce9d918585219dbf15b0c5150c2794cc10ab80522db8ad",
+            "sha256": "6908301d142cc5143a5b1640cabe2fe950ad1df73fbc85528074777765351487",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-6",
-            "url": "assets/prop-carry/rikki/carryRun-6.png?v=dae76343a145",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-6.png?v=3d791f29220b",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              566,
-              1100,
-              245,
-              227
+              565,
+              1103,
+              275,
+              242
             ],
-            "width": 293,
-            "height": 275,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6078156996587032,
-            "originY": 0.9090909090909091,
+            "width": 323,
+            "height": 290,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6098761609907121,
+            "originY": 0.9103448275862069,
             "handSocket": {
-              "x": 246.13,
-              "y": 133.48000000000002
+              "x": 273.43000000000006,
+              "y": 140.20000000000005
             },
-            "sha256": "dae76343a145dbbbc308515eb6b9396fcf9d25d2022779da3b752d9db3900bd6",
+            "sha256": "3d791f29220b3aef7755713ef9d72b14da6b73a76f742af5d9076b67306cb977",
             "padding": 24
           },
           {
             "key": "rikki-carryRun-7",
-            "url": "assets/prop-carry/rikki/carryRun-7.png?v=8f2874484472",
-            "source": "assets/characters/prop-carry/sources/rikki-v1.png",
+            "url": "assets/prop-carry/rikki/carryRun-7.png?v=fa1da9f262be",
+            "source": "assets/characters/prop-carry/sources/rikki-v2.png",
             "rect": [
-              857,
-              1104,
-              240,
-              231
+              863,
+              1106,
+              251,
+              236
             ],
-            "width": 288,
-            "height": 279,
-            "renderScale": 0.7064849912918758,
-            "originX": 0.6074305555555557,
-            "originY": 0.9372499979209807,
+            "width": 299,
+            "height": 284,
+            "renderScale": 0.6414883720930232,
+            "originX": 0.6070234113712375,
+            "originY": 0.9413846769713408,
             "handSocket": {
-              "x": 241.57999999999993,
-              "y": 134.92000000000007
+              "x": 251.5,
+              "y": 137.31999999999994
             },
-            "sha256": "8f28744844729ade4d988e6d92ec08218c9b0121f21799e94943a6b157714867",
+            "sha256": "fa1da9f262be711491a277a98cc0aaf92f0bb194e4d38019fd29d854844e846b",
             "padding": 24
           }
         ]
