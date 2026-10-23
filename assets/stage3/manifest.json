@@ -1,0 +1,164 @@
+{
+  "stage": 3,
+  "title": "Monsoon Docks",
+  "boss": "spitfire",
+  "nativeResolution": {
+    "width": 640,
+    "height": 360
+  },
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "stageWidth": 7680,
+  "files": [
+    {
+      "key": "stage3_sky",
+      "file": "stage3_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f92074fb397e1eb2ad2cfc5c4971107860496ba6223cf5da081901132f50ae7c",
+      "url": "assets/stage3/stage3_sky.png?v=f92074fb397e",
+      "scrollFactor": 0
+    },
+    {
+      "key": "stage3_skyline",
+      "file": "stage3_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "sha256": "7ee0f773924ac2e883de31a0b7e321a2f692ec49c287ed7efdb4891192a88c84",
+      "url": "assets/stage3/stage3_skyline.png?v=7ee0f773924a",
+      "baseline": 390,
+      "scrollFactor": 0.15,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage3_docks_mid",
+      "file": "stage3_docks_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "5fbe39e628920c6b6d29bbe9f8a1b57dd8e286fa9bcec781b429bc26e1038896",
+      "url": "assets/stage3/stage3_docks_mid.png?v=5fbe39e62892",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage3_containers_mid",
+      "file": "stage3_containers_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "c6f7189fa5ee05c7df44ac48508604aa3d7da66c2b4f3d05cbb58ae14292343f",
+      "url": "assets/stage3/stage3_containers_mid.png?v=c6f7189fa5ee",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage3_spitfire_backdrop",
+      "file": "stage3_spitfire_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "89fd28b8eb0574f20a2d829dfec8534fc5c701d7d571a1a252b7b586be3a16fa",
+      "url": "assets/stage3/stage3_spitfire_backdrop.png?v=89fd28b8eb05",
+      "baseline": 400,
+      "scrollFactor": 1,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage3_docks_floor",
+      "file": "stage3_docks_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "173d66af05b63b6f0f0219395e9c88bdeab94155952eba319062092bbb599709",
+      "url": "assets/stage3/stage3_docks_floor.png?v=173d66af05b6",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage3_foreground",
+      "file": "stage3_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "accbccb0083bd299775f23c93ad12c8a7bd3a768d7e27544fd100c2f715d207b",
+      "url": "assets/stage3/stage3_foreground.png?v=accbccb0083b",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "docks",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 2,
+      "section": "docks",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 3,
+      "section": "docks",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 4,
+      "section": "docks",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 5,
+      "section": "container-yard",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_containers_mid"
+    },
+    {
+      "screen": 6,
+      "section": "container-yard",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_containers_mid"
+    },
+    {
+      "screen": 7,
+      "section": "container-yard",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_containers_mid"
+    },
+    {
+      "screen": 8,
+      "section": "container-yard",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_containers_mid"
+    },
+    {
+      "screen": 9,
+      "section": "ship-approach",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 10,
+      "section": "ship-approach",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 11,
+      "section": "ship-approach",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_docks_mid"
+    },
+    {
+      "screen": 12,
+      "section": "arena",
+      "floor": "stage3_docks_floor",
+      "backdrop": "stage3_spitfire_backdrop"
+    }
+  ]
+}
