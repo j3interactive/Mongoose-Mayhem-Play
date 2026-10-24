@@ -1,0 +1,174 @@
+{
+  "stage": 3,
+  "title": "Neon Strip",
+  "boss": "mamba",
+  "nativeResolution": {
+    "width": 640,
+    "height": 360
+  },
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "stageWidth": 7680,
+  "files": [
+    {
+      "key": "stage4_sky",
+      "file": "stage4_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "cc0db28554f3cab0decb918e349e70abb25c72f7f4deb8f6fe0a1b1d1235249c",
+      "url": "assets/stage4/stage4_sky.png?v=cc0db28554f3",
+      "scrollFactor": 0
+    },
+    {
+      "key": "stage4_skyline",
+      "file": "stage4_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "sha256": "62b0d66e3301aeaf8a9a5c64180db4aca846591b981e67133070283a2d7d5923",
+      "url": "assets/stage4/stage4_skyline.png?v=62b0d66e3301",
+      "baseline": 390,
+      "scrollFactor": 0.15,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage4_strip_mid",
+      "file": "stage4_strip_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "29025a32f468e35c410e7a812297706782417ee42fb24732dc1ccfd237aafcfb",
+      "url": "assets/stage4/stage4_strip_mid.png?v=29025a32f468",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage4_club_mid",
+      "file": "stage4_club_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "ab5d924db28cbcfedea3d989e0914af58a8e8ebc481d2fc6476596d99b09e067",
+      "url": "assets/stage4/stage4_club_mid.png?v=ab5d924db28c",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": false
+    },
+    {
+      "key": "stage4_mamba_backdrop",
+      "file": "stage4_mamba_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c3b554d92dbd9b6d940c014227694ddef1fa07d62070473dc7010b4015a87ccc",
+      "url": "assets/stage4/stage4_mamba_backdrop.png?v=c3b554d92dbd",
+      "baseline": 400,
+      "scrollFactor": 1,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage4_street_floor",
+      "file": "stage4_street_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "b1d8a7c9c299706d2fa9582d7a5c6c4fd017b6839ecc4428af98a0a536cfbadf",
+      "url": "assets/stage4/stage4_street_floor.png?v=b1d8a7c9c299",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage4_dance_floor",
+      "file": "stage4_dance_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "bce1f0e9d5aa83a3738c1f749838b8671e3213b81dfb7f30e1038b8484175689",
+      "url": "assets/stage4/stage4_dance_floor.png?v=bce1f0e9d5aa",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage4_foreground",
+      "file": "stage4_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "423b2ae6a776fed0e5616f873746d548da677553f86cc9455cdece993f325a5f",
+      "url": "assets/stage4/stage4_foreground.png?v=423b2ae6a776",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "the-strip",
+      "floor": "stage4_street_floor",
+      "backdrop": "stage4_strip_mid"
+    },
+    {
+      "screen": 2,
+      "section": "the-strip",
+      "floor": "stage4_street_floor",
+      "backdrop": "stage4_strip_mid"
+    },
+    {
+      "screen": 3,
+      "section": "the-strip",
+      "floor": "stage4_street_floor",
+      "backdrop": "stage4_strip_mid"
+    },
+    {
+      "screen": 4,
+      "section": "the-strip",
+      "floor": "stage4_street_floor",
+      "backdrop": "stage4_strip_mid"
+    },
+    {
+      "screen": 5,
+      "section": "club-interior",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 6,
+      "section": "club-interior",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 7,
+      "section": "club-interior",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 8,
+      "section": "club-interior",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 9,
+      "section": "vip-hall",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 10,
+      "section": "vip-hall",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 11,
+      "section": "vip-hall",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_club_mid"
+    },
+    {
+      "screen": 12,
+      "section": "arena",
+      "floor": "stage4_dance_floor",
+      "backdrop": "stage4_mamba_backdrop"
+    }
+  ]
+}
