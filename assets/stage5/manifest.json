@@ -1,0 +1,174 @@
+{
+  "stage": 5,
+  "title": "Pier Pressure",
+  "boss": "rasp",
+  "nativeResolution": {
+    "width": 640,
+    "height": 360
+  },
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "stageWidth": 7680,
+  "files": [
+    {
+      "key": "stage5_sky",
+      "file": "stage5_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "fc9e67302de5df3f0b95c13ea0f509ea53a0ca8cfcd9efff1f23a51607be3343",
+      "url": "assets/stage5/stage5_sky.png?v=fc9e67302de5",
+      "scrollFactor": 0
+    },
+    {
+      "key": "stage5_skyline",
+      "file": "stage5_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "sha256": "64336f6c45e2d932bb4052dcb4105bed91ae3a50b0a8bdd56978270cef3cbde8",
+      "url": "assets/stage5/stage5_skyline.png?v=64336f6c45e2",
+      "baseline": 390,
+      "scrollFactor": 0.15,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage5_boardwalk_mid",
+      "file": "stage5_boardwalk_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "3ee3c03f771a0b26825842a979c07159db5ca0de5aca7c6bbf105576c7a53d91",
+      "url": "assets/stage5/stage5_boardwalk_mid.png?v=3ee3c03f771a",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage5_midway_mid",
+      "file": "stage5_midway_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "5496be2901391f0647cb219915fb590762c55b6cb85f69d2572e32a811014a72",
+      "url": "assets/stage5/stage5_midway_mid.png?v=5496be290139",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage5_rasp_backdrop",
+      "file": "stage5_rasp_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "92625cdf18f799c52932026a47591a2273344c55e41dba6701939207871103ca",
+      "url": "assets/stage5/stage5_rasp_backdrop.png?v=92625cdf18f7",
+      "baseline": 400,
+      "scrollFactor": 1,
+      "matchingTransparentEndcaps": true
+    },
+    {
+      "key": "stage5_boardwalk_floor",
+      "file": "stage5_boardwalk_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c32ae0cd211a03774114a92ab11a43f7166151b7bc137b246594866d128a580a",
+      "url": "assets/stage5/stage5_boardwalk_floor.png?v=c32ae0cd211a",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage5_coaster_floor",
+      "file": "stage5_coaster_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "9a24887eee80aa911151a04936eabde949739e6b16f1d30bce15361472f38bbe",
+      "url": "assets/stage5/stage5_coaster_floor.png?v=9a24887eee80",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage5_foreground",
+      "file": "stage5_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "a4b89b831e7fc61987f2e2e8311db7903d16c19f31797d38840f46de91e28dc6",
+      "url": "assets/stage5/stage5_foreground.png?v=a4b89b831e7f",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "Boardwalk",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 2,
+      "section": "Boardwalk",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 3,
+      "section": "Boardwalk",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 4,
+      "section": "Boardwalk",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 5,
+      "section": "Midway",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_midway_mid"
+    },
+    {
+      "screen": 6,
+      "section": "Midway",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_midway_mid"
+    },
+    {
+      "screen": 7,
+      "section": "Coaster Run",
+      "floor": "stage5_coaster_floor",
+      "backdrop": "stage5_midway_mid"
+    },
+    {
+      "screen": 8,
+      "section": "Coaster Run",
+      "floor": "stage5_coaster_floor",
+      "backdrop": "stage5_midway_mid"
+    },
+    {
+      "screen": 9,
+      "section": "Big Top Approach",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 10,
+      "section": "Big Top Approach",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 11,
+      "section": "Big Top Approach",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_boardwalk_mid"
+    },
+    {
+      "screen": 12,
+      "section": "Big Top",
+      "floor": "stage5_boardwalk_floor",
+      "backdrop": "stage5_rasp_backdrop"
+    }
+  ]
+}
