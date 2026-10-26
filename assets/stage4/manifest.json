@@ -108,6 +108,30 @@
       "matchingRepeatEnds": true
     },
     {
+      "key": "stage4_player_boat",
+      "file": "stage4_player_boat.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0a828627a87a4c2d3f6a388587fc86f0fc10cc6fe71f5eedeb2aa55b8542a1bd",
+      "url": "assets/stage4/stage4_player_boat.png?v=0a828627a87a",
+      "scrollFactor": 0,
+      "deckBounds": {
+        "left": 340,
+        "right": 1100,
+        "top": 420,
+        "bottom": 555
+      }
+    },
+    {
+      "key": "stage4_bay_water",
+      "file": "stage4_bay_water.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "49e29ef80afa8ad467c3c5ce223d82b1a252d68c2aa2496a04604152235f654e",
+      "url": "assets/stage4/stage4_bay_water.png?v=49e29ef80afa",
+      "scrollFactor": 1.6
+    },
+    {
       "key": "stage4_neon_pier",
       "file": "stage4_neon_pier.png",
       "width": 1280,
