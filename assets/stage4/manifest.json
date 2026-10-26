@@ -1,5 +1,5 @@
 {
-  "stage": 3,
+  "stage": 4,
   "title": "Neon Strip",
   "boss": "mamba",
   "nativeResolution": {
@@ -84,6 +84,37 @@
       "sha256": "bce1f0e9d5aa83a3738c1f749838b8671e3213b81dfb7f30e1038b8484175689",
       "url": "assets/stage4/stage4_dance_floor.png?v=bce1f0e9d5aa",
       "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage4_boat_floor",
+      "file": "stage4_boat_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0f85d7f05c25dd09cff8f154bc9b5f7a09864b28e69802ab7798bb6d276d8d1b",
+      "url": "assets/stage4/stage4_boat_floor.png?v=0f85d7f05c25",
+      "floorY": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage4_bay_mid",
+      "file": "stage4_bay_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "6684d2071d5d49980b3064cfeda1568c0d201ac632c134337c67fec4ed829cbb",
+      "url": "assets/stage4/stage4_bay_mid.png?v=6684d2071d5d",
+      "baseline": 400,
+      "scrollFactor": 1.35,
+      "matchingRepeatEnds": true
+    },
+    {
+      "key": "stage4_neon_pier",
+      "file": "stage4_neon_pier.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "41a508f208816cfbf3aff1dd78ddf74cfdff77f04651f7d40acede6df4083c8b",
+      "url": "assets/stage4/stage4_neon_pier.png?v=41a508f20881",
+      "baseline": 400,
       "scrollFactor": 1
     },
     {
