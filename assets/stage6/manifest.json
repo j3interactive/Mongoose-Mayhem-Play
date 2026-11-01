@@ -1,0 +1,174 @@
+{
+  "stage": 6,
+  "title": "Metro Mayhem",
+  "boss": "constrictor",
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "stageWidth": 7680,
+  "files": [
+    {
+      "key": "stage6_station_mid",
+      "file": "stage6_station_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "ee986442d8a4a68e1092b7d69aa3802e9671aa2157825be9a97abcaf080fea2f",
+      "url": "assets/stage6/stage6_station_mid.png?v=ee986442d8a4",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "repeating": false
+    },
+    {
+      "key": "stage6_tunnel_mid",
+      "file": "stage6_tunnel_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "e88dc2f72ec65264238fb0baf8ed3da7c9988f01ffeb45487ba85001f6193da2",
+      "url": "assets/stage6/stage6_tunnel_mid.png?v=e88dc2f72ec6",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "repeating": true
+    },
+    {
+      "key": "stage6_carriage_mid",
+      "file": "stage6_carriage_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "41055f95947ff928f3eb2b5dfb3933a02bc4a668c250ea9d715a95e488b36927",
+      "url": "assets/stage6/stage6_carriage_mid.png?v=41055f95947f",
+      "baseline": 400,
+      "scrollFactor": 0.55,
+      "repeating": false
+    },
+    {
+      "key": "stage6_constrictor_backdrop",
+      "file": "stage6_constrictor_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "e5bb91eea7f44c6d93998f1d97242d9a7959a563a139b1e04f7a5334ea5e3c67",
+      "url": "assets/stage6/stage6_constrictor_backdrop.png?v=e5bb91eea7f4",
+      "baseline": 400,
+      "scrollFactor": 1,
+      "repeating": false
+    },
+    {
+      "key": "stage6_platform_floor",
+      "file": "stage6_platform_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "7b11b6eb1aa08da1cadf3a42b8a41d43ee1335df87fa8682753ca8fa93450756",
+      "url": "assets/stage6/stage6_platform_floor.png?v=7b11b6eb1aa0",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage6_train_roof_floor",
+      "file": "stage6_train_roof_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "181c65710487e9d99db22c3e1fb48c8a688ff410eecc83cf7db000cd8fc949a9",
+      "url": "assets/stage6/stage6_train_roof_floor.png?v=181c65710487",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage6_carriage_floor",
+      "file": "stage6_carriage_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "c3a5f25db058698847e9e1347bacb22288678380aaaa4500140f98f09325b9a8",
+      "url": "assets/stage6/stage6_carriage_floor.png?v=c3a5f25db058",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage6_foreground",
+      "file": "stage6_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "44bf35da4caefb9859e4b8e390e604b042978e1ef77c6eae6ace5e14efa49891",
+      "url": "assets/stage6/stage6_foreground.png?v=44bf35da4cae",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "Station Platforms",
+      "floor": "stage6_platform_floor",
+      "backdrop": "stage6_station_mid"
+    },
+    {
+      "screen": 2,
+      "section": "Station Platforms",
+      "floor": "stage6_platform_floor",
+      "backdrop": "stage6_station_mid"
+    },
+    {
+      "screen": 3,
+      "section": "Station Platforms",
+      "floor": "stage6_platform_floor",
+      "backdrop": "stage6_station_mid"
+    },
+    {
+      "screen": 4,
+      "section": "Station Platforms",
+      "floor": "stage6_platform_floor",
+      "backdrop": "stage6_station_mid"
+    },
+    {
+      "screen": 5,
+      "section": "Train Roof Run",
+      "floor": "stage6_train_roof_floor",
+      "backdrop": "stage6_tunnel_mid"
+    },
+    {
+      "screen": 6,
+      "section": "Train Roof Run",
+      "floor": "stage6_train_roof_floor",
+      "backdrop": "stage6_tunnel_mid"
+    },
+    {
+      "screen": 7,
+      "section": "Train Roof Run",
+      "floor": "stage6_train_roof_floor",
+      "backdrop": "stage6_tunnel_mid"
+    },
+    {
+      "screen": 8,
+      "section": "Train Roof Run",
+      "floor": "stage6_train_roof_floor",
+      "backdrop": "stage6_tunnel_mid"
+    },
+    {
+      "screen": 9,
+      "section": "Inside the Cars",
+      "floor": "stage6_carriage_floor",
+      "backdrop": "stage6_carriage_mid"
+    },
+    {
+      "screen": 10,
+      "section": "Inside the Cars",
+      "floor": "stage6_carriage_floor",
+      "backdrop": "stage6_carriage_mid"
+    },
+    {
+      "screen": 11,
+      "section": "Inside the Cars",
+      "floor": "stage6_carriage_floor",
+      "backdrop": "stage6_carriage_mid"
+    },
+    {
+      "screen": 12,
+      "section": "Depot Junction",
+      "floor": "stage6_platform_floor",
+      "backdrop": "stage6_constrictor_backdrop"
+    }
+  ]
+}
