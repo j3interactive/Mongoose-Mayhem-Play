@@ -1,4 +1,10 @@
 {
+  "atlas": {
+    "url": "assets/bosses/brood-warden-ossa/ossa-atlas.png?v=157e5250dc7d",
+    "sha256": "157e5250dc7d8cbdea93bf35864647698ac43879243caa83b9f829299f10f7ee",
+    "width": 2028,
+    "height": 3632
+  },
   "standingHeight": 340,
   "gutter": 24,
   "frames": [
@@ -19,8 +25,14 @@
         "b": 443
       },
       "pixels": 73107,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 0
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 0,
+      "atlas": {
+        "x": 0,
+        "y": 0,
+        "width": 383,
+        "height": 367
+      }
     },
     {
       "key": "ossa-01",
@@ -39,8 +51,14 @@
         "b": 444
       },
       "pixels": 73436,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 1
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 1,
+      "atlas": {
+        "x": 507,
+        "y": 0,
+        "width": 376,
+        "height": 369
+      }
     },
     {
       "key": "ossa-02",
@@ -59,8 +77,14 @@
         "b": 447
       },
       "pixels": 76734,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 2
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 2,
+      "atlas": {
+        "x": 1014,
+        "y": 0,
+        "width": 364,
+        "height": 395
+      }
     },
     {
       "key": "ossa-03",
@@ -79,8 +103,14 @@
         "b": 445
       },
       "pixels": 72271,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 3
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 3,
+      "atlas": {
+        "x": 1521,
+        "y": 0,
+        "width": 374,
+        "height": 364
+      }
     },
     {
       "key": "ossa-04",
@@ -99,8 +129,14 @@
         "b": 807
       },
       "pixels": 61835,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 4
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 4,
+      "atlas": {
+        "x": 0,
+        "y": 454,
+        "width": 419,
+        "height": 312
+      }
     },
     {
       "key": "ossa-05",
@@ -119,8 +155,14 @@
         "b": 815
       },
       "pixels": 57944,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 5
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 5,
+      "atlas": {
+        "x": 507,
+        "y": 454,
+        "width": 412,
+        "height": 287
+      }
     },
     {
       "key": "ossa-06",
@@ -139,8 +181,14 @@
         "b": 817
       },
       "pixels": 60563,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 6
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 6,
+      "atlas": {
+        "x": 1014,
+        "y": 454,
+        "width": 414,
+        "height": 322
+      }
     },
     {
       "key": "ossa-07",
@@ -159,8 +207,14 @@
         "b": 812
       },
       "pixels": 63144,
-      "source": "ossa-sheet1-idle-slither-v1.png",
-      "local": 7
+      "source": "sheets/ossa-sheet1-idle-slither-v1.png",
+      "local": 7,
+      "atlas": {
+        "x": 1521,
+        "y": 454,
+        "width": 430,
+        "height": 317
+      }
     },
     {
       "key": "ossa-08",
@@ -179,8 +233,14 @@
         "b": 489
       },
       "pixels": 75334,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 0
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 0,
+      "atlas": {
+        "x": 0,
+        "y": 908,
+        "width": 391,
+        "height": 356
+      }
     },
     {
       "key": "ossa-09",
@@ -199,8 +259,14 @@
         "b": 490
       },
       "pixels": 86947,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 1
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 1,
+      "atlas": {
+        "x": 507,
+        "y": 908,
+        "width": 402,
+        "height": 405
+      }
     },
     {
       "key": "ossa-10",
@@ -219,8 +285,14 @@
         "b": 490
       },
       "pixels": 98224,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 2
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 2,
+      "atlas": {
+        "x": 1014,
+        "y": 908,
+        "width": 401,
+        "height": 454
+      }
     },
     {
       "key": "ossa-11",
@@ -239,8 +311,14 @@
         "b": 490
       },
       "pixels": 75786,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 3
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 3,
+      "atlas": {
+        "x": 1521,
+        "y": 908,
+        "width": 448,
+        "height": 333
+      }
     },
     {
       "key": "ossa-12",
@@ -259,8 +337,14 @@
         "b": 843
       },
       "pixels": 51739,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 4
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 4,
+      "atlas": {
+        "x": 0,
+        "y": 1362,
+        "width": 487,
+        "height": 211
+      }
     },
     {
       "key": "ossa-13",
@@ -279,8 +363,14 @@
         "b": 847
       },
       "pixels": 47083,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 5
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 5,
+      "atlas": {
+        "x": 507,
+        "y": 1362,
+        "width": 507,
+        "height": 208
+      }
     },
     {
       "key": "ossa-14",
@@ -299,8 +389,14 @@
         "b": 845
       },
       "pixels": 69447,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 6
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 6,
+      "atlas": {
+        "x": 1014,
+        "y": 1362,
+        "width": 438,
+        "height": 312
+      }
     },
     {
       "key": "ossa-15",
@@ -319,8 +415,14 @@
         "b": 847
       },
       "pixels": 78217,
-      "source": "ossa-sheet2-body-slam-v1.png",
-      "local": 7
+      "source": "sheets/ossa-sheet2-body-slam-v1.png",
+      "local": 7,
+      "atlas": {
+        "x": 1521,
+        "y": 1362,
+        "width": 384,
+        "height": 378
+      }
     },
     {
       "key": "ossa-16",
@@ -339,8 +441,14 @@
         "b": 434
       },
       "pixels": 60358,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 0
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 0,
+      "atlas": {
+        "x": 0,
+        "y": 1816,
+        "width": 350,
+        "height": 329
+      }
     },
     {
       "key": "ossa-17",
@@ -359,8 +467,14 @@
         "b": 432
       },
       "pixels": 68189,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 1
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 1,
+      "atlas": {
+        "x": 507,
+        "y": 1816,
+        "width": 373,
+        "height": 349
+      }
     },
     {
       "key": "ossa-18",
@@ -379,8 +493,14 @@
         "b": 431
       },
       "pixels": 74411,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 2
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 2,
+      "atlas": {
+        "x": 1014,
+        "y": 1816,
+        "width": 375,
+        "height": 377
+      }
     },
     {
       "key": "ossa-19",
@@ -399,8 +519,14 @@
         "b": 432
       },
       "pixels": 56311,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 3
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 3,
+      "atlas": {
+        "x": 1521,
+        "y": 1816,
+        "width": 337,
+        "height": 320
+      }
     },
     {
       "key": "ossa-20",
@@ -419,8 +545,14 @@
         "b": 835
       },
       "pixels": 64802,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 4
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 4,
+      "atlas": {
+        "x": 0,
+        "y": 2270,
+        "width": 367,
+        "height": 322
+      }
     },
     {
       "key": "ossa-21",
@@ -439,8 +571,14 @@
         "b": 835
       },
       "pixels": 63813,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 5
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 5,
+      "atlas": {
+        "x": 507,
+        "y": 2270,
+        "width": 342,
+        "height": 381
+      }
     },
     {
       "key": "ossa-22",
@@ -459,8 +597,14 @@
         "b": 835
       },
       "pixels": 59877,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 6
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 6,
+      "atlas": {
+        "x": 1014,
+        "y": 2270,
+        "width": 385,
+        "height": 301
+      }
     },
     {
       "key": "ossa-23",
@@ -479,8 +623,14 @@
         "b": 836
       },
       "pixels": 59549,
-      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
-      "local": 7
+      "source": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 7,
+      "atlas": {
+        "x": 1521,
+        "y": 2270,
+        "width": 347,
+        "height": 322
+      }
     },
     {
       "key": "ossa-24",
@@ -499,8 +649,14 @@
         "b": 467
       },
       "pixels": 77739,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 0
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 0,
+      "atlas": {
+        "x": 0,
+        "y": 2724,
+        "width": 386,
+        "height": 381
+      }
     },
     {
       "key": "ossa-25",
@@ -519,8 +675,14 @@
         "b": 467
       },
       "pixels": 68402,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 1
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 1,
+      "atlas": {
+        "x": 507,
+        "y": 2724,
+        "width": 366,
+        "height": 355
+      }
     },
     {
       "key": "ossa-26",
@@ -539,8 +701,14 @@
         "b": 469
       },
       "pixels": 73864,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 2
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 2,
+      "atlas": {
+        "x": 1014,
+        "y": 2724,
+        "width": 376,
+        "height": 363
+      }
     },
     {
       "key": "ossa-27",
@@ -559,8 +727,14 @@
         "b": 467
       },
       "pixels": 74460,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 3
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 3,
+      "atlas": {
+        "x": 1521,
+        "y": 2724,
+        "width": 380,
+        "height": 360
+      }
     },
     {
       "key": "ossa-28",
@@ -579,8 +753,14 @@
         "b": 831
       },
       "pixels": 68144,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 4
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 4,
+      "atlas": {
+        "x": 0,
+        "y": 3178,
+        "width": 424,
+        "height": 323
+      }
     },
     {
       "key": "ossa-29",
@@ -599,8 +779,14 @@
         "b": 830
       },
       "pixels": 59541,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 5
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 5,
+      "atlas": {
+        "x": 507,
+        "y": 3178,
+        "width": 454,
+        "height": 264
+      }
     },
     {
       "key": "ossa-30",
@@ -619,8 +805,14 @@
         "b": 836
       },
       "pixels": 49525,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 6
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 6,
+      "atlas": {
+        "x": 1014,
+        "y": 3178,
+        "width": 460,
+        "height": 216
+      }
     },
     {
       "key": "ossa-31",
@@ -639,8 +831,14 @@
         "b": 833
       },
       "pixels": 44538,
-      "source": "ossa-sheet4-hit-ko-v1.png",
-      "local": 7
+      "source": "sheets/ossa-sheet4-hit-ko-v1.png",
+      "local": 7,
+      "atlas": {
+        "x": 1521,
+        "y": 3178,
+        "width": 468,
+        "height": 180
+      }
     }
   ],
   "egg": {
@@ -704,12 +902,12 @@
         15
       ],
       "durations": [
-        220,
-        220,
-        300,
+        240,
+        240,
+        320,
         100,
         140,
-        800,
+        1200,
         300,
         300
       ]
@@ -791,25 +989,25 @@
   },
   "sources": [
     {
-      "file": "ossa-sheet1-idle-slither-v1.png",
+      "file": "sheets/ossa-sheet1-idle-slither-v1.png",
       "sha256": "f9dc50653212f118effa7fa85573adcb5afa1366d5bca11e163f1a201d5b3a81",
       "width": 1774,
       "height": 887
     },
     {
-      "file": "ossa-sheet2-body-slam-v1.png",
+      "file": "sheets/ossa-sheet2-body-slam-v1.png",
       "sha256": "74392ceef1d50f4ebcd5b3273b8aa179571bc20c90c153179498cff1de5b5659",
       "width": 1774,
       "height": 887
     },
     {
-      "file": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "file": "sheets/ossa-sheet3-brood-call-egg-toss-v1.png",
       "sha256": "0829b61848d2be5a5b2eae71bbdb29a325663fa8bc6908d6d5097f3b25a5fe5e",
       "width": 1774,
       "height": 887
     },
     {
-      "file": "ossa-sheet4-hit-ko-v1.png",
+      "file": "sheets/ossa-sheet4-hit-ko-v1.png",
       "sha256": "5ba02f48891a1cd5f7157f785ab1b4eec134a48d6d759f5da19dac8329dba106",
       "width": 1774,
       "height": 887

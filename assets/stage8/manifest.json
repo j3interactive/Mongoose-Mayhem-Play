@@ -1,0 +1,179 @@
+{
+  "stage": 7,
+  "title": "The Hatchery",
+  "boss": "ossa",
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "files": [
+    {
+      "key": "stage8_tunnels_mid",
+      "file": "stage8_tunnels_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "90923fd953e79b21167247e7eb2d94e964d3e42e660e4f513ae76eec34cfcd6a",
+      "url": "assets/stage8/stage8_tunnels_mid.png?v=90923fd953e7",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage8_incubation_mid",
+      "file": "stage8_incubation_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "7e3a09901b69381ed9d7109981af2550a724895201fc1425ada7e8f1f778d611",
+      "url": "assets/stage8/stage8_incubation_mid.png?v=7e3a09901b69",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage8_vault_mid",
+      "file": "stage8_vault_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "b9ad492f2bf0cdc24107951856f1428f1e1ccee3ca64cc0bcae3805a0ac58628",
+      "url": "assets/stage8/stage8_vault_mid.png?v=b9ad492f2bf0",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage8_nest_backdrop",
+      "file": "stage8_nest_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "3cd02235ef48ec13ecb919f7139635f1b0baafb20f251a1b18a6008edcb6d5fe",
+      "url": "assets/stage8/stage8_nest_backdrop.png?v=3cd02235ef48",
+      "baseline": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage8_nest_uncovered",
+      "file": "stage8_nest_uncovered.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "817ba1df730b00bd1dbdf4a795a6fd1c5562121997b19cac20a6533dbb78bc37",
+      "url": "assets/stage8/stage8_nest_uncovered.png?v=817ba1df730b",
+      "baseline": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage8_brick_floor",
+      "file": "stage8_brick_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "ca505aaa5551c34224eabbb9a44c3df178dbccde491a7b768d98dea6801e758a",
+      "url": "assets/stage8/stage8_brick_floor.png?v=ca505aaa5551",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage8_hatchery_floor",
+      "file": "stage8_hatchery_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a0b4d1eb9669e365bb5b96218288ab589ef511b337e601c7993a884a16534aed",
+      "url": "assets/stage8/stage8_hatchery_floor.png?v=a0b4d1eb9669",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage8_stone_floor",
+      "file": "stage8_stone_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a053990bad6c81885cd713eff737c5af76449c3a59977ab3c1452d47972643dd",
+      "url": "assets/stage8/stage8_stone_floor.png?v=a053990bad6c",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage8_foreground",
+      "file": "stage8_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "5d628300460932a73933ff7b475a45cf4230f597d461b31c9430a46da50ecc88",
+      "url": "assets/stage8/stage8_foreground.png?v=5d6283004609",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "Service Tunnels",
+      "floor": "stage8_brick_floor",
+      "backdrop": "stage8_tunnels_mid"
+    },
+    {
+      "screen": 2,
+      "section": "Service Tunnels",
+      "floor": "stage8_brick_floor",
+      "backdrop": "stage8_tunnels_mid"
+    },
+    {
+      "screen": 3,
+      "section": "Service Tunnels",
+      "floor": "stage8_brick_floor",
+      "backdrop": "stage8_tunnels_mid"
+    },
+    {
+      "screen": 4,
+      "section": "Service Tunnels",
+      "floor": "stage8_brick_floor",
+      "backdrop": "stage8_tunnels_mid"
+    },
+    {
+      "screen": 5,
+      "section": "Incubation Halls",
+      "floor": "stage8_hatchery_floor",
+      "backdrop": "stage8_incubation_mid"
+    },
+    {
+      "screen": 6,
+      "section": "Incubation Halls",
+      "floor": "stage8_hatchery_floor",
+      "backdrop": "stage8_incubation_mid"
+    },
+    {
+      "screen": 7,
+      "section": "Incubation Halls",
+      "floor": "stage8_hatchery_floor",
+      "backdrop": "stage8_incubation_mid"
+    },
+    {
+      "screen": 8,
+      "section": "Incubation Halls",
+      "floor": "stage8_hatchery_floor",
+      "backdrop": "stage8_incubation_mid"
+    },
+    {
+      "screen": 9,
+      "section": "Brood Vault",
+      "floor": "stage8_stone_floor",
+      "backdrop": "stage8_vault_mid"
+    },
+    {
+      "screen": 10,
+      "section": "Brood Vault",
+      "floor": "stage8_stone_floor",
+      "backdrop": "stage8_vault_mid"
+    },
+    {
+      "screen": 11,
+      "section": "Brood Vault",
+      "floor": "stage8_stone_floor",
+      "backdrop": "stage8_vault_mid"
+    },
+    {
+      "screen": 12,
+      "section": "Warden’s Nest",
+      "floor": "stage8_stone_floor",
+      "backdrop": "stage8_nest_backdrop"
+    }
+  ]
+}
