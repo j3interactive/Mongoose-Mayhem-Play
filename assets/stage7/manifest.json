@@ -1,0 +1,188 @@
+{
+  "stage": 7,
+  "title": "The Reservoir",
+  "boss": "ray",
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "files": [
+    {
+      "key": "stage7_sky",
+      "file": "stage7_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "44a7da83e9cc33fcabfb6e0d9ce83a2c37ba1086b0cc943ecbb6cfcb4850d8f8",
+      "url": "assets/stage7/stage7_sky.png?v=44a7da83e9cc",
+      "scrollFactor": 0
+    },
+    {
+      "key": "stage7_skyline",
+      "file": "stage7_skyline.png",
+      "width": 2560,
+      "height": 720,
+      "sha256": "5603d2aefe1771bb9cc196c34f7c2f57e9635a77a62fe475555dad3543e36cee",
+      "url": "assets/stage7/stage7_skyline.png?v=5603d2aefe17",
+      "baseline": 400,
+      "scrollFactor": 0.15
+    },
+    {
+      "key": "stage7_gates_mid",
+      "file": "stage7_gates_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "3226b511bddeba87446eb0a2bc6e22884e0c31091566fd2c3468029215150813",
+      "url": "assets/stage7/stage7_gates_mid.png?v=3226b511bdde",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage7_pumphouse_mid",
+      "file": "stage7_pumphouse_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "21f955f33599fa16c55e74124943490fa4b412549f6a10b90ae6c013603e80dc",
+      "url": "assets/stage7/stage7_pumphouse_mid.png?v=21f955f33599",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage7_dam_mid",
+      "file": "stage7_dam_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "07318ec54ba2cd3c8bb1e8d2f29ad36b184e6fd633125510692b8fbda6cc6bb8",
+      "url": "assets/stage7/stage7_dam_mid.png?v=07318ec54ba2",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage7_floodgate_backdrop",
+      "file": "stage7_floodgate_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "92a6df4d0e98eb854232dd96051cdb5e1b0d1fd1e6fd4ecd25432a1f84bf8caa",
+      "url": "assets/stage7/stage7_floodgate_backdrop.png?v=92a6df4d0e98",
+      "baseline": 400,
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage7_road_floor",
+      "file": "stage7_road_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "0e5475f100972dff50193b535346afad806ab03c4d7395a5eb91cea184f10c1a",
+      "url": "assets/stage7/stage7_road_floor.png?v=0e5475f10097",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage7_pumphouse_floor",
+      "file": "stage7_pumphouse_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "855b9437a8ade9819cbadeb32ce92878d0e31e635f929ea014dd7afc19b106de",
+      "url": "assets/stage7/stage7_pumphouse_floor.png?v=855b9437a8ad",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage7_dam_floor",
+      "file": "stage7_dam_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "e6ad7e0fe9932d4ac8ca9071589c3ab9ba1c815d61605cff604b576708121e37",
+      "url": "assets/stage7/stage7_dam_floor.png?v=e6ad7e0fe993",
+      "floorY": 400,
+      "scrollFactor": 1,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage7_foreground",
+      "file": "stage7_foreground.png",
+      "width": 1024,
+      "height": 256,
+      "sha256": "9af58fd81a97ec0c194c59aaa133d67dbb47a868d106fd506b9846d97e370e8f",
+      "url": "assets/stage7/stage7_foreground.png?v=9af58fd81a97",
+      "scrollFactor": 1.12,
+      "lowestRow": 79
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": "Reservoir Gates",
+      "floor": "stage7_road_floor",
+      "backdrop": "stage7_gates_mid"
+    },
+    {
+      "screen": 2,
+      "section": "Reservoir Gates",
+      "floor": "stage7_road_floor",
+      "backdrop": "stage7_gates_mid"
+    },
+    {
+      "screen": 3,
+      "section": "Reservoir Gates",
+      "floor": "stage7_road_floor",
+      "backdrop": "stage7_gates_mid"
+    },
+    {
+      "screen": 4,
+      "section": "Reservoir Gates",
+      "floor": "stage7_road_floor",
+      "backdrop": "stage7_gates_mid"
+    },
+    {
+      "screen": 5,
+      "section": "Pump House",
+      "floor": "stage7_pumphouse_floor",
+      "backdrop": "stage7_pumphouse_mid"
+    },
+    {
+      "screen": 6,
+      "section": "Pump House",
+      "floor": "stage7_pumphouse_floor",
+      "backdrop": "stage7_pumphouse_mid"
+    },
+    {
+      "screen": 7,
+      "section": "Pump House",
+      "floor": "stage7_pumphouse_floor",
+      "backdrop": "stage7_pumphouse_mid"
+    },
+    {
+      "screen": 8,
+      "section": "Pump House",
+      "floor": "stage7_pumphouse_floor",
+      "backdrop": "stage7_pumphouse_mid"
+    },
+    {
+      "screen": 9,
+      "section": "Dam Crest",
+      "floor": "stage7_dam_floor",
+      "backdrop": "stage7_dam_mid"
+    },
+    {
+      "screen": 10,
+      "section": "Dam Crest",
+      "floor": "stage7_dam_floor",
+      "backdrop": "stage7_dam_mid"
+    },
+    {
+      "screen": 11,
+      "section": "Dam Crest",
+      "floor": "stage7_dam_floor",
+      "backdrop": "stage7_dam_mid"
+    },
+    {
+      "screen": 12,
+      "section": "Floodgate",
+      "floor": "stage7_dam_floor",
+      "backdrop": "stage7_floodgate_backdrop"
+    }
+  ]
+}

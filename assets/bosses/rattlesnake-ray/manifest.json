@@ -1,0 +1,975 @@
+{
+  "standingHeight": 300,
+  "gutter": 24,
+  "frames": [
+    {
+      "key": "ray-00",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-00.png?v=516872a13ad8",
+      "sha256": "516872a13ad8f1a5881d97f4c62a6e1a9d0db4c5d168e0f0f33f6a0b91462743",
+      "width": 485,
+      "height": 494,
+      "scale": 0.9375,
+      "originX": 0.5649484536082474,
+      "originY": 0.8805668016194332,
+      "bounds": {
+        "l": 69,
+        "t": 113,
+        "r": 352,
+        "b": 428
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 19,
+        "r": 436,
+        "b": 464
+      },
+      "pixels": 59724,
+      "source": "sheet-01-idle-walk.png",
+      "local": 0
+    },
+    {
+      "key": "ray-01",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-01.png?v=69ea15884cd3",
+      "sha256": "69ea15884cd3ae1467039c057e39e4d8befb6f0ea73078160473aa5135f4c577",
+      "width": 490,
+      "height": 508,
+      "scale": 0.9375,
+      "originX": 0.5857142857142857,
+      "originY": 0.8562992125984252,
+      "bounds": {
+        "l": 520,
+        "t": 112,
+        "r": 805,
+        "b": 429
+      },
+      "sourceBounds": {
+        "l": 437,
+        "t": 19,
+        "r": 878,
+        "b": 478
+      },
+      "pixels": 59094,
+      "source": "sheet-01-idle-walk.png",
+      "local": 1
+    },
+    {
+      "key": "ray-02",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-02.png?v=deb77de8f1c7",
+      "sha256": "deb77de8f1c75fbba25ad9eab3cf99ec3218399015f4d54e9028a7ad417a40db",
+      "width": 483,
+      "height": 502,
+      "scale": 0.9375,
+      "originX": 0.5900621118012422,
+      "originY": 0.8625498007968128,
+      "bounds": {
+        "l": 951,
+        "t": 111,
+        "r": 1239,
+        "b": 429
+      },
+      "sourceBounds": {
+        "l": 879,
+        "t": 21,
+        "r": 1313,
+        "b": 474
+      },
+      "pixels": 59058,
+      "source": "sheet-01-idle-walk.png",
+      "local": 2
+    },
+    {
+      "key": "ray-03",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-03.png?v=2cb50ebdde67",
+      "sha256": "2cb50ebdde6749eadba616a2ca5efd56d848a974e0eae893c367c4741e93d3c5",
+      "width": 479,
+      "height": 502,
+      "scale": 0.9375,
+      "originX": 0.6179540709812108,
+      "originY": 0.8585657370517928,
+      "bounds": {
+        "l": 1386,
+        "t": 113,
+        "r": 1680,
+        "b": 429
+      },
+      "sourceBounds": {
+        "l": 1313,
+        "t": 23,
+        "r": 1743,
+        "b": 476
+      },
+      "pixels": 59522,
+      "source": "sheet-01-idle-walk.png",
+      "local": 3
+    },
+    {
+      "key": "ray-04",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-04.png?v=00247479985f",
+      "sha256": "00247479985f426e1b3cbcd9115cdd578aeef5bbe4a88724d782db031b9661e8",
+      "width": 453,
+      "height": 434,
+      "scale": 0.9375,
+      "originX": 0.5253863134657837,
+      "originY": 0.836405529953917,
+      "bounds": {
+        "l": 57,
+        "t": 522,
+        "r": 376,
+        "b": 813
+      },
+      "sourceBounds": {
+        "l": 41,
+        "t": 476,
+        "r": 445,
+        "b": 861
+      },
+      "pixels": 54330,
+      "source": "sheet-01-idle-walk.png",
+      "local": 4
+    },
+    {
+      "key": "ray-05",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-05.png?v=80368ddf3afd",
+      "sha256": "80368ddf3afd4c56103a838aaa53af6810d5aaf62ba6f8939db4aa228b873971",
+      "width": 473,
+      "height": 431,
+      "scale": 0.9375,
+      "originX": 0.6152219873150105,
+      "originY": 0.8352668213457076,
+      "bounds": {
+        "l": 524,
+        "t": 527,
+        "r": 835,
+        "b": 812
+      },
+      "sourceBounds": {
+        "l": 453,
+        "t": 479,
+        "r": 877,
+        "b": 861
+      },
+      "pixels": 51983,
+      "source": "sheet-01-idle-walk.png",
+      "local": 5
+    },
+    {
+      "key": "ray-06",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-06.png?v=3309f273864c",
+      "sha256": "3309f273864cbadccdba79b9a47cdee938218c847a403b6d57e953df5c8a0df2",
+      "width": 495,
+      "height": 380,
+      "scale": 0.9375,
+      "originX": 0.5636363636363636,
+      "originY": 0.8973684210526316,
+      "bounds": {
+        "l": 931,
+        "t": 525,
+        "r": 1257,
+        "b": 814
+      },
+      "sourceBounds": {
+        "l": 885,
+        "t": 498,
+        "r": 1331,
+        "b": 829
+      },
+      "pixels": 53236,
+      "source": "sheet-01-idle-walk.png",
+      "local": 6
+    },
+    {
+      "key": "ray-07",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-07.png?v=24065237d15e",
+      "sha256": "24065237d15eff278e7e7e7e96abd3ac26c999ec9ccba4fbf41e4e29250179db",
+      "width": 475,
+      "height": 421,
+      "scale": 0.9375,
+      "originX": 0.608421052631579,
+      "originY": 0.8598574821852731,
+      "bounds": {
+        "l": 1410,
+        "t": 524,
+        "r": 1724,
+        "b": 813
+      },
+      "sourceBounds": {
+        "l": 1335,
+        "t": 477,
+        "r": 1761,
+        "b": 849
+      },
+      "pixels": 52684,
+      "source": "sheet-01-idle-walk.png",
+      "local": 7
+    },
+    {
+      "key": "ray-08",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-08.png?v=8e098753a99f",
+      "sha256": "8e098753a99fbb5caab27a7be79cf39d4dc4d041396c8bd50ebfc3d4af0f5f30",
+      "width": 485,
+      "height": 540,
+      "scale": 1.0714285714285714,
+      "originX": 0.6041237113402061,
+      "originY": 0.8351851851851851,
+      "bounds": {
+        "l": 73,
+        "t": 165,
+        "r": 407,
+        "b": 447
+      },
+      "sourceBounds": {
+        "l": 31,
+        "t": 18,
+        "r": 467,
+        "b": 509
+      },
+      "pixels": 57111,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 0
+    },
+    {
+      "key": "ray-09",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-09.png?v=105d987a4632",
+      "sha256": "105d987a46320dbf0b510487985897d65f4c4ff9da7604dec4582014e9bc1520",
+      "width": 534,
+      "height": 559,
+      "scale": 1.0714285714285714,
+      "originX": 0.602996254681648,
+      "originY": 0.8050089445438283,
+      "bounds": {
+        "l": 541,
+        "t": 135,
+        "r": 852,
+        "b": 448
+      },
+      "sourceBounds": {
+        "l": 447,
+        "t": 19,
+        "r": 932,
+        "b": 529
+      },
+      "pixels": 59927,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 1
+    },
+    {
+      "key": "ray-10",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-10.png?v=c3fb62981a84",
+      "sha256": "c3fb62981a848904a1f30c2439ef9adc34dc392f5a720d961b47edb970dd074d",
+      "width": 489,
+      "height": 535,
+      "scale": 1.0714285714285714,
+      "originX": 0.5766871165644172,
+      "originY": 0.8373831775700935,
+      "bounds": {
+        "l": 1014,
+        "t": 72,
+        "r": 1299,
+        "b": 448
+      },
+      "sourceBounds": {
+        "l": 932,
+        "t": 21,
+        "r": 1372,
+        "b": 507
+      },
+      "pixels": 62420,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 2
+    },
+    {
+      "key": "ray-11",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-11.png?v=766f4153f7ba",
+      "sha256": "766f4153f7ba90b2dc69a83348ef7865d106bf4261673b2268c12207706ab033",
+      "width": 424,
+      "height": 523,
+      "scale": 1.0714285714285714,
+      "originX": 0.6367924528301887,
+      "originY": 0.8527724665391969,
+      "bounds": {
+        "l": 1465,
+        "t": 111,
+        "r": 1737,
+        "b": 448
+      },
+      "sourceBounds": {
+        "l": 1384,
+        "t": 23,
+        "r": 1759,
+        "b": 497
+      },
+      "pixels": 60826,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 3
+    },
+    {
+      "key": "ray-12",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-12.png?v=102dbde0fa6b",
+      "sha256": "102dbde0fa6b10a6a98716ef8a4e0606c3df92e3d95ab6c69be8dceacaa6617d",
+      "width": 429,
+      "height": 378,
+      "scale": 1.0714285714285714,
+      "originX": 0.6037296037296037,
+      "originY": 0.91005291005291,
+      "bounds": {
+        "l": 71,
+        "t": 571,
+        "r": 414,
+        "b": 832
+      },
+      "sourceBounds": {
+        "l": 65,
+        "t": 510,
+        "r": 445,
+        "b": 839
+      },
+      "pixels": 58921,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 4
+    },
+    {
+      "key": "ray-13",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-13.png?v=cf6faa1e2e9a",
+      "sha256": "cf6faa1e2e9ae80131d410582476117c276e08e8eeffeb9023668355172d5cd7",
+      "width": 508,
+      "height": 358,
+      "scale": 1.0714285714285714,
+      "originX": 0.6318897637795275,
+      "originY": 0.9050279329608939,
+      "bounds": {
+        "l": 481,
+        "t": 610,
+        "r": 881,
+        "b": 834
+      },
+      "sourceBounds": {
+        "l": 463,
+        "t": 530,
+        "r": 922,
+        "b": 839
+      },
+      "pixels": 47333,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 5
+    },
+    {
+      "key": "ray-14",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-14.png?v=a3779524bb51",
+      "sha256": "a3779524bb51915650c7b33a75c6a0aaf4116a27c329b0b7d2819e599b11a664",
+      "width": 499,
+      "height": 380,
+      "scale": 1.0714285714285714,
+      "originX": 0.6112224448897795,
+      "originY": 0.8710526315789474,
+      "bounds": {
+        "l": 965,
+        "t": 572,
+        "r": 1306,
+        "b": 835
+      },
+      "sourceBounds": {
+        "l": 914,
+        "t": 523,
+        "r": 1364,
+        "b": 854
+      },
+      "pixels": 50176,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 6
+    },
+    {
+      "key": "ray-15",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-15.png?v=d0671dfac0dd",
+      "sha256": "d0671dfac0dda3e300e24c85baa34d84c6285d6ed98aa10f0deff90713add8de",
+      "width": 422,
+      "height": 367,
+      "scale": 1.0714285714285714,
+      "originX": 0.6492890995260664,
+      "originY": 0.8664850136239782,
+      "bounds": {
+        "l": 1455,
+        "t": 556,
+        "r": 1738,
+        "b": 835
+      },
+      "sourceBounds": {
+        "l": 1390,
+        "t": 536,
+        "r": 1763,
+        "b": 854
+      },
+      "pixels": 52504,
+      "source": "sheet-02-rattle-quake.png",
+      "local": 7
+    },
+    {
+      "key": "ray-16",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-16.png?v=6b120b04faf2",
+      "sha256": "6b120b04faf2c2f283f4904dec253bea390382bce642ce5a769a8afd131c05e1",
+      "width": 390,
+      "height": 346,
+      "scale": 1.25,
+      "originX": 0.517948717948718,
+      "originY": 0.8554913294797688,
+      "bounds": {
+        "l": 81,
+        "t": 162,
+        "r": 359,
+        "b": 352
+      },
+      "sourceBounds": {
+        "l": 57,
+        "t": 76,
+        "r": 398,
+        "b": 373
+      },
+      "pixels": 39341,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 0
+    },
+    {
+      "key": "ray-17",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-17.png?v=d1420ed6b88d",
+      "sha256": "d1420ed6b88d997568d0062acb198827092c36b3d9b9aae022beb3e6c20f9e0b",
+      "width": 633,
+      "height": 421,
+      "scale": 1.25,
+      "originX": 0.6445497630331753,
+      "originY": 0.7505938242280285,
+      "bounds": {
+        "l": 462,
+        "t": 133,
+        "r": 908,
+        "b": 342
+      },
+      "sourceBounds": {
+        "l": 391,
+        "t": 56,
+        "r": 975,
+        "b": 428
+      },
+      "pixels": 46954,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 1
+    },
+    {
+      "key": "ray-18",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-18.png?v=d0b2e3755aa7",
+      "sha256": "d0b2e3755aa70dd0489fe0706f7d887a9c0978e8efc4ed363bfbfbce92dc33e0",
+      "width": 547,
+      "height": 452,
+      "scale": 1.25,
+      "originX": 0.5429616087751371,
+      "originY": 0.7809734513274337,
+      "bounds": {
+        "l": 1045,
+        "t": 133,
+        "r": 1398,
+        "b": 347
+      },
+      "sourceBounds": {
+        "l": 977,
+        "t": 19,
+        "r": 1475,
+        "b": 422
+      },
+      "pixels": 42691,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 2
+    },
+    {
+      "key": "ray-19",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-19.png?v=60cc1324fed2",
+      "sha256": "60cc1324fed25a567b17b506ece65e5c52dfa536c6186cdf677e908865a14706",
+      "width": 493,
+      "height": 409,
+      "scale": 1.25,
+      "originX": 0.5720081135902637,
+      "originY": 0.843520782396088,
+      "bounds": {
+        "l": 1575,
+        "t": 112,
+        "r": 1878,
+        "b": 349
+      },
+      "sourceBounds": {
+        "l": 1477,
+        "t": 27,
+        "r": 1921,
+        "b": 387
+      },
+      "pixels": 46783,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 3
+    },
+    {
+      "key": "ray-20",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-20.png?v=08557604899c",
+      "sha256": "08557604899ca0c05beba518f9507724391f1b1ed336509af037e82eb864d216",
+      "width": 403,
+      "height": 411,
+      "scale": 1.25,
+      "originX": 0.533498759305211,
+      "originY": 0.7688564476885644,
+      "bounds": {
+        "l": 60,
+        "t": 476,
+        "r": 353,
+        "b": 721
+      },
+      "sourceBounds": {
+        "l": 39,
+        "t": 428,
+        "r": 393,
+        "b": 790
+      },
+      "pixels": 46655,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 4
+    },
+    {
+      "key": "ray-21",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-21.png?v=3b5c6ca73613",
+      "sha256": "3b5c6ca7361311a7b0bf7088cb8ba1e01a7d27c7a1913a26dbe8ff16e39fb3e8",
+      "width": 534,
+      "height": 407,
+      "scale": 1.25,
+      "originX": 0.3913857677902622,
+      "originY": 0.7813267813267813,
+      "bounds": {
+        "l": 498,
+        "t": 497,
+        "r": 869,
+        "b": 722
+      },
+      "sourceBounds": {
+        "l": 435,
+        "t": 426,
+        "r": 920,
+        "b": 784
+      },
+      "pixels": 48582,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 5
+    },
+    {
+      "key": "ray-22",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-22.png?v=06d7e3d4c96c",
+      "sha256": "06d7e3d4c96c7ccad1508955f3272890f47b5ca1b3adef797493d7143dc44a5a",
+      "width": 693,
+      "height": 412,
+      "scale": 1.25,
+      "originX": 0.3217893217893218,
+      "originY": 0.7839805825242718,
+      "bounds": {
+        "l": 966,
+        "t": 501,
+        "r": 1522,
+        "b": 724
+      },
+      "sourceBounds": {
+        "l": 921,
+        "t": 421,
+        "r": 1565,
+        "b": 784
+      },
+      "pixels": 59981,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 6
+    },
+    {
+      "key": "ray-23",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-23.png?v=c89b456a698f",
+      "sha256": "c89b456a698fa86c36a2fa4ecc0d984060ae9e1c61b826d444f8c11dd1c61cd2",
+      "width": 401,
+      "height": 387,
+      "scale": 1.25,
+      "originX": 0.42144638403990026,
+      "originY": 0.7751937984496124,
+      "bounds": {
+        "l": 1609,
+        "t": 497,
+        "r": 1882,
+        "b": 725
+      },
+      "sourceBounds": {
+        "l": 1565,
+        "t": 444,
+        "r": 1917,
+        "b": 782
+      },
+      "pixels": 41440,
+      "source": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "local": 7
+    },
+    {
+      "key": "ray-24",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-24.png?v=3268e2d00841",
+      "sha256": "3268e2d0084118a506bdc8f51219845d8868d23276cf629f530449a40e9f4b2c",
+      "width": 538,
+      "height": 539,
+      "scale": 0.967741935483871,
+      "originX": 0.6078066914498141,
+      "originY": 0.7532467532467533,
+      "bounds": {
+        "l": 26,
+        "t": 60,
+        "r": 474,
+        "b": 409
+      },
+      "sourceBounds": {
+        "l": 17,
+        "t": 23,
+        "r": 506,
+        "b": 513
+      },
+      "pixels": 72060,
+      "source": "sheet-04-reactions.png",
+      "local": 0
+    },
+    {
+      "key": "ray-25",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-25.png?v=c2d56af39bdb",
+      "sha256": "c2d56af39bdb5f0dd6eb7a985ef80233d36061de9df909a4e994cef5b740355a",
+      "width": 548,
+      "height": 541,
+      "scale": 0.967741935483871,
+      "originX": 0.5967153284671532,
+      "originY": 0.7578558225508318,
+      "bounds": {
+        "l": 533,
+        "t": 87,
+        "r": 938,
+        "b": 407
+      },
+      "sourceBounds": {
+        "l": 507,
+        "t": 19,
+        "r": 1006,
+        "b": 511
+      },
+      "pixels": 68864,
+      "source": "sheet-04-reactions.png",
+      "local": 1
+    },
+    {
+      "key": "ray-26",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-26.png?v=3ff9798344b1",
+      "sha256": "3ff9798344b1c8d184809f1ab2dab54a37456f2070a7f284d3cd6e95ebe2c407",
+      "width": 606,
+      "height": 532,
+      "scale": 0.967741935483871,
+      "originX": 0.5726072607260726,
+      "originY": 0.7631578947368421,
+      "bounds": {
+        "l": 994,
+        "t": 140,
+        "r": 1416,
+        "b": 408
+      },
+      "sourceBounds": {
+        "l": 967,
+        "t": 23,
+        "r": 1524,
+        "b": 506
+      },
+      "pixels": 61716,
+      "source": "sheet-04-reactions.png",
+      "local": 2
+    },
+    {
+      "key": "ray-27",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-27.png?v=661e9df111c9",
+      "sha256": "661e9df111c9c7c0a25043711e68d7967cf49f120c82f996a9f12f171235d073",
+      "width": 494,
+      "height": 436,
+      "scale": 0.967741935483871,
+      "originX": 0.6275303643724697,
+      "originY": 0.8944954128440367,
+      "bounds": {
+        "l": 1473,
+        "t": 220,
+        "r": 1899,
+        "b": 408
+      },
+      "sourceBounds": {
+        "l": 1464,
+        "t": 39,
+        "r": 1909,
+        "b": 426
+      },
+      "pixels": 51137,
+      "source": "sheet-04-reactions.png",
+      "local": 3
+    },
+    {
+      "key": "ray-28",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-28.png?v=ad92cc28900f",
+      "sha256": "ad92cc28900fea1acf53dade076a5d818d6e10d8ceb573a7d5849c80cd074412",
+      "width": 523,
+      "height": 289,
+      "scale": 0.967741935483871,
+      "originX": 0.5831739961759083,
+      "originY": 0.9273356401384083,
+      "bounds": {
+        "l": 49,
+        "t": 617,
+        "r": 501,
+        "b": 743
+      },
+      "sourceBounds": {
+        "l": 39,
+        "t": 511,
+        "r": 513,
+        "b": 751
+      },
+      "pixels": 37239,
+      "source": "sheet-04-reactions.png",
+      "local": 4
+    },
+    {
+      "key": "ray-29",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-29.png?v=b64f129ebd40",
+      "sha256": "b64f129ebd408d69341f63fe1e72395ce17a8503ed0eb610579336f0b2478ebd",
+      "width": 529,
+      "height": 309,
+      "scale": 0.967741935483871,
+      "originX": 0.5444234404536862,
+      "originY": 0.8640776699029126,
+      "bounds": {
+        "l": 551,
+        "t": 616,
+        "r": 998,
+        "b": 743
+      },
+      "sourceBounds": {
+        "l": 546,
+        "t": 512,
+        "r": 1026,
+        "b": 772
+      },
+      "pixels": 36422,
+      "source": "sheet-04-reactions.png",
+      "local": 5
+    },
+    {
+      "key": "ray-30",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-30.png?v=db4dbf21d7cf",
+      "sha256": "db4dbf21d7cfede1c0884a05bd9c9e9c3a1c8defb3352b004ea3f29fa652eda0",
+      "width": 557,
+      "height": 316,
+      "scale": 0.967741935483871,
+      "originX": 0.5745062836624776,
+      "originY": 0.9050632911392406,
+      "bounds": {
+        "l": 1064,
+        "t": 577,
+        "r": 1468,
+        "b": 752
+      },
+      "sourceBounds": {
+        "l": 994,
+        "t": 493,
+        "r": 1502,
+        "b": 760
+      },
+      "pixels": 46366,
+      "source": "sheet-04-reactions.png",
+      "local": 6
+    },
+    {
+      "key": "ray-31",
+      "url": "assets/bosses/rattlesnake-ray/frames/ray-31.png?v=e5007fb47cf8",
+      "sha256": "e5007fb47cf8499beaa3dfb2204111c2748fa71e83c9fcc7d281da208f6bdcae",
+      "width": 499,
+      "height": 387,
+      "scale": 0.967741935483871,
+      "originX": 0.6112224448897795,
+      "originY": 0.8811369509043928,
+      "bounds": {
+        "l": 1539,
+        "t": 453,
+        "r": 1888,
+        "b": 769
+      },
+      "sourceBounds": {
+        "l": 1469,
+        "t": 438,
+        "r": 1919,
+        "b": 776
+      },
+      "pixels": 59820,
+      "source": "sheet-04-reactions.png",
+      "local": 7
+    }
+  ],
+  "animations": {
+    "idle": {
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "durations": [
+        300,
+        300,
+        300,
+        300
+      ],
+      "loop": true
+    },
+    "walk": {
+      "frames": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "durations": [
+        180,
+        180,
+        180,
+        180
+      ],
+      "loop": true
+    },
+    "quake": {
+      "frames": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "durations": [
+        180,
+        180,
+        180,
+        180,
+        100,
+        140,
+        220,
+        260
+      ]
+    },
+    "dash": {
+      "frames": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "durations": [
+        400,
+        160,
+        160,
+        380
+      ]
+    },
+    "lasso": {
+      "frames": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "durations": [
+        500,
+        160,
+        140,
+        550
+      ]
+    },
+    "hit": {
+      "frames": [
+        24,
+        25,
+        0
+      ],
+      "durations": [
+        120,
+        150,
+        230
+      ]
+    },
+    "fall": {
+      "frames": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "durations": [
+        160,
+        180,
+        220,
+        300
+      ],
+      "hold": true
+    },
+    "recover": {
+      "frames": [
+        28,
+        30,
+        31
+      ],
+      "durations": [
+        300,
+        300,
+        300
+      ]
+    },
+    "knockdown": {
+      "frames": [
+        26,
+        27,
+        28,
+        30,
+        31
+      ],
+      "durations": [
+        160,
+        180,
+        420,
+        300,
+        300
+      ]
+    }
+  },
+  "sources": [
+    {
+      "file": "sheet-01-idle-walk.png",
+      "sha256": "deb5f0790c998be15ce100802e721487bb8936eec9ce135fe15682661b174e93",
+      "width": 1776,
+      "height": 886
+    },
+    {
+      "file": "sheet-02-rattle-quake.png",
+      "sha256": "5faa2c798b4599afc0b6e48c24d5b2f6c772f2e12fceb36371ed4c9fe27ce773",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "sheet-03-sidewinder-dash-tail-lasso.png",
+      "sha256": "aaee966bb37d5434c772df93463b57b93c854e9bf19bbf27f6c426666392b1d2",
+      "width": 1944,
+      "height": 809
+    },
+    {
+      "file": "sheet-04-reactions.png",
+      "sha256": "1b50a31ea5ce9bf0196a51d3a84fada0792fc0c1c517679a968b791a40529697",
+      "width": 1942,
+      "height": 809
+    }
+  ],
+  "atlas": {
+    "url": "assets/bosses/rattlesnake-ray/ray-atlas.png?v=78e332d4b0bf",
+    "sha256": "78e332d4b0bf6aa5026ff07b651956ae05f7254ef0264f551b8db9bf7531d2b8",
+    "cellWidth": 693,
+    "cellHeight": 559
+  }
+}

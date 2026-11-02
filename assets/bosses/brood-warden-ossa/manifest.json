@@ -1,0 +1,818 @@
+{
+  "standingHeight": 340,
+  "gutter": 24,
+  "frames": [
+    {
+      "key": "ossa-00",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-00.png?v=9c16f7e2db87",
+      "sha256": "9c16f7e2db87cd28cc6df0a96b6c7cc9e8fc557c13784bfba438fcfa67231af9",
+      "width": 383,
+      "height": 367,
+      "scale": 1.0658307210031348,
+      "originX": 0.6031331592689295,
+      "originY": 0.9346049046321526,
+      "bodyHeight": 340,
+      "bounds": {
+        "l": 53,
+        "t": 125,
+        "r": 387,
+        "b": 443
+      },
+      "pixels": 73107,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 0
+    },
+    {
+      "key": "ossa-01",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-01.png?v=b3897101c9af",
+      "sha256": "b3897101c9af6722260d597cd1ef662676be795e6c5b3bbd49405a1f023e9ac0",
+      "width": 376,
+      "height": 369,
+      "scale": 1.0658307210031348,
+      "originX": 0.598404255319149,
+      "originY": 0.9349593495934959,
+      "bodyHeight": 342.13166144200625,
+      "bounds": {
+        "l": 499,
+        "t": 124,
+        "r": 826,
+        "b": 444
+      },
+      "pixels": 73436,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 1
+    },
+    {
+      "key": "ossa-02",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-02.png?v=d4b78e164099",
+      "sha256": "d4b78e1640997045e152340ab12262e74c377b5073e35d382432844e4d45ab80",
+      "width": 364,
+      "height": 395,
+      "scale": 1.0658307210031348,
+      "originX": 0.6098901098901099,
+      "originY": 0.9392405063291139,
+      "bodyHeight": 369.84326018808775,
+      "bounds": {
+        "l": 942,
+        "t": 101,
+        "r": 1257,
+        "b": 447
+      },
+      "pixels": 76734,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 2
+    },
+    {
+      "key": "ossa-03",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-03.png?v=69e9e2a14e12",
+      "sha256": "69e9e2a14e1209a19cccbbc9f88e4a728266adbc6e1f3169a52a7ecd04f9786b",
+      "width": 374,
+      "height": 364,
+      "scale": 1.0658307210031348,
+      "originX": 0.6042780748663101,
+      "originY": 0.9340659340659341,
+      "bodyHeight": 336.80250783699057,
+      "bounds": {
+        "l": 1378,
+        "t": 130,
+        "r": 1703,
+        "b": 445
+      },
+      "pixels": 72271,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 3
+    },
+    {
+      "key": "ossa-04",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-04.png?v=75572f0f575e",
+      "sha256": "75572f0f575e271748eeca3a6b8e56c6bae13b324c847f478883edde9e2f985a",
+      "width": 419,
+      "height": 312,
+      "scale": 1.0658307210031348,
+      "originX": 0.5608591885441527,
+      "originY": 0.9230769230769231,
+      "bodyHeight": 281.3793103448276,
+      "bounds": {
+        "l": 49,
+        "t": 544,
+        "r": 419,
+        "b": 807
+      },
+      "pixels": 61835,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 4
+    },
+    {
+      "key": "ossa-05",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-05.png?v=066edccaab45",
+      "sha256": "066edccaab45c6089897b922fd1d32afab36ec2c3520678c1d61b3bd446e9f4d",
+      "width": 412,
+      "height": 287,
+      "scale": 1.0658307210031348,
+      "originX": 0.5436893203883495,
+      "originY": 0.9163763066202091,
+      "bodyHeight": 254.7335423197492,
+      "bounds": {
+        "l": 500,
+        "t": 577,
+        "r": 863,
+        "b": 815
+      },
+      "pixels": 57944,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 5
+    },
+    {
+      "key": "ossa-06",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-06.png?v=e957a4c60a37",
+      "sha256": "e957a4c60a374f7901df9c226d5dbfb55c1e946c156bf7f8eba2940701c0a4f5",
+      "width": 414,
+      "height": 322,
+      "scale": 1.0658307210031348,
+      "originX": 0.6086956521739131,
+      "originY": 0.9254658385093167,
+      "bodyHeight": 292.0376175548589,
+      "bounds": {
+        "l": 912,
+        "t": 544,
+        "r": 1277,
+        "b": 817
+      },
+      "pixels": 60563,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 6
+    },
+    {
+      "key": "ossa-07",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-07.png?v=63963ca11b4b",
+      "sha256": "63963ca11b4b53ef14442123de9642091ee354d2c90c56776212be3b087affed",
+      "width": 430,
+      "height": 317,
+      "scale": 1.0658307210031348,
+      "originX": 0.5674418604651162,
+      "originY": 0.9242902208201893,
+      "bodyHeight": 286.70846394984324,
+      "bounds": {
+        "l": 1360,
+        "t": 544,
+        "r": 1741,
+        "b": 812
+      },
+      "pixels": 63144,
+      "source": "ossa-sheet1-idle-slither-v1.png",
+      "local": 7
+    },
+    {
+      "key": "ossa-08",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-08.png?v=6d32170470cb",
+      "sha256": "6d32170470cb31c8c3593c151d7d109d9e80dc3fb63aab0926fa06091d72be94",
+      "width": 391,
+      "height": 356,
+      "scale": 1.118421052631579,
+      "originX": 0.5856777493606138,
+      "originY": 0.9325842696629213,
+      "bodyHeight": 344.4736842105263,
+      "bounds": {
+        "l": 55,
+        "t": 182,
+        "r": 397,
+        "b": 489
+      },
+      "pixels": 75334,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 0
+    },
+    {
+      "key": "ossa-09",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-09.png?v=ba6073f341cc",
+      "sha256": "ba6073f341cc4fd331c848c5439ea0548cb70ee4e9be36995d70afd63bb4b207",
+      "width": 402,
+      "height": 405,
+      "scale": 1.118421052631579,
+      "originX": 0.5696517412935324,
+      "originY": 0.9407407407407408,
+      "bodyHeight": 399.2763157894737,
+      "bounds": {
+        "l": 495,
+        "t": 134,
+        "r": 848,
+        "b": 490
+      },
+      "pixels": 86947,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 1
+    },
+    {
+      "key": "ossa-10",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-10.png?v=921dc6ada9c3",
+      "sha256": "921dc6ada9c3d66f4bbd1c93d982f8deb5371969c715bdea7393c7f8148c0fb4",
+      "width": 401,
+      "height": 454,
+      "scale": 1.118421052631579,
+      "originX": 0.5885286783042394,
+      "originY": 0.947136563876652,
+      "bodyHeight": 454.07894736842104,
+      "bounds": {
+        "l": 928,
+        "t": 85,
+        "r": 1280,
+        "b": 490
+      },
+      "pixels": 98224,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 2
+    },
+    {
+      "key": "ossa-11",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-11.png?v=404a863e6dbd",
+      "sha256": "404a863e6dbd73f013b65f2ccb942a3ca4e927df5e6b6bddf7709f6f1f8559e6",
+      "width": 448,
+      "height": 333,
+      "scale": 1.118421052631579,
+      "originX": 0.5558035714285714,
+      "originY": 0.9279279279279279,
+      "bodyHeight": 318.75,
+      "bounds": {
+        "l": 1355,
+        "t": 206,
+        "r": 1754,
+        "b": 490
+      },
+      "pixels": 75786,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 3
+    },
+    {
+      "key": "ossa-12",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-12.png?v=725857edbd89",
+      "sha256": "725857edbd89f9f809d4cedc56b868a99d819279b891045ac33ec52d24dbdaa5",
+      "width": 487,
+      "height": 211,
+      "scale": 1.118421052631579,
+      "originX": 0.5133470225872689,
+      "originY": 0.8862559241706162,
+      "bodyHeight": 182.30263157894737,
+      "bounds": {
+        "l": 34,
+        "t": 681,
+        "r": 472,
+        "b": 843
+      },
+      "pixels": 51739,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 4
+    },
+    {
+      "key": "ossa-13",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-13.png?v=fdb624c2a144",
+      "sha256": "fdb624c2a144763fa23157e6cd68fe38d8be33180a203d0d5684b8bd89ed2abc",
+      "width": 507,
+      "height": 208,
+      "scale": 1.118421052631579,
+      "originX": 0.4556213017751479,
+      "originY": 0.8846153846153846,
+      "bodyHeight": 178.94736842105263,
+      "bounds": {
+        "l": 493,
+        "t": 688,
+        "r": 951,
+        "b": 847
+      },
+      "pixels": 47083,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 5
+    },
+    {
+      "key": "ossa-14",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-14.png?v=10af8e77efd2",
+      "sha256": "10af8e77efd2c731aba06f800aab33b27485b36811e5769a2e03fe6173559bb5",
+      "width": 438,
+      "height": 312,
+      "scale": 1.118421052631579,
+      "originX": 0.4748858447488584,
+      "originY": 0.9230769230769231,
+      "bodyHeight": 295.2631578947369,
+      "bounds": {
+        "l": 956,
+        "t": 582,
+        "r": 1345,
+        "b": 845
+      },
+      "pixels": 69447,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 6
+    },
+    {
+      "key": "ossa-15",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-15.png?v=c8faed8fdbe7",
+      "sha256": "c8faed8fdbe76f7054aade5228c53103d55a98a825d406fd335c069e7efd6942",
+      "width": 384,
+      "height": 378,
+      "scale": 1.118421052631579,
+      "originX": 0.5338541666666666,
+      "originY": 0.9365079365079365,
+      "bodyHeight": 369.07894736842104,
+      "bounds": {
+        "l": 1399,
+        "t": 518,
+        "r": 1734,
+        "b": 847
+      },
+      "pixels": 78217,
+      "source": "ossa-sheet2-body-slam-v1.png",
+      "local": 7
+    },
+    {
+      "key": "ossa-16",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-16.png?v=4c0807026ad3",
+      "sha256": "4c0807026ad3d3ba9474939487776a5bc60092bbbce4213f99e009a807b11cbe",
+      "width": 350,
+      "height": 329,
+      "scale": 1.227436823104693,
+      "originX": 0.62,
+      "originY": 0.9270516717325228,
+      "bodyHeight": 344.90974729241873,
+      "bounds": {
+        "l": 52,
+        "t": 154,
+        "r": 353,
+        "b": 434
+      },
+      "pixels": 60358,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 0
+    },
+    {
+      "key": "ossa-17",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-17.png?v=7a059697c1e6",
+      "sha256": "7a059697c1e675c2c681eb6d71dab08cc9521a12c3a498e33815b350335d6258",
+      "width": 373,
+      "height": 349,
+      "scale": 1.227436823104693,
+      "originX": 0.5603217158176944,
+      "originY": 0.9312320916905444,
+      "bodyHeight": 369.4584837545126,
+      "bounds": {
+        "l": 515,
+        "t": 132,
+        "r": 839,
+        "b": 432
+      },
+      "pixels": 68189,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 1
+    },
+    {
+      "key": "ossa-18",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-18.png?v=648ca30ee98e",
+      "sha256": "648ca30ee98e99362cdb9ee87e0903f054b8cfa51ed545d205d73656b47e45ab",
+      "width": 375,
+      "height": 377,
+      "scale": 1.227436823104693,
+      "originX": 0.5146666666666667,
+      "originY": 0.9363395225464191,
+      "bodyHeight": 403.826714801444,
+      "bounds": {
+        "l": 971,
+        "t": 103,
+        "r": 1297,
+        "b": 431
+      },
+      "pixels": 74411,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 2
+    },
+    {
+      "key": "ossa-19",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-19.png?v=b3b8273e562b",
+      "sha256": "b3b8273e562b4deb1ea8a372dcbb88f6a3cb08de533688b5cfaa5969602b01d7",
+      "width": 337,
+      "height": 320,
+      "scale": 1.227436823104693,
+      "originX": 0.5934718100890207,
+      "originY": 0.925,
+      "bodyHeight": 333.8628158844765,
+      "bounds": {
+        "l": 1404,
+        "t": 161,
+        "r": 1692,
+        "b": 432
+      },
+      "pixels": 56311,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 3
+    },
+    {
+      "key": "ossa-20",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-20.png?v=86c35394fedc",
+      "sha256": "86c35394fedc00865cf7200917c26e93845078aa43d2077222c02b03f8c71210",
+      "width": 367,
+      "height": 322,
+      "scale": 1.227436823104693,
+      "originX": 0.5885558583106267,
+      "originY": 0.9254658385093167,
+      "bodyHeight": 336.31768953068587,
+      "bounds": {
+        "l": 53,
+        "t": 562,
+        "r": 371,
+        "b": 835
+      },
+      "pixels": 64802,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 4
+    },
+    {
+      "key": "ossa-21",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-21.png?v=e0bc77098c55",
+      "sha256": "e0bc77098c5514c17929afbfb4f0e7cef8ff1d1667004193a47c6f25d53caf34",
+      "width": 342,
+      "height": 381,
+      "scale": 1.227436823104693,
+      "originX": 0.5584795321637427,
+      "originY": 0.937007874015748,
+      "bodyHeight": 408.73646209386277,
+      "bounds": {
+        "l": 533,
+        "t": 503,
+        "r": 826,
+        "b": 835
+      },
+      "pixels": 63813,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 5
+    },
+    {
+      "key": "ossa-22",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-22.png?v=20b57faf1ac2",
+      "sha256": "20b57faf1ac2abde1b3bff08a8c6670a3ad3875c15d6661feda8bc98a0dcc9bb",
+      "width": 385,
+      "height": 301,
+      "scale": 1.227436823104693,
+      "originX": 0.5532467532467532,
+      "originY": 0.920265780730897,
+      "bodyHeight": 310.54151624548734,
+      "bounds": {
+        "l": 951,
+        "t": 583,
+        "r": 1287,
+        "b": 835
+      },
+      "pixels": 59877,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 6
+    },
+    {
+      "key": "ossa-23",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-23.png?v=a6ec2f0ff4db",
+      "sha256": "a6ec2f0ff4db54e57661ad7982be797c7069a6484d394afdbb4d6fb3c493c3f0",
+      "width": 347,
+      "height": 322,
+      "scale": 1.227436823104693,
+      "originX": 0.5648414985590778,
+      "originY": 0.9254658385093167,
+      "bodyHeight": 336.31768953068587,
+      "bounds": {
+        "l": 1408,
+        "t": 563,
+        "r": 1706,
+        "b": 836
+      },
+      "pixels": 59549,
+      "source": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "local": 7
+    },
+    {
+      "key": "ossa-24",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-24.png?v=429be1c36e87",
+      "sha256": "429be1c36e8764212fafe14950068f0aaf280a3eaa597587e9876fee69dbfb6c",
+      "width": 386,
+      "height": 381,
+      "scale": 1.033434650455927,
+      "originX": 0.5751295336787565,
+      "originY": 0.937007874015748,
+      "bodyHeight": 344.1337386018237,
+      "bounds": {
+        "l": 62,
+        "t": 135,
+        "r": 399,
+        "b": 467
+      },
+      "pixels": 77739,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 0
+    },
+    {
+      "key": "ossa-25",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-25.png?v=cceb5d98c462",
+      "sha256": "cceb5d98c462180c840a68dfd2f2adb743e51c14b78ff34f9b5727087cf3a914",
+      "width": 366,
+      "height": 355,
+      "scale": 1.033434650455927,
+      "originX": 0.5683060109289617,
+      "originY": 0.9323943661971831,
+      "bodyHeight": 317.2644376899696,
+      "bounds": {
+        "l": 516,
+        "t": 161,
+        "r": 833,
+        "b": 467
+      },
+      "pixels": 68402,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 1
+    },
+    {
+      "key": "ossa-26",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-26.png?v=78aa0538aced",
+      "sha256": "78aa0538acedcc4aa8741fd2a08eb3a234b500260d7c73796cfc9f7ed7e6513c",
+      "width": 376,
+      "height": 363,
+      "scale": 1.033434650455927,
+      "originX": 0.6117021276595744,
+      "originY": 0.9338842975206612,
+      "bodyHeight": 325.53191489361706,
+      "bounds": {
+        "l": 934,
+        "t": 155,
+        "r": 1261,
+        "b": 469
+      },
+      "pixels": 73864,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 2
+    },
+    {
+      "key": "ossa-27",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-27.png?v=0a482c004429",
+      "sha256": "0a482c00442942c6a8a64df9a0ef0c84c72799c37f25043e6d877b5cd99db449",
+      "width": 380,
+      "height": 360,
+      "scale": 1.033434650455927,
+      "originX": 0.5973684210526315,
+      "originY": 0.9333333333333333,
+      "bodyHeight": 322.4316109422492,
+      "bounds": {
+        "l": 1377,
+        "t": 156,
+        "r": 1708,
+        "b": 467
+      },
+      "pixels": 74460,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 3
+    },
+    {
+      "key": "ossa-28",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-28.png?v=5be01c21c1bd",
+      "sha256": "5be01c21c1bd5259a5e7020c07eeee99a3f0ab8a84a3e55f3c4d5362e8456130",
+      "width": 424,
+      "height": 323,
+      "scale": 1.033434650455927,
+      "originX": 0.625,
+      "originY": 0.9256965944272446,
+      "bodyHeight": 284.19452887537994,
+      "bounds": {
+        "l": 59,
+        "t": 557,
+        "r": 434,
+        "b": 831
+      },
+      "pixels": 68144,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 4
+    },
+    {
+      "key": "ossa-29",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-29.png?v=e03375f625ae",
+      "sha256": "e03375f625aeb2941042817439d273d42d78779a4bbe6e347092f2eba17acf06",
+      "width": 454,
+      "height": 264,
+      "scale": 1.033434650455927,
+      "originX": 0.6828193832599119,
+      "originY": 0.9090909090909091,
+      "bodyHeight": 223.22188449848025,
+      "bounds": {
+        "l": 464,
+        "t": 615,
+        "r": 869,
+        "b": 830
+      },
+      "pixels": 59541,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 5
+    },
+    {
+      "key": "ossa-30",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-30.png?v=59cde3d8f2c0",
+      "sha256": "59cde3d8f2c0abf655ec399345258bbbc7ca6d7ea28b2c2ac3850848fdf8edda",
+      "width": 460,
+      "height": 216,
+      "scale": 1.033434650455927,
+      "originX": 0.6891304347826087,
+      "originY": 0.8888888888888888,
+      "bodyHeight": 173.61702127659575,
+      "bounds": {
+        "l": 897,
+        "t": 669,
+        "r": 1308,
+        "b": 836
+      },
+      "pixels": 49525,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 6
+    },
+    {
+      "key": "ossa-31",
+      "url": "assets/bosses/brood-warden-ossa/frames/ossa-31.png?v=c8464e14c76c",
+      "sha256": "c8464e14c76ca2047861b47160965424a8b437a094b1cea084d5d0b162369bc7",
+      "width": 468,
+      "height": 180,
+      "scale": 1.033434650455927,
+      "originX": 0.688034188034188,
+      "originY": 0.8666666666666667,
+      "bodyHeight": 136.4133738601824,
+      "bounds": {
+        "l": 1332,
+        "t": 702,
+        "r": 1751,
+        "b": 833
+      },
+      "pixels": 44538,
+      "source": "ossa-sheet4-hit-ko-v1.png",
+      "local": 7
+    }
+  ],
+  "egg": {
+    "key": "ossa-egg",
+    "url": "assets/bosses/brood-warden-ossa/frames/ossa-egg.png?v=7e2e3cf46103",
+    "sha256": "7e2e3cf4610354953f93d493adbc304bec12161a1849d8a878a5514ea3260fb8",
+    "width": 109,
+    "height": 97,
+    "scale": 1.227436823104693,
+    "originX": 0.5,
+    "originY": 0.5,
+    "bodyHeight": 60.14440433212996,
+    "bounds": {
+      "l": 1291,
+      "t": 579,
+      "r": 1351,
+      "b": 627
+    },
+    "pixels": 2480
+  },
+  "animations": {
+    "idle": {
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "durations": [
+        400,
+        400,
+        400,
+        400
+      ],
+      "loop": true
+    },
+    "slither": {
+      "frames": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "durations": [
+        240,
+        240,
+        240,
+        240
+      ],
+      "loop": true
+    },
+    "slam": {
+      "frames": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "durations": [
+        220,
+        220,
+        300,
+        100,
+        140,
+        800,
+        300,
+        300
+      ]
+    },
+    "call": {
+      "frames": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "durations": [
+        400,
+        400,
+        400,
+        600
+      ]
+    },
+    "toss": {
+      "frames": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "durations": [
+        350,
+        350,
+        180,
+        620
+      ]
+    },
+    "guard": {
+      "frames": [
+        24
+      ],
+      "durations": [
+        800
+      ],
+      "hold": true
+    },
+    "blocked": {
+      "frames": [
+        25,
+        24
+      ],
+      "durations": [
+        160,
+        240
+      ]
+    },
+    "hit": {
+      "frames": [
+        26,
+        27,
+        0
+      ],
+      "durations": [
+        160,
+        200,
+        190
+      ]
+    },
+    "fall": {
+      "frames": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "durations": [
+        180,
+        220,
+        260,
+        400
+      ],
+      "hold": true
+    }
+  },
+  "sources": [
+    {
+      "file": "ossa-sheet1-idle-slither-v1.png",
+      "sha256": "f9dc50653212f118effa7fa85573adcb5afa1366d5bca11e163f1a201d5b3a81",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "ossa-sheet2-body-slam-v1.png",
+      "sha256": "74392ceef1d50f4ebcd5b3273b8aa179571bc20c90c153179498cff1de5b5659",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "ossa-sheet3-brood-call-egg-toss-v1.png",
+      "sha256": "0829b61848d2be5a5b2eae71bbdb29a325663fa8bc6908d6d5097f3b25a5fe5e",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "ossa-sheet4-hit-ko-v1.png",
+      "sha256": "5ba02f48891a1cd5f7157f785ab1b4eec134a48d6d759f5da19dac8329dba106",
+      "width": 1774,
+      "height": 887
+    }
+  ]
+}
