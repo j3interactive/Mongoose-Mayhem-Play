@@ -1,4 +1,11 @@
 {
+  "crown": {
+    "key": "nag-crown",
+    "url": "assets/bosses/king-nag/nag-crown.png?v=6bde208f8745",
+    "sha256": "6bde208f874593adc316bdcd0171e10fe89982bdbb839a0c83b3506023bf7540",
+    "width": 194,
+    "height": 188
+  },
   "standingHeight": 320,
   "gutter": 24,
   "frames": [
@@ -601,6 +608,606 @@
       "source": "reactions-escape.png",
       "local": 7,
       "pixels": 97591
+    },
+    {
+      "key": "nag-24",
+      "url": "assets/bosses/king-nag/frames/nag-24.png?v=8d0c4ff2fb25",
+      "sha256": "8d0c4ff2fb253fac592af603b58e6421165e182a1cf22dcad72f212c20a118f7",
+      "width": 463,
+      "height": 464,
+      "scale": 0.794044665012407,
+      "originX": 0.4715882930646426,
+      "originY": 0.9288793103448276,
+      "bounds": {
+        "l": 17,
+        "t": 54,
+        "r": 420,
+        "b": 456
+      },
+      "sourceBounds": {
+        "l": 15,
+        "t": 50,
+        "r": 429,
+        "b": 465
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 0,
+      "pixels": 106391
+    },
+    {
+      "key": "nag-25",
+      "url": "assets/bosses/king-nag/frames/nag-25.png?v=5f5c976c0759",
+      "sha256": "5f5c976c0759e665b3ef3e8b316e490993793506591c27b0d1aabf43bfc1ddbf",
+      "width": 553,
+      "height": 476,
+      "scale": 0.794044665012407,
+      "originX": 0.4730644847121819,
+      "originY": 0.930672268907563,
+      "bounds": {
+        "l": 438,
+        "t": 54,
+        "r": 934,
+        "b": 453
+      },
+      "sourceBounds": {
+        "l": 430,
+        "t": 35,
+        "r": 934,
+        "b": 462
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 1,
+      "pixels": 111173
+    },
+    {
+      "key": "nag-26",
+      "url": "assets/bosses/king-nag/frames/nag-26.png?v=f090d739d070",
+      "sha256": "f090d739d0701246d51d22cf1eb27225023bc009fa69cdc9746354f0b799e679",
+      "width": 400,
+      "height": 489,
+      "scale": 0.794044665012407,
+      "originX": 0.5678216087443946,
+      "originY": 0.8752556237218814,
+      "bounds": {
+        "l": 935,
+        "t": 56,
+        "r": 1283,
+        "b": 454
+      },
+      "sourceBounds": {
+        "l": 935,
+        "t": 51,
+        "r": 1286,
+        "b": 491
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 2,
+      "pixels": 87598
+    },
+    {
+      "key": "nag-27",
+      "url": "assets/bosses/king-nag/frames/nag-27.png?v=56c99ea5b045",
+      "sha256": "56c99ea5b045090cfc7d79aa98a3ceae992ac3303f398bef7aeb0c50c454c1fb",
+      "width": 409,
+      "height": 491,
+      "scale": 0.794044665012407,
+      "originX": 0.550881550831426,
+      "originY": 0.9287169042769857,
+      "bounds": {
+        "l": 1289,
+        "t": 54,
+        "r": 1644,
+        "b": 456
+      },
+      "sourceBounds": {
+        "l": 1287,
+        "t": 25,
+        "r": 1647,
+        "b": 467
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 3,
+      "pixels": 94021
+    },
+    {
+      "key": "nag-28",
+      "url": "assets/bosses/king-nag/frames/nag-28.png?v=38270c1eab57",
+      "sha256": "38270c1eab5717ac297eaf5db164b3a3edd351267454a88544799600c13a7b9f",
+      "width": 450,
+      "height": 416,
+      "scale": 0.794044665012407,
+      "originX": 0.533104077906269,
+      "originY": 0.9254807692307693,
+      "bounds": {
+        "l": 17,
+        "t": 557,
+        "r": 403,
+        "b": 881
+      },
+      "sourceBounds": {
+        "l": 14,
+        "t": 521,
+        "r": 415,
+        "b": 888
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 4,
+      "pixels": 91981
+    },
+    {
+      "key": "nag-29",
+      "url": "assets/bosses/king-nag/frames/nag-29.png?v=f54db284abd7",
+      "sha256": "f54db284abd789f6340f2a717a92e62a8fd104a1aafe1b08b416be9c42234077",
+      "width": 460,
+      "height": 455,
+      "scale": 0.794044665012407,
+      "originX": 0.5972795620301103,
+      "originY": 0.8549450549450549,
+      "bounds": {
+        "l": 427,
+        "t": 521,
+        "r": 824,
+        "b": 879
+      },
+      "sourceBounds": {
+        "l": 416,
+        "t": 515,
+        "r": 827,
+        "b": 921
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 5,
+      "pixels": 95558
+    },
+    {
+      "key": "nag-30",
+      "url": "assets/bosses/king-nag/frames/nag-30.png?v=87126dde5464",
+      "sha256": "87126dde5464711356457289927e4fdbad0b4e941d227f383f7c7f54b776decd",
+      "width": 478,
+      "height": 423,
+      "scale": 0.794044665012407,
+      "originX": 0.5676012616928617,
+      "originY": 0.8865248226950354,
+      "bounds": {
+        "l": 848,
+        "t": 538,
+        "r": 1265,
+        "b": 881
+      },
+      "sourceBounds": {
+        "l": 845,
+        "t": 531,
+        "r": 1274,
+        "b": 905
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 6,
+      "pixels": 102790
+    },
+    {
+      "key": "nag-31",
+      "url": "assets/bosses/king-nag/frames/nag-31.png?v=fccc91eb5d10",
+      "sha256": "fccc91eb5d1024acfec4429440539e791f9fe6b852835f29733ddd5a45995313",
+      "width": 427,
+      "height": 434,
+      "scale": 0.794044665012407,
+      "originX": 0.5119413837013588,
+      "originY": 0.8663594470046083,
+      "bounds": {
+        "l": 1283,
+        "t": 534,
+        "r": 1646,
+        "b": 881
+      },
+      "sourceBounds": {
+        "l": 1280,
+        "t": 530,
+        "r": 1658,
+        "b": 915
+      },
+      "source": "sheet-03-slither-block-v1.png",
+      "local": 7,
+      "pixels": 89122
+    },
+    {
+      "key": "nag-32",
+      "url": "assets/bosses/king-nag/frames/nag-32.png?v=264de605c3e0",
+      "sha256": "264de605c3e0d422776d38c91db334a7bb239aec42a21f4311f87ac89511418a",
+      "width": 435,
+      "height": 484,
+      "scale": 0.8060453400503779,
+      "originX": 0.5492470243069095,
+      "originY": 0.9297520661157025,
+      "bounds": {
+        "l": 14,
+        "t": 63,
+        "r": 368,
+        "b": 454
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 29,
+        "r": 386,
+        "b": 464
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 0,
+      "pixels": 109522
+    },
+    {
+      "key": "nag-33",
+      "url": "assets/bosses/king-nag/frames/nag-33.png?v=c1c4fa5b3eab",
+      "sha256": "c1c4fa5b3eab52f7764d16c2b5ee010ba3f05b469dec3242fb69d6a12cc3a34a",
+      "width": 565,
+      "height": 529,
+      "scale": 0.8060453400503779,
+      "originX": 0.44295158021743664,
+      "originY": 0.8468809073724007,
+      "bounds": {
+        "l": 404,
+        "t": 81,
+        "r": 903,
+        "b": 454
+      },
+      "sourceBounds": {
+        "l": 387,
+        "t": 31,
+        "r": 903,
+        "b": 511
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 1,
+      "pixels": 126726
+    },
+    {
+      "key": "nag-34",
+      "url": "assets/bosses/king-nag/frames/nag-34.png?v=34878f9a8a23",
+      "sha256": "34878f9a8a23874c8eb52df6d0ab7551d08f9161d516e53bdd441c1266b9a281",
+      "width": 554,
+      "height": 532,
+      "scale": 0.8060453400503779,
+      "originX": 0.45832534864744556,
+      "originY": 0.8327067669172933,
+      "bounds": {
+        "l": 849,
+        "t": 78,
+        "r": 1346,
+        "b": 457
+      },
+      "sourceBounds": {
+        "l": 849,
+        "t": 39,
+        "r": 1354,
+        "b": 522
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 2,
+      "pixels": 120469
+    },
+    {
+      "key": "nag-35",
+      "url": "assets/bosses/king-nag/frames/nag-35.png?v=ad51ce69c0f0",
+      "sha256": "ad51ce69c0f07fc90ea3a1ba80fa81db255b26dd68182a2ccba3e59fe009716e",
+      "width": 363,
+      "height": 516,
+      "scale": 0.8060453400503779,
+      "originX": 0.4940135476291651,
+      "originY": 0.8875968992248062,
+      "bounds": {
+        "l": 1330,
+        "t": 57,
+        "r": 1641,
+        "b": 454
+      },
+      "sourceBounds": {
+        "l": 1330,
+        "t": 21,
+        "r": 1644,
+        "b": 488
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 3,
+      "pixels": 98433
+    },
+    {
+      "key": "nag-36",
+      "url": "assets/bosses/king-nag/frames/nag-36.png?v=4222f32460ed",
+      "sha256": "4222f32460ede9bd55cf7e005ad2d555c6114e85ed01a90fcefd0d0fbf2bba43",
+      "width": 469,
+      "height": 531,
+      "scale": 0.8060453400503779,
+      "originX": 0.5023100770848997,
+      "originY": 0.8757062146892656,
+      "bounds": {
+        "l": 25,
+        "t": 474,
+        "r": 370,
+        "b": 905
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 465,
+        "r": 420,
+        "b": 947
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 4,
+      "pixels": 113229
+    },
+    {
+      "key": "nag-37",
+      "url": "assets/bosses/king-nag/frames/nag-37.png?v=85ebaec7f6e4",
+      "sha256": "85ebaec7f6e4793805a52c5d5a3f7f13f513895057507a9f10b15da229bccd14",
+      "width": 478,
+      "height": 460,
+      "scale": 0.8060453400503779,
+      "originX": 0.5307184799862623,
+      "originY": 0.9065217391304348,
+      "bounds": {
+        "l": 411,
+        "t": 568,
+        "r": 791,
+        "b": 904
+      },
+      "sourceBounds": {
+        "l": 400,
+        "t": 512,
+        "r": 829,
+        "b": 923
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 5,
+      "pixels": 93822
+    },
+    {
+      "key": "nag-38",
+      "url": "assets/bosses/king-nag/frames/nag-38.png?v=9612997103fa",
+      "sha256": "9612997103fa1514fc1dae80b3d05509bfdf97291150c280791d1e63a006f9a5",
+      "width": 499,
+      "height": 453,
+      "scale": 0.8060453400503779,
+      "originX": 0.5096080238335552,
+      "originY": 0.9006622516556292,
+      "bounds": {
+        "l": 853,
+        "t": 588,
+        "r": 1264,
+        "b": 906
+      },
+      "sourceBounds": {
+        "l": 823,
+        "t": 523,
+        "r": 1273,
+        "b": 927
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 6,
+      "pixels": 102869
+    },
+    {
+      "key": "nag-39",
+      "url": "assets/bosses/king-nag/frames/nag-39.png?v=011fa036ccf9",
+      "sha256": "011fa036ccf99b61f92469183a1cf7853e2db3b3e64f325cd37be2cf57a309ff",
+      "width": 469,
+      "height": 489,
+      "scale": 0.8060453400503779,
+      "originX": 0.5938683158649639,
+      "originY": 0.9038854805725971,
+      "bounds": {
+        "l": 1283,
+        "t": 523,
+        "r": 1641,
+        "b": 906
+      },
+      "sourceBounds": {
+        "l": 1224,
+        "t": 489,
+        "r": 1644,
+        "b": 929
+      },
+      "source": "sheet-04-chain-whip-crown-toss-v1.png",
+      "local": 7,
+      "pixels": 101504
+    },
+    {
+      "key": "nag-40",
+      "url": "assets/bosses/king-nag/frames/nag-40.png?v=ae90e6f2e3e1",
+      "sha256": "ae90e6f2e3e1cc850c74f6a6dbcafc2fff4b81c6aae1a2f1d5b32f0ba0d08aac",
+      "width": 496,
+      "height": 507,
+      "scale": 0.7843137254901961,
+      "originX": 0.4339026672905943,
+      "originY": 0.8619329388560157,
+      "bounds": {
+        "l": 53,
+        "t": 22,
+        "r": 453,
+        "b": 430
+      },
+      "sourceBounds": {
+        "l": 47,
+        "t": 18,
+        "r": 494,
+        "b": 476
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 0,
+      "pixels": 114480
+    },
+    {
+      "key": "nag-41",
+      "url": "assets/bosses/king-nag/frames/nag-41.png?v=10636d9df348",
+      "sha256": "10636d9df348218e84c28d080fa88315f3aebf7d04265309e281a591e72046a0",
+      "width": 453,
+      "height": 527,
+      "scale": 0.7843137254901961,
+      "originX": 0.5084899076950815,
+      "originY": 0.8633776091081594,
+      "bounds": {
+        "l": 545,
+        "t": 8,
+        "r": 911,
+        "b": 430
+      },
+      "sourceBounds": {
+        "l": 518,
+        "t": 0,
+        "r": 922,
+        "b": 478
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 1,
+      "pixels": 120336
+    },
+    {
+      "key": "nag-42",
+      "url": "assets/bosses/king-nag/frames/nag-42.png?v=62f068259857",
+      "sha256": "62f068259857660a7d429d4c1f3e9675c38271f905cac51482b5ba806fb17380",
+      "width": 523,
+      "height": 514,
+      "scale": 0.7843137254901961,
+      "originX": 0.44895387646056795,
+      "originY": 0.8229571984435797,
+      "bounds": {
+        "l": 1009,
+        "t": 35,
+        "r": 1405,
+        "b": 430
+      },
+      "sourceBounds": {
+        "l": 984,
+        "t": 32,
+        "r": 1458,
+        "b": 497
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 2,
+      "pixels": 119935
+    },
+    {
+      "key": "nag-43",
+      "url": "assets/bosses/king-nag/frames/nag-43.png?v=990018673c75",
+      "sha256": "990018673c757fb180331f3079779c784518469e9e3f7e60d350dbc0c3cb78bf",
+      "width": 485,
+      "height": 543,
+      "scale": 0.7843137254901961,
+      "originX": 0.5398976762280434,
+      "originY": 0.7753222836095764,
+      "bounds": {
+        "l": 1557,
+        "t": 37,
+        "r": 1934,
+        "b": 429
+      },
+      "sourceBounds": {
+        "l": 1500,
+        "t": 33,
+        "r": 1936,
+        "b": 527
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 3,
+      "pixels": 102659
+    },
+    {
+      "key": "nag-44",
+      "url": "assets/bosses/king-nag/frames/nag-44.png?v=91c5a86ab541",
+      "sha256": "91c5a86ab54111df20a74321ef9030c1464937acd23ca0706a15c1f154fb4671",
+      "width": 507,
+      "height": 389,
+      "scale": 0.7843137254901961,
+      "originX": 0.4673076006540404,
+      "originY": 0.9151670951156813,
+      "bounds": {
+        "l": 16,
+        "t": 441,
+        "r": 424,
+        "b": 767
+      },
+      "sourceBounds": {
+        "l": 11,
+        "t": 436,
+        "r": 469,
+        "b": 776
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 4,
+      "pixels": 92125
+    },
+    {
+      "key": "nag-45",
+      "url": "assets/bosses/king-nag/frames/nag-45.png?v=29692fbaf40c",
+      "sha256": "29692fbaf40c6b31d8ff50b8492ac0a95d8ba326f75fa86d92acaf65283a95c8",
+      "width": 528,
+      "height": 351,
+      "scale": 0.7843137254901961,
+      "originX": 0.6216291165450603,
+      "originY": 0.9116809116809117,
+      "bounds": {
+        "l": 454,
+        "t": 528,
+        "r": 911,
+        "b": 765
+      },
+      "sourceBounds": {
+        "l": 440,
+        "t": 470,
+        "r": 919,
+        "b": 772
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 5,
+      "pixels": 76940
+    },
+    {
+      "key": "nag-46",
+      "url": "assets/bosses/king-nag/frames/nag-46.png?v=029ed48ef180",
+      "sha256": "029ed48ef1803fe7979133d5db8ce24a32ce8d47c5cfd36e9557daed5f2c929f",
+      "width": 532,
+      "height": 237,
+      "scale": 0.7843137254901961,
+      "originX": 0.4931996190288979,
+      "originY": 0.8734177215189873,
+      "bounds": {
+        "l": 932,
+        "t": 605,
+        "r": 1405,
+        "b": 764
+      },
+      "sourceBounds": {
+        "l": 925,
+        "t": 582,
+        "r": 1408,
+        "b": 770
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 6,
+      "pixels": 54306
+    },
+    {
+      "key": "nag-47",
+      "url": "assets/bosses/king-nag/frames/nag-47.png?v=76ade9425f0e",
+      "sha256": "76ade9425f0e517317c9c532ee923ca7c8256feff45456ae0d10434a93557649",
+      "width": 601,
+      "height": 276,
+      "scale": 0.7843137254901961,
+      "originX": 0.46777909349690106,
+      "originY": 0.8985507246376812,
+      "bounds": {
+        "l": 1424,
+        "t": 640,
+        "r": 1968,
+        "b": 760
+      },
+      "sourceBounds": {
+        "l": 1418,
+        "t": 537,
+        "r": 1970,
+        "b": 764
+      },
+      "source": "sheet-05-enraged-knockdown-ko-v1.png",
+      "local": 7,
+      "pixels": 49442
     }
   ],
   "animations": {
@@ -731,6 +1338,120 @@
         250
       ],
       "loop": true
+    },
+    "slither": {
+      "frames": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "durations": [
+        180,
+        180,
+        180,
+        180
+      ],
+      "loop": true
+    },
+    "block": {
+      "frames": [
+        28,
+        29
+      ],
+      "durations": [
+        160,
+        340
+      ],
+      "hold": true
+    },
+    "blockImpact": {
+      "frames": [
+        30,
+        31
+      ],
+      "durations": [
+        180,
+        220
+      ]
+    },
+    "whip": {
+      "frames": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "durations": [
+        550,
+        180,
+        220,
+        650
+      ]
+    },
+    "crown": {
+      "frames": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "durations": [
+        500,
+        500,
+        500,
+        300
+      ]
+    },
+    "enraged": {
+      "frames": [
+        40,
+        41,
+        42
+      ],
+      "durations": [
+        350,
+        450,
+        400
+      ]
+    },
+    "enragedIdle": {
+      "frames": [
+        43
+      ],
+      "durations": [
+        500
+      ],
+      "loop": true
+    },
+    "knockdown": {
+      "frames": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "durations": [
+        220,
+        220,
+        250,
+        550
+      ]
+    },
+    "ko": {
+      "frames": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "durations": [
+        220,
+        220,
+        250,
+        550
+      ],
+      "hold": true
     }
   },
   "sources": [
@@ -745,11 +1466,23 @@
     {
       "file": "reactions-escape.png",
       "sha256": "ce6acdcac81b226077a61793fd308ef9870949afc8af02d04d7bf62a3b896ede"
+    },
+    {
+      "file": "sheet-03-slither-block-v1.png",
+      "sha256": "fecdcc9f2e9f021f9cc873d1a6cc86a5c065165e92e58c433ca848f5eef53b4d"
+    },
+    {
+      "file": "sheet-04-chain-whip-crown-toss-v1.png",
+      "sha256": "15125e1fe0367a42d80a509a584e4c9fc5c4d51cc27c5e3ed885e14866fec1cc"
+    },
+    {
+      "file": "sheet-05-enraged-knockdown-ko-v1.png",
+      "sha256": "2c5ffdf9f0fa9385df03fde8b1d44e3c2ffbc09a79c60bf63d1d2233fd94cd37"
     }
   ],
   "atlas": {
-    "url": "assets/bosses/king-nag/nag-atlas.png?v=f79e56f84ed2",
-    "sha256": "f79e56f84ed273f3c1488cc900e57a56a864a2f211a264890408565a30310ce1",
+    "url": "assets/bosses/king-nag/nag-atlas.png?v=e2d16c6b0011",
+    "sha256": "e2d16c6b00111cf56fb1dddc28d40efed22a18973212e2e6cada582c0c3de87a",
     "cellWidth": 711,
     "cellHeight": 583
   }

@@ -1,0 +1,164 @@
+{
+  "stage": 9,
+  "title": "Kraitworks Tower",
+  "boss": "nag",
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 12,
+  "files": [
+    {
+      "key": "stage9_lobby_mid",
+      "file": "stage9_lobby_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "0ba44159047fe59d33f2ef12fdb1cbac292a255166946deff65bf73e3efcdf82",
+      "url": "assets/stage9/stage9_lobby_mid.png?v=0ba44159047f",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage9_office_mid",
+      "file": "stage9_office_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "f14e7504f3d20e1a425034b1d25ebed4b95f32ba006ff5be3ef502fe3cc96787",
+      "url": "assets/stage9/stage9_office_mid.png?v=f14e7504f3d2",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage9_executive_mid",
+      "file": "stage9_executive_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "b1e1872229e1e6fb7f9ebd6d4ecb174d91844874d87d782a337597d1888e3a4c",
+      "url": "assets/stage9/stage9_executive_mid.png?v=b1e1872229e1",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage9_marble_floor",
+      "file": "stage9_marble_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "26a78cc447ff27b15852464f3dec6e398842c1da519d392da1897c4d17cb9362",
+      "url": "assets/stage9/stage9_marble_floor.png?v=26a78cc447ff",
+      "floorY": 400,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage9_carpet_floor",
+      "file": "stage9_carpet_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a6b68a78275d05fb6be8ad97b0eadd7aec880876644bb7b496f67b3c25613108",
+      "url": "assets/stage9/stage9_carpet_floor.png?v=a6b68a78275d",
+      "floorY": 400,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage9_elevator_shaft",
+      "file": "stage9_elevator_shaft.png",
+      "width": 1280,
+      "height": 7680,
+      "sha256": "f7b7daa020c43c77624c46359157438868c8c6840d191d1aef4b89c7f33637a0",
+      "url": "assets/stage9/stage9_elevator_shaft.png?v=f7b7daa020c4",
+      "verticalRepeat": true,
+      "mirroredVerticalJoin": true
+    },
+    {
+      "key": "stage9_elevator_interior",
+      "file": "stage9_elevator_interior.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "f48ef308bbf868a2d13f4f2fb58423eb67e4a08217a09a641f3f92cc1f386a43",
+      "url": "assets/stage9/stage9_elevator_interior.png?v=f48ef308bbf8",
+      "scrollFactor": 1
+    },
+    {
+      "key": "stage9_rooftop_backdrop",
+      "file": "stage9_rooftop_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "3fc4c204566683c7c5206f9c62778d9514895a67f731db9f73193aee3a8e8e1e",
+      "url": "assets/stage9/stage9_rooftop_backdrop.png?v=3fc4c2045666",
+      "scrollFactor": 1
+    }
+  ],
+  "route": [
+    {
+      "screen": 1,
+      "section": 0,
+      "backdrop": "stage9_lobby_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 2,
+      "section": 0,
+      "backdrop": "stage9_lobby_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 3,
+      "section": 0,
+      "backdrop": "stage9_lobby_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 4,
+      "section": 1,
+      "backdrop": "stage9_office_mid",
+      "floor": "stage9_carpet_floor"
+    },
+    {
+      "screen": 5,
+      "section": 1,
+      "backdrop": "stage9_office_mid",
+      "floor": "stage9_carpet_floor"
+    },
+    {
+      "screen": 6,
+      "section": 1,
+      "backdrop": "stage9_office_mid",
+      "floor": "stage9_carpet_floor"
+    },
+    {
+      "screen": 7,
+      "section": 2,
+      "backdrop": "stage9_elevator_interior",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 8,
+      "section": 2,
+      "backdrop": "stage9_elevator_interior",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 9,
+      "section": 3,
+      "backdrop": "stage9_executive_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 10,
+      "section": 3,
+      "backdrop": "stage9_executive_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 11,
+      "section": 3,
+      "backdrop": "stage9_executive_mid",
+      "floor": "stage9_marble_floor"
+    },
+    {
+      "screen": 12,
+      "section": 4,
+      "backdrop": "stage9_rooftop_backdrop",
+      "floor": "stage9_marble_floor"
+    }
+  ]
+}
