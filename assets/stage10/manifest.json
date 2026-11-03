@@ -1,0 +1,125 @@
+{
+  "stage": 10,
+  "runtimeResolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "screenCount": 7,
+  "files": [
+    {
+      "key": "stage10_sky",
+      "file": "stage10_sky.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "8efd98c00fb16e2a1e13198f41756ed4f81dc0b4693f162e0b1033e5b8e4ea3a",
+      "url": "assets/stage10/stage10_sky.png?v=8efd98c00fb1"
+    },
+    {
+      "key": "stage10_city_below",
+      "file": "stage10_city_below.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "8008588e4d9256d4b1a4d1f2cf544dbc23b646dc6b1ad98a66d2f40581a758fd",
+      "url": "assets/stage10/stage10_city_below.png?v=8008588e4d92",
+      "baseline": 400,
+      "scrollFactor": 0.15
+    },
+    {
+      "key": "stage10_spire_mid",
+      "file": "stage10_spire_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "65ec8200a98987b6e5382e1f347fd552f237c84527488bb2206f98d83e47fc87",
+      "url": "assets/stage10/stage10_spire_mid.png?v=65ec8200a989",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage10_array_mid",
+      "file": "stage10_array_mid.png",
+      "width": 5120,
+      "height": 720,
+      "sha256": "2c380e47cfe17eb3afff17ec5e4fb466f19d3379fd75f28272ee897b22f29f2c",
+      "url": "assets/stage10/stage10_array_mid.png?v=2c380e47cfe1",
+      "baseline": 400,
+      "scrollFactor": 0.55
+    },
+    {
+      "key": "stage10_catwalk_floor",
+      "file": "stage10_catwalk_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "4c28c0e207a300d22afa83369977e0f9af49bed89f520daa0a7fdf9f4f69b401",
+      "url": "assets/stage10/stage10_catwalk_floor.png?v=4c28c0e207a3",
+      "floorY": 400,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage10_platform_floor",
+      "file": "stage10_platform_floor.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "9fc75859faeb6525284c5228e209bd883b1090a2ad268d99c034a7520e804093",
+      "url": "assets/stage10/stage10_platform_floor.png?v=9fc75859faeb",
+      "floorY": 400,
+      "mirroredHalfTiles": true
+    },
+    {
+      "key": "stage10_crown_backdrop",
+      "file": "stage10_crown_backdrop.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "a8ca7af76cd914e4aaebbab87e0c179c582f513becfef87abbcdfa9cd628b25c",
+      "url": "assets/stage10/stage10_crown_backdrop.png?v=a8ca7af76cd9",
+      "baseline": 650
+    }
+  ],
+  "provenance": [
+    {
+      "key": "sky",
+      "source": "storm-sky-v1.png",
+      "sha256": "df0cf255633d15d69220a3e84ff881180880a5a3f753649374fa4f2975cb32f5"
+    },
+    {
+      "key": "city_below",
+      "source": "distant-city-v1.png",
+      "sha256": "4f90b1f873238f04af239a1461d66f0bd6fb1a7999b4849ec7ad914d2998974d"
+    },
+    {
+      "key": "spire_mid",
+      "source": "spire-exterior-v2.png",
+      "sha256": "44ecca22666fec7b85f5fe464bfd09a7e4b19c0a0ec315b98e276419b3c6e0e2"
+    },
+    {
+      "key": "catwalk_floor",
+      "source": "floor-catwalk-v2.png",
+      "sha256": "5f427d144f39ad4ac274480a9a93108010911177c9e760b8389ef910aebcffd3"
+    },
+    {
+      "key": "platform_floor",
+      "source": "floor-power-deck-v2.png",
+      "sha256": "639c60e7a971fac882f3eeb47e6460b64a3c154a045175c66af6661f7279de68"
+    },
+    {
+      "key": "crown_backdrop",
+      "source": "boss-arena-backdrop-v3.png",
+      "sha256": "58d8dcfcbfc0cd1cf4e1638925d932eb964aab4782950a62c15d10102b6e561d"
+    },
+    {
+      "key": "hazards",
+      "source": "hazards-sheet-v2.png",
+      "sha256": "e7a57c109ad3eb3ce3a7cb5e96a5a512b5f70b189fd5ec1bb60c906e266f911f"
+    },
+    {
+      "key": "props",
+      "source": "power-antenna-props-v1.png",
+      "sha256": "f3f899dfc9c3cb45eed84b94138a983356133c15dbd3e0714d10945b5f767cc5"
+    },
+    {
+      "key": "title",
+      "source": "final-stage-intro-plaque-v1.png",
+      "sha256": "e17bfcd905c3a8e800e5fa0225a282a2546d473acb46168517792f4f3664836c"
+    }
+  ],
+  "missing": []
+}

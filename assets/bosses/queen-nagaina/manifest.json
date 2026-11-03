@@ -1,0 +1,1315 @@
+{
+  "standingHeight": 330,
+  "giantStandingHeight": 990,
+  "gutter": 24,
+  "frames": [
+    {
+      "key": "nagaina-00",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-00.png?v=3c091dcbe3fb",
+      "sha256": "3c091dcbe3fb455bfd8feedc1cca2d584a430f8504fb8a6c6be900506363e5d5",
+      "width": 542,
+      "height": 408,
+      "scale": 0.9939759036144579,
+      "originX": 0.5993234932349323,
+      "originY": 0.928921568627451,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 90,
+        "t": 54,
+        "r": 460,
+        "b": 385
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 31,
+        "r": 493,
+        "b": 390
+      },
+      "pixels": 64224,
+      "giant": false
+    },
+    {
+      "key": "nagaina-01",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-01.png?v=b774ba807fcf",
+      "sha256": "b774ba807fcfe3818cd672eb232e756dc033b11a74cda1f6b1414adffc87d9be",
+      "width": 513,
+      "height": 445,
+      "scale": 0.9939759036144579,
+      "originX": 0.5584223826564753,
+      "originY": 0.8876404494382022,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 590,
+        "t": 54,
+        "r": 932,
+        "b": 384
+      },
+      "sourceBounds": {
+        "l": 529,
+        "t": 14,
+        "r": 993,
+        "b": 410
+      },
+      "pixels": 61575,
+      "giant": false
+    },
+    {
+      "key": "nagaina-02",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-02.png?v=3529c001b567",
+      "sha256": "3529c001b5676713fa19e9fe71c9d61d6321045f86a3722731333061f6539e95",
+      "width": 534,
+      "height": 448,
+      "scale": 0.9939759036144579,
+      "originX": 0.5342363456722041,
+      "originY": 0.890625,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 1057,
+        "t": 54,
+        "r": 1407,
+        "b": 385
+      },
+      "sourceBounds": {
+        "l": 995,
+        "t": 11,
+        "r": 1480,
+        "b": 410
+      },
+      "pixels": 62491,
+      "giant": false
+    },
+    {
+      "key": "nagaina-03",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-03.png?v=cd7d8de8ebfd",
+      "sha256": "cd7d8de8ebfdaf9ab57d9cc0c4b3de1d072fc8167180901233aed21fc4d4879b",
+      "width": 481,
+      "height": 442,
+      "scale": 0.9939759036144579,
+      "originX": 0.592570599185151,
+      "originY": 0.8868778280542986,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 1554,
+        "t": 54,
+        "r": 1893,
+        "b": 386
+      },
+      "sourceBounds": {
+        "l": 1482,
+        "t": 19,
+        "r": 1914,
+        "b": 412
+      },
+      "pixels": 61519,
+      "giant": false
+    },
+    {
+      "key": "nagaina-04",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-04.png?v=58bfa213a219",
+      "sha256": "58bfa213a2191b5f49879caf9f4bdaca0979df7cdf135ed22440fa9d6e0d8979",
+      "width": 549,
+      "height": 437,
+      "scale": 0.9939759036144579,
+      "originX": 0.5874895605581465,
+      "originY": 0.8832951945080092,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 4,
+      "bounds": {
+        "l": 52,
+        "t": 437,
+        "r": 497,
+        "b": 746
+      },
+      "sourceBounds": {
+        "l": 25,
+        "t": 385,
+        "r": 525,
+        "b": 773
+      },
+      "pixels": 74833,
+      "giant": false
+    },
+    {
+      "key": "nagaina-05",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-05.png?v=886db7c98e47",
+      "sha256": "886db7c98e477ce8592e0ec54f165ab6519e23a6a2f2beac1861e2a1e5716403",
+      "width": 517,
+      "height": 460,
+      "scale": 0.9939759036144579,
+      "originX": 0.6948800791554371,
+      "originY": 0.8456521739130435,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 5,
+      "bounds": {
+        "l": 554,
+        "t": 437,
+        "r": 973,
+        "b": 745
+      },
+      "sourceBounds": {
+        "l": 526,
+        "t": 381,
+        "r": 994,
+        "b": 792
+      },
+      "pixels": 67579,
+      "giant": false
+    },
+    {
+      "key": "nagaina-06",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-06.png?v=8ebc5884edc7",
+      "sha256": "8ebc5884edc7677e42424a792d5e2e1b166c9eee475458c966155532a0e37e66",
+      "width": 554,
+      "height": 443,
+      "scale": 0.9939759036144579,
+      "originX": 0.6870188640870494,
+      "originY": 0.8781038374717833,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 6,
+      "bounds": {
+        "l": 1016,
+        "t": 437,
+        "r": 1463,
+        "b": 746
+      },
+      "sourceBounds": {
+        "l": 995,
+        "t": 382,
+        "r": 1500,
+        "b": 776
+      },
+      "pixels": 69769,
+      "giant": false
+    },
+    {
+      "key": "nagaina-07",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-07.png?v=a91abe49ce5a",
+      "sha256": "a91abe49ce5a5a5746b596e81328a2a54a450aeeab515f289c31b48bed3a1caa",
+      "width": 497,
+      "height": 409,
+      "scale": 0.9939759036144579,
+      "originX": 0.6702834456402847,
+      "originY": 0.8704156479217604,
+      "source": "sheet-01-idle-glide-v1.png",
+      "local": 7,
+      "bounds": {
+        "l": 1540,
+        "t": 438,
+        "r": 1940,
+        "b": 745
+      },
+      "sourceBounds": {
+        "l": 1502,
+        "t": 414,
+        "r": 1950,
+        "b": 774
+      },
+      "pixels": 67692,
+      "giant": false
+    },
+    {
+      "key": "nagaina-08",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-08.png?v=bf8d88e2322c",
+      "sha256": "bf8d88e2322cc1246b93b52b7ea8c6a0890f9fd24284bc40e1cbf7ee94c113c5",
+      "width": 536,
+      "height": 422,
+      "scale": 0.9939759036144579,
+      "originX": 0.4839023989606744,
+      "originY": 0.9123222748815166,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 54,
+        "t": 24,
+        "r": 536,
+        "b": 379
+      },
+      "sourceBounds": {
+        "l": 49,
+        "t": 19,
+        "r": 536,
+        "b": 392
+      },
+      "pixels": 75027,
+      "giant": false
+    },
+    {
+      "key": "nagaina-09",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-09.png?v=61eaf7cadc1b",
+      "sha256": "61eaf7cadc1b53f24403b1fe5077f03251b27c135b637a5d634b75bc97bee4a1",
+      "width": 671,
+      "height": 419,
+      "scale": 0.9939759036144579,
+      "originX": 0.40454536977224825,
+      "originY": 0.9069212410501193,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 518,
+        "t": 33,
+        "r": 1140,
+        "b": 380
+      },
+      "sourceBounds": {
+        "l": 518,
+        "t": 25,
+        "r": 1140,
+        "b": 395
+      },
+      "pixels": 79725,
+      "giant": false
+    },
+    {
+      "key": "nagaina-10",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-10.png?v=57ab37e81f9a",
+      "sha256": "57ab37e81f9ad843d43ddd6ebbe0ed57b48ecf2833414af3ca73fac0e0b777a9",
+      "width": 524,
+      "height": 420,
+      "scale": 0.9939759036144579,
+      "originX": 0.5079216652930931,
+      "originY": 0.9214285714285714,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 1039,
+        "t": 25,
+        "r": 1510,
+        "b": 381
+      },
+      "sourceBounds": {
+        "l": 1039,
+        "t": 19,
+        "r": 1514,
+        "b": 390
+      },
+      "pixels": 73124,
+      "giant": false
+    },
+    {
+      "key": "nagaina-11",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-11.png?v=8f515e5e9998",
+      "sha256": "8f515e5e9998e3c4f28e1779b48e9839f4efdb7bbf368f665c739a233f28ffa1",
+      "width": 442,
+      "height": 419,
+      "scale": 0.9939759036144579,
+      "originX": 0.5636018308549215,
+      "originY": 0.9212410501193318,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 1518,
+        "t": 23,
+        "r": 1904,
+        "b": 381
+      },
+      "sourceBounds": {
+        "l": 1515,
+        "t": 20,
+        "r": 1908,
+        "b": 390
+      },
+      "pixels": 71392,
+      "giant": false
+    },
+    {
+      "key": "nagaina-12",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-12.png?v=6aeb3fb5c2b9",
+      "sha256": "6aeb3fb5c2b95933ee9625f0376282d7b2d39ae64cbb473947a54e1fc762b825",
+      "width": 550,
+      "height": 432,
+      "scale": 0.9939759036144579,
+      "originX": 0.5963473216713496,
+      "originY": 0.9259259259259259,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 4,
+      "bounds": {
+        "l": 43,
+        "t": 406,
+        "r": 462,
+        "b": 768
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 393,
+        "r": 501,
+        "b": 776
+      },
+      "pixels": 78378,
+      "giant": false
+    },
+    {
+      "key": "nagaina-13",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-13.png?v=79776e964de2",
+      "sha256": "79776e964de21ac8fbd8e373d350c6d9e94845aceeef4a9b55ffff6128feea6a",
+      "width": 632,
+      "height": 413,
+      "scale": 0.9939759036144579,
+      "originX": 0.5251578849925258,
+      "originY": 0.9200968523002422,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 5,
+      "bounds": {
+        "l": 543,
+        "t": 416,
+        "r": 1086,
+        "b": 767
+      },
+      "sourceBounds": {
+        "l": 503,
+        "t": 412,
+        "r": 1086,
+        "b": 776
+      },
+      "pixels": 85364,
+      "giant": false
+    },
+    {
+      "key": "nagaina-14",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-14.png?v=25cb70606007",
+      "sha256": "25cb706060074c1b8bc423c81d9367ffdd20059a5cc45869cfb91f4eea2ad2f9",
+      "width": 482,
+      "height": 425,
+      "scale": 0.9939759036144579,
+      "originX": 0.7542644443669584,
+      "originY": 0.92,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 6,
+      "bounds": {
+        "l": 1051,
+        "t": 411,
+        "r": 1479,
+        "b": 769
+      },
+      "sourceBounds": {
+        "l": 1051,
+        "t": 403,
+        "r": 1484,
+        "b": 779
+      },
+      "pixels": 85534,
+      "giant": false
+    },
+    {
+      "key": "nagaina-15",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-15.png?v=1ba9f77162aa",
+      "sha256": "1ba9f77162aa5131cac1815e33ff41210a9e81ab74cc5d2f1b251d189026e1bc",
+      "width": 434,
+      "height": 436,
+      "scale": 0.9939759036144579,
+      "originX": 0.5746810374376358,
+      "originY": 0.8876146788990825,
+      "source": "sheet-02-scepter-strikes-v1.png",
+      "local": 7,
+      "bounds": {
+        "l": 1539,
+        "t": 407,
+        "r": 1911,
+        "b": 767
+      },
+      "sourceBounds": {
+        "l": 1532,
+        "t": 405,
+        "r": 1917,
+        "b": 792
+      },
+      "pixels": 70274,
+      "giant": false
+    },
+    {
+      "key": "nagaina-16",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-16.png?v=715c5c4be4b6",
+      "sha256": "715c5c4be4b6bfb4c6308fb692b2d460cc57811e969280e32f2f5cde8ba654c4",
+      "width": 508,
+      "height": 375,
+      "scale": 1.11864406779661,
+      "originX": 0.5452268793911678,
+      "originY": 0.8773333333333333,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 73,
+        "t": 62,
+        "r": 422,
+        "b": 353
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 49,
+        "r": 459,
+        "b": 375
+      },
+      "pixels": 56183,
+      "giant": false
+    },
+    {
+      "key": "nagaina-17",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-17.png?v=76637837feed",
+      "sha256": "76637837feed21d9f832d6f8c747b60fea32fa2e02eb22cc6f09618ee180a912",
+      "width": 510,
+      "height": 393,
+      "scale": 1.11864406779661,
+      "originX": 0.5065979332909635,
+      "originY": 0.9236641221374046,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 556,
+        "t": 61,
+        "r": 914,
+        "b": 355
+      },
+      "sourceBounds": {
+        "l": 509,
+        "t": 17,
+        "r": 970,
+        "b": 361
+      },
+      "pixels": 59494,
+      "giant": false
+    },
+    {
+      "key": "nagaina-18",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-18.png?v=27a9ab47eb79",
+      "sha256": "27a9ab47eb79c946e9b584f2bc173ac1f37a659211f4d15706faf3b7524511e4",
+      "width": 493,
+      "height": 383,
+      "scale": 1.11864406779661,
+      "originX": 0.5621572775256208,
+      "originY": 0.8929503916449086,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 1034,
+        "t": 61,
+        "r": 1408,
+        "b": 356
+      },
+      "sourceBounds": {
+        "l": 976,
+        "t": 39,
+        "r": 1420,
+        "b": 373
+      },
+      "pixels": 66899,
+      "giant": false
+    },
+    {
+      "key": "nagaina-19",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-19.png?v=a37d5c98fb4b",
+      "sha256": "a37d5c98fb4b23c2887d992faf483702188f2388ee515dde81a4d3f70a357f66",
+      "width": 481,
+      "height": 395,
+      "scale": 1.11864406779661,
+      "originX": 0.5343461077249474,
+      "originY": 0.9037974683544304,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 1540,
+        "t": 60,
+        "r": 1921,
+        "b": 355
+      },
+      "sourceBounds": {
+        "l": 1500,
+        "t": 23,
+        "r": 1932,
+        "b": 369
+      },
+      "pixels": 68318,
+      "giant": false
+    },
+    {
+      "key": "nagaina-20",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-20.png?v=0ffe2bbc0a05",
+      "sha256": "0ffe2bbc0a057b6383a9e0dd1b230e5d66f534c3baa032b0e614bc74a69477f9",
+      "width": 509,
+      "height": 378,
+      "scale": 1.11864406779661,
+      "originX": 0.47587038346216093,
+      "originY": 0.8703703703703703,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 4,
+      "bounds": {
+        "l": 63,
+        "t": 469,
+        "r": 450,
+        "b": 742
+      },
+      "sourceBounds": {
+        "l": 37,
+        "t": 438,
+        "r": 497,
+        "b": 767
+      },
+      "pixels": 63055,
+      "giant": false
+    },
+    {
+      "key": "nagaina-21",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-21.png?v=d423e0ece740",
+      "sha256": "d423e0ece74036644f1aa059d88fdd3813c1d5be92900da4c1f210bc94f68767",
+      "width": 555,
+      "height": 436,
+      "scale": 1.11864406779661,
+      "originX": 0.49806212462462457,
+      "originY": 0.8876146788990825,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 5,
+      "bounds": {
+        "l": 550,
+        "t": 395,
+        "r": 968,
+        "b": 743
+      },
+      "sourceBounds": {
+        "l": 493,
+        "t": 381,
+        "r": 999,
+        "b": 768
+      },
+      "pixels": 81049,
+      "giant": false
+    },
+    {
+      "key": "nagaina-22",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-22.png?v=a13e401ee5e4",
+      "sha256": "a13e401ee5e4d1ea07d39ba2f0ad8d567e066662645edb445f7f3e9e3e6a8b6f",
+      "width": 529,
+      "height": 429,
+      "scale": 1.11864406779661,
+      "originX": 0.4405918237449937,
+      "originY": 0.9300699300699301,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 6,
+      "bounds": {
+        "l": 1031,
+        "t": 391,
+        "r": 1459,
+        "b": 748
+      },
+      "sourceBounds": {
+        "l": 1008,
+        "t": 374,
+        "r": 1488,
+        "b": 754
+      },
+      "pixels": 111424,
+      "giant": false
+    },
+    {
+      "key": "nagaina-23",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-23.png?v=26a15e9d0968",
+      "sha256": "26a15e9d0968136ac2fdefd9d8dd481990b882b9fbc683e49512becef3456e60",
+      "width": 489,
+      "height": 429,
+      "scale": 1.11864406779661,
+      "originX": 0.47805942146094815,
+      "originY": 0.9393939393939394,
+      "source": "sheet-03-hypno-gaze-summon-v1.png",
+      "local": 7,
+      "bounds": {
+        "l": 1528,
+        "t": 388,
+        "r": 1949,
+        "b": 746
+      },
+      "sourceBounds": {
+        "l": 1516,
+        "t": 368,
+        "r": 1956,
+        "b": 748
+      },
+      "pixels": 115599,
+      "giant": false
+    },
+    {
+      "key": "nagaina-24",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-24.png?v=231ab474ace9",
+      "sha256": "231ab474ace9537d048042d075a0405404bc788de7fd663f22d36cc83fe7454b",
+      "width": 523,
+      "height": 405,
+      "scale": 1,
+      "originX": 0.48273425228872163,
+      "originY": 0.9111111111111111,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 73,
+        "t": 24,
+        "r": 454,
+        "b": 361
+      },
+      "sourceBounds": {
+        "l": 33,
+        "t": 17,
+        "r": 507,
+        "b": 373
+      },
+      "pixels": 73593,
+      "giant": false
+    },
+    {
+      "key": "nagaina-25",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-25.png?v=11e8d06e25c4",
+      "sha256": "11e8d06e25c4af5af98d39b0d36e0840e000e9c97af624ca19405bfa38a70ea0",
+      "width": 508,
+      "height": 411,
+      "scale": 1,
+      "originX": 0.5667200294994535,
+      "originY": 0.9075425790754258,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 560,
+        "t": 16,
+        "r": 927,
+        "b": 359
+      },
+      "sourceBounds": {
+        "l": 509,
+        "t": 11,
+        "r": 968,
+        "b": 373
+      },
+      "pixels": 82570,
+      "giant": false
+    },
+    {
+      "key": "nagaina-26",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-26.png?v=6f8e56c636c4",
+      "sha256": "6f8e56c636c4fbde2f98f250318126b72f4ac14744afbdeb7ddd33407581214b",
+      "width": 498,
+      "height": 355,
+      "scale": 1,
+      "originX": 0.5238851632946884,
+      "originY": 0.9042253521126761,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 1046,
+        "t": 67,
+        "r": 1453,
+        "b": 358
+      },
+      "sourceBounds": {
+        "l": 1033,
+        "t": 62,
+        "r": 1482,
+        "b": 368
+      },
+      "pixels": 76389,
+      "giant": false
+    },
+    {
+      "key": "nagaina-27",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-27.png?v=9bd81dc94047",
+      "sha256": "9bd81dc94047df1bb4a094b88025cc4d1ffb5a2dc619d4b7640ffcda5ae71ef1",
+      "width": 499,
+      "height": 383,
+      "scale": 1,
+      "originX": 0.5588310412469571,
+      "originY": 0.9216710182767625,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 1550,
+        "t": 71,
+        "r": 1915,
+        "b": 367
+      },
+      "sourceBounds": {
+        "l": 1502,
+        "t": 39,
+        "r": 1952,
+        "b": 373
+      },
+      "pixels": 69389,
+      "giant": false
+    },
+    {
+      "key": "nagaina-28",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-28.png?v=a65c73c349d1",
+      "sha256": "a65c73c349d168e7257426767c54b7adb19d1c207641d3fbe98176f07bb8f268",
+      "width": 465,
+      "height": 424,
+      "scale": 1,
+      "originX": 0.47277519769047327,
+      "originY": 0.9245283018867925,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 4,
+      "bounds": {
+        "l": 72,
+        "t": 402,
+        "r": 412,
+        "b": 754
+      },
+      "sourceBounds": {
+        "l": 67,
+        "t": 387,
+        "r": 483,
+        "b": 762
+      },
+      "pixels": 96896,
+      "giant": false
+    },
+    {
+      "key": "nagaina-29",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-29.png?v=2c3e61aeaabb",
+      "sha256": "2c3e61aeaabbdbdacfc74fdfb964ae864de941c47064508aeb07becd9f3bd932",
+      "width": 523,
+      "height": 467,
+      "scale": 1,
+      "originX": 0.4981620504071681,
+      "originY": 0.892933618843683,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 5,
+      "bounds": {
+        "l": 560,
+        "t": 387,
+        "r": 926,
+        "b": 766
+      },
+      "sourceBounds": {
+        "l": 521,
+        "t": 374,
+        "r": 995,
+        "b": 792
+      },
+      "pixels": 122715,
+      "giant": false
+    },
+    {
+      "key": "nagaina-30",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-30.png?v=a91df0d7352c",
+      "sha256": "a91df0d7352cb3d3a4c95f7de236321477b55b2c051d870a3aed71451efa2f0c",
+      "width": 568,
+      "height": 472,
+      "scale": 1,
+      "originX": 0.5126392684464998,
+      "originY": 0.9110169491525424,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 6,
+      "bounds": {
+        "l": 1065,
+        "t": 378,
+        "r": 1454,
+        "b": 774
+      },
+      "sourceBounds": {
+        "l": 996,
+        "t": 369,
+        "r": 1515,
+        "b": 792
+      },
+      "pixels": 137517,
+      "giant": false
+    },
+    {
+      "key": "nagaina-31",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-31.png?v=9cdfbfb5d049",
+      "sha256": "9cdfbfb5d049042a605089c8a2a54f7141398f40fb46e6a934d62f4e04e42ce3",
+      "width": 485,
+      "height": 422,
+      "scale": 1,
+      "originX": 0.5352617355620056,
+      "originY": 0.9028436018957346,
+      "source": "sheet-04-block-hit-transform-v1.png",
+      "local": 7,
+      "bounds": {
+        "l": 1576,
+        "t": 422,
+        "r": 1910,
+        "b": 775
+      },
+      "sourceBounds": {
+        "l": 1516,
+        "t": 419,
+        "r": 1952,
+        "b": 792
+      },
+      "pixels": 99224,
+      "giant": false
+    },
+    {
+      "key": "nagaina-32",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-32.png?v=97a4772e2593",
+      "sha256": "97a4772e2593bf10c545035c6a4047e806961b6fcfb52077b0ff187d218b1ae7",
+      "width": 791,
+      "height": 541,
+      "scale": 1.15,
+      "originX": 0.47914032869785084,
+      "originY": 0.9242144177449169,
+      "source": "sheet-05-giant-nagaina-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 184,
+        "t": 39,
+        "r": 671,
+        "b": 496
+      },
+      "sourceBounds": {
+        "l": 65,
+        "t": 21,
+        "r": 807,
+        "b": 513
+      },
+      "pixels": 150492,
+      "giant": true
+    },
+    {
+      "key": "nagaina-33",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-33.png?v=82b4ec22675d",
+      "sha256": "82b4ec22675d63193ccc57521e624e5756413b9f1c7857dd6c0000f33ce48427",
+      "width": 673,
+      "height": 555,
+      "scale": 1.15,
+      "originX": 0.5973254086181278,
+      "originY": 0.8828828828828829,
+      "source": "sheet-05-giant-nagaina-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 960,
+        "t": 33,
+        "r": 1437,
+        "b": 496
+      },
+      "sourceBounds": {
+        "l": 817,
+        "t": 31,
+        "r": 1441,
+        "b": 537
+      },
+      "pixels": 159402,
+      "giant": true
+    },
+    {
+      "key": "nagaina-34",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-34.png?v=289806edd8a5",
+      "sha256": "289806edd8a51e3baede13bf1d63a763e19b0e96d423fcad07d22d9a9d7c7b55",
+      "width": 954,
+      "height": 617,
+      "scale": 1.15,
+      "originX": 0.29245283018867924,
+      "originY": 0.9059967585089141,
+      "source": "sheet-05-giant-nagaina-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 33,
+        "t": 555,
+        "r": 835,
+        "b": 989
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 455,
+        "r": 905,
+        "b": 1023
+      },
+      "pixels": 274192,
+      "giant": true
+    },
+    {
+      "key": "nagaina-35",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-35.png?v=cf79696a2bc8",
+      "sha256": "cf79696a2bc83dd5fc764c6db021aae46d2463c901e53f0d163bbbdb7dd68ee3",
+      "width": 577,
+      "height": 499,
+      "scale": 1.15,
+      "originX": 0.48700173310225303,
+      "originY": 0.9378757515030061,
+      "source": "sheet-05-giant-nagaina-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 1004,
+        "t": 549,
+        "r": 1458,
+        "b": 988
+      },
+      "sourceBounds": {
+        "l": 943,
+        "t": 545,
+        "r": 1471,
+        "b": 995
+      },
+      "pixels": 150365,
+      "giant": true
+    },
+    {
+      "key": "nagaina-36",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-36.png?v=1ac7611f193b",
+      "sha256": "1ac7611f193b67020a2349c070a59dff4c618df1c53b01c7165c29f22320be84",
+      "width": 785,
+      "height": 544,
+      "scale": 1.15,
+      "originX": 0.5070063694267516,
+      "originY": 0.9466911764705882,
+      "source": "sheet-06-giant-defeat-v1.png",
+      "local": 0,
+      "bounds": {
+        "l": 97,
+        "t": 10,
+        "r": 662,
+        "b": 497
+      },
+      "sourceBounds": {
+        "l": 31,
+        "t": 7,
+        "r": 767,
+        "b": 502
+      },
+      "pixels": 211032,
+      "giant": true
+    },
+    {
+      "key": "nagaina-37",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-37.png?v=53594f4eaced",
+      "sha256": "53594f4eaced0756bc55e9211aa62e1194f10bd77ad38be4223fc21998712a0b",
+      "width": 765,
+      "height": 532,
+      "scale": 1.15,
+      "originX": 0.5869281045751634,
+      "originY": 0.9492481203007519,
+      "source": "sheet-06-giant-defeat-v1.png",
+      "local": 1,
+      "bounds": {
+        "l": 877,
+        "t": 19,
+        "r": 1427,
+        "b": 497
+      },
+      "sourceBounds": {
+        "l": 775,
+        "t": 17,
+        "r": 1491,
+        "b": 500
+      },
+      "pixels": 191015,
+      "giant": true
+    },
+    {
+      "key": "nagaina-38",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-38.png?v=a91b84bc7653",
+      "sha256": "a91b84bc76530c0774ebb45a9d7907dc7fe2a4fc63c7b402fb6421085cba13ac",
+      "width": 780,
+      "height": 601,
+      "scale": 1.15,
+      "originX": 0.5820512820512821,
+      "originY": 0.9417637271214643,
+      "source": "sheet-06-giant-defeat-v1.png",
+      "local": 2,
+      "bounds": {
+        "l": 43,
+        "t": 507,
+        "r": 704,
+        "b": 1012
+      },
+      "sourceBounds": {
+        "l": 0,
+        "t": 471,
+        "r": 731,
+        "b": 1023
+      },
+      "pixels": 254065,
+      "giant": true
+    },
+    {
+      "key": "nagaina-39",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-39.png?v=e8fea9475073",
+      "sha256": "e8fea9475073705bafaf7497d8ec04b336a0fe6997ddf6d4235d0757fa905606",
+      "width": 771,
+      "height": 557,
+      "scale": 1.15,
+      "originX": 0.5616083009079118,
+      "originY": 0.9317773788150808,
+      "source": "sheet-06-giant-defeat-v1.png",
+      "local": 3,
+      "bounds": {
+        "l": 837,
+        "t": 504,
+        "r": 1458,
+        "b": 995
+      },
+      "sourceBounds": {
+        "l": 781,
+        "t": 501,
+        "r": 1503,
+        "b": 1009
+      },
+      "pixels": 234052,
+      "giant": true
+    }
+  ],
+  "headFrames": [
+    {
+      "key": "nagaina-head-32",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-head-32.png?v=920dc63a06ba",
+      "sha256": "920dc63a06ba50962026469855af6d72504edbb11949dca65993229035eeef83",
+      "width": 428,
+      "height": 298,
+      "originX": 0.5607476635514018,
+      "originY": 0.5536912751677853,
+      "sourceBounds": {
+        "x": 184,
+        "y": 39,
+        "w": 380,
+        "h": 250
+      },
+      "source": "sheet-05-giant-nagaina-v1.png"
+    },
+    {
+      "key": "nagaina-head-33",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-head-33.png?v=bbd26b5f81d6",
+      "sha256": "bbd26b5f81d68a5608e12c98e9bc2a4546565d6292b908bce846a326bec3d408",
+      "width": 398,
+      "height": 318,
+      "originX": 0.6633165829145728,
+      "originY": 0.5062893081761006,
+      "sourceBounds": {
+        "x": 960,
+        "y": 33,
+        "w": 350,
+        "h": 270
+      },
+      "source": "sheet-05-giant-nagaina-v1.png"
+    },
+    {
+      "key": "nagaina-head-35",
+      "url": "assets/bosses/queen-nagaina/frames/nagaina-head-35.png?v=54a453b4a0e5",
+      "sha256": "54a453b4a0e516e6c4a09bb1de373729ce8b58de533fea44b7d7827359db6642",
+      "width": 368,
+      "height": 308,
+      "originX": 0.7065217391304348,
+      "originY": 0.5357142857142857,
+      "sourceBounds": {
+        "x": 1004,
+        "y": 549,
+        "w": 320,
+        "h": 260
+      },
+      "source": "sheet-05-giant-nagaina-v1.png"
+    }
+  ],
+  "animations": {
+    "idle": {
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "durations": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "loop": true
+    },
+    "glide": {
+      "frames": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "durations": [
+        140,
+        140,
+        140,
+        140
+      ],
+      "loop": true
+    },
+    "thrust": {
+      "frames": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "durations": [
+        400,
+        180,
+        310,
+        310
+      ]
+    },
+    "spin": {
+      "frames": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "durations": [
+        500,
+        120,
+        120,
+        660
+      ]
+    },
+    "gaze": {
+      "frames": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "durations": [
+        240,
+        230,
+        230,
+        1000
+      ]
+    },
+    "summon": {
+      "frames": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "durations": [
+        340,
+        330,
+        330,
+        801
+      ]
+    },
+    "block": {
+      "frames": [
+        24,
+        25
+      ],
+      "durations": [
+        180,
+        320
+      ],
+      "loop": true
+    },
+    "hit": {
+      "frames": [
+        26,
+        27
+      ],
+      "durations": [
+        200,
+        250
+      ]
+    },
+    "transform": {
+      "frames": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "durations": [
+        500,
+        500,
+        500,
+        500
+      ]
+    },
+    "giantIdle": {
+      "frames": [
+        32
+      ],
+      "durations": [
+        1000
+      ],
+      "loop": true
+    },
+    "giantStrike": {
+      "frames": [
+        33,
+        32
+      ],
+      "durations": [
+        900,
+        1720
+      ]
+    },
+    "giantBreath": {
+      "frames": [
+        32,
+        34
+      ],
+      "durations": [
+        800,
+        2800
+      ]
+    },
+    "giantHurt": {
+      "frames": [
+        35
+      ],
+      "durations": [
+        350
+      ]
+    },
+    "defeat": {
+      "frames": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "durations": [
+        300,
+        350,
+        450,
+        900
+      ],
+      "hold": true
+    }
+  },
+  "sources": [
+    {
+      "file": "sheet-01-idle-glide-v1.png",
+      "sha256": "f3445d20a09e48a5b185017556c6213b5927cea71476b7d72b6f27c81ac48787"
+    },
+    {
+      "file": "sheet-02-scepter-strikes-v1.png",
+      "sha256": "a74c880ee5229254def272dd5011fad73e836ac3590fe004270152101b389025"
+    },
+    {
+      "file": "sheet-03-hypno-gaze-summon-v1.png",
+      "sha256": "69e7d370593fed94a35b57bb44302405fc8746e23d09ee4030bd9ad5e7dbc181"
+    },
+    {
+      "file": "sheet-04-block-hit-transform-v1.png",
+      "sha256": "691362d5575d56640ad06af0c0e3099c9744d2427d1131383f311bfd3aab8b3e"
+    },
+    {
+      "file": "sheet-05-giant-nagaina-v1.png",
+      "sha256": "a4505dc643c9b5b8b061c488fec445e0cfd614d6239ee726b026df71ae9a83ee"
+    },
+    {
+      "file": "sheet-06-giant-defeat-v1.png",
+      "sha256": "ce9b4a0afe1db8908c5cd89eaaf425bc115f8c779846ec557ee02903f0fc0c46"
+    }
+  ],
+  "atlases": [
+    {
+      "url": "assets/bosses/queen-nagaina/nagaina-normal-atlas.png?v=d0e2348cf77e",
+      "sha256": "d0e2348cf77e1e4765e4bcc4d009a8601f7d2425f5dd7629e526b4733e47eade",
+      "cellWidth": 671,
+      "cellHeight": 472,
+      "giant": false
+    },
+    {
+      "url": "assets/bosses/queen-nagaina/nagaina-giant-atlas.png?v=842fe1f0caf8",
+      "sha256": "842fe1f0caf845673799d9e73911d7e2e07250c7f0d68c53ad764d6808bbea34",
+      "cellWidth": 954,
+      "cellHeight": 617,
+      "giant": true
+    }
+  ],
+  "missing": []
+}
